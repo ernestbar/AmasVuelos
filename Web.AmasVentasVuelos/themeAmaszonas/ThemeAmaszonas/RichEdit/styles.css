@@ -1,0 +1,554 @@
+.dxreControl_ThemeAmaszonas
+{
+    border-bottom: 1px solid #DFDFDF;
+    font: 14px 'Roboto Regular', Helvetica, 'Droid Sans', Tahoma, Geneva, sans-serif;
+}
+.dxreControl_ThemeAmaszonas.dxre-notInternalRibbon
+{
+    border-top: 1px solid #DFDFDF;
+}
+.dxreControl_ThemeAmaszonas .dxre-rulerWrapper
+{
+    padding-top: 2px;
+    background-color: #FFFFFF;
+    border-left: 1px solid #DFDFDF;
+    border-right: 1px solid #DFDFDF;
+}
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-columnHandleLeftPart,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-columnHandleRightPart
+{
+    width: 5px;
+    background-color: #bcb8b8;
+}
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerTableColumnSeparatorHandle,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerDivisions,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerDivisions div,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerMarginLeftPanel,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerMarginRightPanel,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerMarginLeftHandlePanel,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerMarginRightHandlePanel,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-columnHandle,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-columnHandle > div
+{
+    height: 12px;
+}
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerTableColumnSeparatorHandle > div
+{
+    margin-top: 2px;
+}
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerDivisions,
+.dxreControl_ThemeAmaszonas .dxre-rulerWrapper .dxre-rulertabAlignBox > div
+{
+    background-color: #fff;
+}
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerTableColumnSeparatorHandle,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerMarginLeftPanel,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerMarginRightPanel,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerMarginLeftHandlePanel,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerMarginRightHandlePanel,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-columnHandle,
+.dxreControl_ThemeAmaszonas .dxre-rulerWrapper .dxre-rulertabAlignBox
+{
+    background-color: #d3d3d3;
+}
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerDivisions .dxre-rulerMinorDivision,
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerDivisions .dxre-rulerMajorDivision
+{
+    border-left: 1px solid #a3a3a3;
+}
+.dxreControl_ThemeAmaszonas .dxre-ruler .dxre-rulerDivisions .dxre-rulerNumberDivision
+{
+    color: #4e4e4e;
+}
+.dxreControl_ThemeAmaszonas .dxre-rulerLine
+{
+    border-left: 1px dashed #717171;
+}
+.dxreControl_ThemeAmaszonas .dxre-rulerLine.table
+{
+    border-left: 1px solid #4DB6AC;
+}
+.dxreControl_ThemeAmaszonas .dxre-table-border-line
+{
+    background-color: #4DB6AC;
+}
+.dxreControl_ThemeAmaszonas .dxre-leftIdentDragHandleBody
+{
+    background-color: white;
+    border: 1px solid #929292;
+    border-top: none;
+    height: 6px;
+}
+.dxreControl_ThemeAmaszonas .dxrControl_ThemeAmaszonas .dxr-minBtn
+{
+    margin-top: 7px;
+}
+.dxreControl_ThemeAmaszonas .dxrControl_ThemeAmaszonas .dxtcLite_ThemeAmaszonas .dxtc-leftIndent
+{
+    width: 0px;
+}
+.dxreControl_ThemeAmaszonas .dxre-page
+{
+    border: 1px solid #C0C0C0;
+    -webkit-box-shadow: rgba(0,0,0,0.1) 0 1px 3px;
+    -moz-box-shadow: rgba(0,0,0,0.1) 0 1px 3px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+.dxreControl_ThemeAmaszonas .dxre-view
+{
+    background: #FFFFFF;
+    border-left: 1px solid #DFDFDF;
+    border-right: 1px solid #DFDFDF;
+}
+.dxreControl_ThemeAmaszonas .dxre-bar
+{
+    background-color: #FFFFFF;
+    border-top: 1px solid #DFDFDF;
+    border-left: 1px solid #DFDFDF;
+    border-right: 1px solid #DFDFDF;
+    height: 22px;
+}
+.dxreControl_ThemeAmaszonas .dxre-bar .dxre-loadingPanel
+{
+    float: right;
+    color: #484848;
+    margin: 3px 2px 0 0;
+}
+.dxreControl_ThemeAmaszonas .dxre-bar .dxre-loadingPanel .dx
+{
+    line-height: 0;
+}
+html.dxIE.dxBrowserVersion-9 .dxreControl_ThemeAmaszonas .dxre-bar .dxre-loadingPanel .dxlp-loadingImage
+{
+    width: 16px;
+    height: 16px;
+    background: url('reLoadingOnStatusBar.gif');
+}
+.dxreControl_ThemeAmaszonas .dxre-bar .dxre-loadingPanel .dxlp-loadingImage
+{
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+    -khtml-border-radius: 50%;
+    border-radius: 50%;
+    animation: dxLoadSpinSys 1s linear infinite;
+    border: 2px solid #35B86B;
+    border-top: 2px solid #EEE;
+    width: 12px;
+    height: 12px;
+}
+/* QuickSearch*/
+.dxreControl_ThemeAmaszonas .dxre-quickSearchPanel
+{
+    background-color: #FAFAFA;
+    border: 1px solid #a7a7a7;
+    border-top: none;
+    padding: 6px;
+}
+.dxreControl_ThemeAmaszonas .dxre-quickSearchPanel .dxre-quickSearchButtonEdit
+{
+    width: 300px;
+}
+.dxreControl_ThemeAmaszonas .dxre-quickSearchPanel .dxre-quickSearchButton:first-of-type
+{
+    margin-left: 10px;
+    margin-right: 5px;
+}
+.dxreControl_ThemeAmaszonas .dxre-quickSearchPanel .dxre-quickSearchButton:nth-of-type(3)
+{
+    margin-left: 32px;
+    margin-right: 8px;
+}
+.dxreControl_ThemeAmaszonas .dxre-quickSearchPanel .dxre-quickSearchButton
+{
+    margin-top: 6px;
+}
+.dxreControl_ThemeAmaszonas .dxre-quickSearchPanel .dxre-quickSearchButton,
+.dxreControl_ThemeAmaszonas .dxre-quickSearchPanel .dxre-quickSearchButton .dxb
+{
+    padding: 0px !important;
+    background: none !important;
+    border: none !important;
+    box-shadow: none;
+    width: 0px;
+}
+/*Dialogs Style*/
+.dxreControl_ThemeAmaszonas .dxreDlgParagraphForm .dxtc-content
+{
+    min-width: 520px;
+    min-height: 420px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgParagraphForm .dxre-dialogControlsWrapper > tbody > tr > td:first-child
+{
+    text-align: left;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgLayoutForm .dxtc-content
+{
+    width: 620px;
+    height: 670px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgLayoutForm .dxre-dialogVerticalGroup .dxflCaptionCell_ThemeAmaszonas
+{
+    min-width: 80px !important;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgLayoutForm .dxre-layoutFormOriginalSizeGroup .dxflCaptionCellSys
+{
+    padding-top: 2px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgLayoutForm .dxtc-content .dxflButtonItemSys
+{
+    text-align: center;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgLayoutForm .dxre-buttonLable
+{
+    display: block;
+    text-align: center;
+    padding-top: 3px;
+    padding-bottom: 5px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgPageSetupForm .dxtc-content
+{
+    min-width: 420px;
+    min-height: 290px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgPageSetupForm .dxtc-content .dxre-offsetGroup
+{
+    width: 70%;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgPageSetupForm .dxflGroupCell_ThemeAmaszonas
+{
+    padding: 0px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgPageSetupForm .dxre-dialogContentGroup > tbody > tr:last-child > td
+{
+    padding-left: 10px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgTablePropertiesForm .dxtc-content
+{
+    min-width: 535px;
+    min-height: 670px;
+}
+.dxreControl_ThemeAmaszonas .dxre-dialogCellBlock
+{
+    width: 78px;
+    height: 29px;
+    background-color: #E0E0E0;
+    border: dashed 1px #818181;
+}
+.dxreControl_ThemeAmaszonas .dxre-dialogCellMargins td.dxre-dialogLGC
+{
+    padding-left: 4px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgTablePropertiesForm .dxre-dialogCellNavigation
+{
+    width: auto;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgTablePropertiesForm .dxre-dialogCellNavigation td.dxre-dialogLGC
+{
+    padding: 0px;
+}
+.dxreControl_ThemeAmaszonas .dxreTableBorderPreview
+{
+    position: absolute;
+    width: 130px;
+    left: 420px;
+    top: 120px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgBorderShadingForm .dxtc-content
+{
+    width: 600px;
+    height: 300px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgBorderShadingForm .dxtc-content .dxflGroup_ThemeAmaszonas
+{
+    width: auto;
+}
+.dxreControl_ThemeAmaszonas .dxreBorderButton.dxbButton_ThemeAmaszonas.dxbTSys
+{
+    visibility: hidden;
+    width: 0px;
+}
+.dxreControl_ThemeAmaszonas .dxreBorderButton div.dxb
+{
+    padding: 3px !important;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgColumnsForm
+{
+    width: 400px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgColumnsForm .dxreDlgColumnsEditorMainTable > tbody > tr > td
+{
+    padding: 2px 4px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgColumnsForm .dxreDlgColumnsEditor
+{
+    height: 130px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgColumnsForm .dxreDlgColumnsEditor .dxreDlgTextBox
+{
+    width: 40px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgColumnsForm .dxreDlgColumnsEditor .dxreDlgSpinEdit
+{
+    width: 90px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgColumnsForm .dxreDlgTableWidth .dxreDlgCenter
+{
+    padding: 0 5px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgAlertForm
+{
+    width: 350px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgSaveFileForm
+{
+    width: 470px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgInsertMergeFieldForm
+{
+    width: 350px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgInsertMergeFieldForm .dxeListBox_ThemeAmaszonas
+{
+    height: 250px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFinishMergeForm
+{
+    width: 300px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgBookmarksForm
+{
+    width: 365px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgOpenFileForm
+{
+    width: 800px;
+    height: 500px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgOpenFileForm .dxre-dialogContentGroup,
+.dxreControl_ThemeAmaszonas .dxreDlgOpenFileForm .dxre-dialogContentGroup .dxflItem_ThemeAmaszonas
+{
+    padding: 0px !important;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFindReplaceForm
+{
+    width: 540px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFindReplaceForm .dxre-searchResultList
+{
+    width: 100%;
+    height: 180px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFindReplaceForm .dxre-searchResultList .dxeListBoxItem_ThemeAmaszonas
+{
+    white-space: normal;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFindReplaceForm .dxre-dialogContentGroup
+{
+    padding: 32px !important;
+    padding-bottom: 36px !important;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFindReplaceForm .dxre-searchResult .dxflNestedControlCell_ThemeAmaszonas
+{
+    text-align: right;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFindReplaceForm .dxre-searchResult .dxre-dialogLINC
+{
+    white-space: nowrap;
+    color: #acacac;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFindReplaceForm .dxre-dialogControlsWrapper > tbody > tr > td:first-child
+{
+    width: auto;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFindReplaceForm .dxre-dialogControlsWrapper > tbody > tr > td:nth-child(2)
+{
+    width: 100%;
+    text-align: left;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFindReplaceForm .dxre-replaceInfo
+{
+    position: absolute;
+    left: 0;
+    visibility: hidden;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFindReplaceForm .dxre-replaceInfo > div
+{
+    padding: 8px;
+    background: #FFF2C0;
+}
+.dxreControl_ThemeAmaszonas .dxre-dialogShortEditor
+{
+    width: 80px;
+}
+.dxreControl_ThemeAmaszonas .dxre-dialogEditor
+{
+    width: 150px;
+}
+.dxreControl_ThemeAmaszonas .dxre-dialogLongEditor
+{
+    width: 180px;
+}
+.dxreControl_ThemeAmaszonas .dxre-EmptyLine
+{
+    height: 10px;
+}
+.dxreControl_ThemeAmaszonas .dxre-Separator
+{
+    height: 0px;
+    margin: 5px 0;
+    border-top: 1px solid #808080;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFooterBtn
+{
+    width: 80px;
+    margin-left: 8px;
+}
+.dxreControl_ThemeAmaszonas table.dxre-dialogLG.dxflGroupSys.dxre-dialogContentGroup
+{
+    padding: 11px;
+}
+.dxreControl_ThemeAmaszonas .dxre-dialogFooter
+{
+    width: auto;
+    padding: 11px;
+    border-top: solid 1px #dfdfdf;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgInsertImageForm .dxreDlgImagePreview
+{
+    margin-top: 10px;
+    width: 100%;
+    height: 170px;
+    color: #878787;
+    border: dashed 1px #cac8c8;
+    text-align: center;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgInsertImageForm .dxreDlgInsertImagePanel
+{
+    width: 350px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgInsertImageForm .dxre-dialogRadioNavigation
+{
+    padding-bottom: 10px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgNumberingListForm .dxreDlgMainContainer
+{
+    width: 520px;
+    height: 220px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgHyperlinkForm
+{
+    width: 520px;
+}
+.dxreControl_ThemeAmaszonas .dxflFormLayout_ThemeAmaszonas .dxre-editorsGroupWithPaddings
+{
+    padding-left: 32px;
+    padding-right: 32px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgHyperlinkForm.dxflFormLayout_ThemeAmaszonas .dxre-editorsGroupWithPaddings
+{
+    padding-left: 5px;
+    padding-right: 2px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgTabsForm
+{
+    width: 380px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgTabsForm .dxreDlgTabsList
+{
+    height: 70px;
+}
+.dxreControl_ThemeAmaszonas .dxreMultiLevelNumberingListBoxLayout,
+.dxreControl_ThemeAmaszonas .dxreMultiLevelNumberingListBoxLayout .dxlbd
+{
+    width: 40px;
+    height: 100% !important;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgMultiLevelNumberingListForm .dxre-dialogContentGroup td.dxre-dialogLGC:first-child
+{
+    padding-left: 8px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgMultiLevelNumberingListForm .dxflFullHeightItemCellSys
+{
+    padding-left: 0px !important;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgBulletedListForm .dxreDlgBulletPresetBtn
+{
+    width: 45px;
+    margin: 8px 0px 12px 5px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgNumberingListForm .dxreDlgNumberingListPreview
+{
+    padding: 10px;
+    width: 90px;
+    height: 90px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFontForm .dxreCheckBoxContainer .dxflGroup_ThemeAmaszonas
+{
+    padding: 0px 0px 0px 30px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgFontForm .dxreCheckBoxContainer .dxflItem_ThemeAmaszonas
+{
+    padding: 0px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgListBox
+{
+    padding: 1px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgSymbolsForm .dxreDlgSymbolsList
+{
+    width: 510px;
+    height: 250px;
+    border: 1px solid #C0C0C0;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgListBox > div
+{
+    border: 1px solid #C0C0C0;
+    margin: 1px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgSymbolsForm .dxreDlgListBox > div
+{
+    width: 37px;
+    height: 37px;
+    line-height: 37px;
+    font-size: large;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgNumberingListForm .dxreDlgListBox > div
+{
+    width: 120px;
+    height: 120px;
+    line-height: 120px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgListBox .dxreDlgListHover
+{
+    background-color: #EEE;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgListBox .dxreDlgListSelected
+{
+    background-color: #35B86B;
+    color: #FFF;
+}
+.dxreControl_ThemeAmaszonas .dxre-dialogLGB > .dxre-dialogLG tr:first-child > .dxre-dialogLGC > .dxre-dialogLI
+{
+    padding-top: 2px;
+}
+.dxreControl_ThemeAmaszonas .dxre-dialogLayoutWhithPaddings tr td:first-child .dxflItemSys
+{
+    padding-left: 5px;
+}
+.dxreControl_ThemeAmaszonas .dxre-dialogLayoutWhithPaddings tr td:first-child .dxflTextItemSys
+{
+    padding-left: 0px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgSpellingForm .dxreDlgSS,
+.dxreControl_ThemeAmaszonas .dxreDlgSpellingForm .dxreDlgSM
+{
+    width: 320px;
+    height: 100px;
+}
+.dxreControl_ThemeAmaszonas .dxreDlgSpellingForm .dxreDlgSB
+{
+    min-width: 80px;
+    width: 100%;
+    margin-bottom: 5px;
+}

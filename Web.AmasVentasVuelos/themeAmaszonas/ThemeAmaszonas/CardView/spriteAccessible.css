@@ -1,0 +1,197 @@
+.dx-acc-r .dxCardView_CTClearFilter_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTClearFilterDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTDeleteRow_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTDeleteRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTEditRow_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTEditRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTNewRow_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTNewRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTRefresh_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTRefreshDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTShowCustomizationWindow_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTShowCustomizationWindowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTShowFilterEditor_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTShowFilterEditorDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTShowSearchPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_CTShowSearchPanelDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_gvCellError_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_gvFilterRowButton_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_gvHeaderFilter_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_gvHeaderFilterActive_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_gvHeaderSortDown_ThemeAmaszonas:before,
+.dx-acc-r .dxCardView_gvHeaderSortUp_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxCardView_CTShowCustomizationWindow_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxCardView_CTShowSearchPanel_ThemeAmaszonas:before
+
+{
+    content: url('sprite.svg');
+
+}
+.dx-acc-r .dxCardView_CTClearFilter_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -204px;
+
+}
+.dx-acc-r .dxCardView_CTClearFilterDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -68px;
+
+}
+.dx-acc-r .dxCardView_CTDeleteRow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -119px;
+
+}
+.dx-acc-r .dxCardView_CTDeleteRowDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -170px;
+
+}
+.dx-acc-r .dxCardView_CTEditRow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -187px;
+
+}
+.dx-acc-r .dxCardView_CTEditRowDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: 0px;
+
+}
+.dx-acc-r .dxCardView_CTNewRow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -17px;
+
+}
+.dx-acc-r .dxCardView_CTNewRowDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -34px;
+
+}
+.dx-acc-r .dxCardView_CTRefresh_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -85px;
+
+}
+.dx-acc-r .dxCardView_CTRefreshDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -51px;
+
+}
+.dx-acc-r .dxCardView_CTShowCustomizationWindow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -153px;
+
+}
+.dx-acc-r .dxCardView_CTShowCustomizationWindowDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -102px;
+
+}
+.dx-acc-r .dxCardView_CTShowFilterEditor_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -253px;
+
+}
+.dx-acc-r .dxCardView_CTShowFilterEditorDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -313px;
+
+}
+.dx-acc-r .dxCardView_CTShowSearchPanel_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -343px;
+
+}
+.dx-acc-r .dxCardView_CTShowSearchPanelDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -136px;
+
+}
+.dx-acc-r .dxCardView_gvCellError_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -238px;
+
+}
+.dx-acc-r .dxCardView_gvFilterRowButton_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -328px;
+
+}
+.dx-acc-r .dxCardView_gvHeaderFilter_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -298px;
+
+}
+.dx-acc-r .dxCardView_gvHeaderFilterActive_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -283px;
+
+}
+.dx-acc-r .dxCardView_gvHeaderSortDown_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -358px;
+
+}
+.dx-acc-r .dxCardView_gvHeaderSortUp_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -371px;
+
+}
+.dx-acc-r .dxm-checked .dxCardView_CTShowCustomizationWindow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -221px;
+
+}
+.dx-acc-r .dxm-checked .dxCardView_CTShowSearchPanel_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -268px;
+
+}

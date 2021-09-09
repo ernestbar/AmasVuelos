@@ -1,0 +1,743 @@
+.dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtClear_ThemeAmaszonas,
+.dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtDropDown_ThemeAmaszonas,
+.dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtEllipsis_ThemeAmaszonas,
+.dxeButtonEditButtonPressed_ThemeAmaszonas .dxEditors_edtDropDown_ThemeAmaszonas,
+.dxeButtonEditButtonPressed_ThemeAmaszonas .dxEditors_edtEllipsis_ThemeAmaszonas,
+.dxEditors_caRefresh_ThemeAmaszonas,
+.dxEditors_edtBinaryImageDelete_ThemeAmaszonas,
+.dxEditors_edtBinaryImageOpenDialog_ThemeAmaszonas,
+.dxEditors_edtCalendarFNNextYear_ThemeAmaszonas,
+.dxEditors_edtCalendarFNPrevYear_ThemeAmaszonas,
+.dxEditors_edtCalendarNextMonth_ThemeAmaszonas,
+.dxEditors_edtCalendarNextMonthDisabled_ThemeAmaszonas,
+.dxEditors_edtCalendarNextYear_ThemeAmaszonas,
+.dxEditors_edtCalendarNextYearDisabled_ThemeAmaszonas,
+.dxEditors_edtCalendarPrevMonth_ThemeAmaszonas,
+.dxEditors_edtCalendarPrevMonthDisabled_ThemeAmaszonas,
+.dxEditors_edtCalendarPrevYear_ThemeAmaszonas,
+.dxEditors_edtCalendarPrevYearDisabled_ThemeAmaszonas,
+.dxEditors_edtClear_ThemeAmaszonas,
+.dxEditors_edtDETSClockFace_ThemeAmaszonas,
+.dxEditors_edtDETSHourHand_ThemeAmaszonas,
+.dxEditors_edtDETSMinuteHand_ThemeAmaszonas,
+.dxEditors_edtDETSSecondHand_ThemeAmaszonas,
+.dxEditors_edtDropDown_ThemeAmaszonas,
+.dxEditors_edtDropDownDisabled_ThemeAmaszonas,
+.dxEditors_edtEllipsis_ThemeAmaszonas,
+.dxEditors_edtEllipsisDisabled_ThemeAmaszonas,
+.dxEditors_edtError_ThemeAmaszonas,
+.dxEditors_edtRadioButtonChecked_ThemeAmaszonas,
+.dxEditors_edtRadioButtonCheckedDisabled_ThemeAmaszonas,
+.dxEditors_edtRadioButtonUnchecked_ThemeAmaszonas,
+.dxEditors_edtRadioButtonUncheckedDisabled_ThemeAmaszonas,
+.dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas,
+.dxEditors_edtSpinEditDecrementImageDisabled_ThemeAmaszonas,
+.dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas,
+.dxEditors_edtSpinEditIncrementImageDisabled_ThemeAmaszonas,
+.dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas,
+.dxEditors_edtSpinEditLargeDecImageDisabled_ThemeAmaszonas,
+.dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas,
+.dxEditors_edtSpinEditLargeIncImageDisabled_ThemeAmaszonas,
+.dxEditors_edtTBDecBtn_ThemeAmaszonas,
+.dxEditors_edtTBIncBtn_ThemeAmaszonas,
+.dxEditors_edtTokenBoxTokenRemoveButton_ThemeAmaszonas,
+.dxEditors_edtTokenBoxTokenRemoveButtonDisabled_ThemeAmaszonas,
+.dxEditors_fcadd_ThemeAmaszonas,
+.dxEditors_fcaddhot_ThemeAmaszonas,
+.dxEditors_fcgroupaddcondition_ThemeAmaszonas,
+.dxEditors_fcgroupaddgroup_ThemeAmaszonas,
+.dxEditors_fcgroupand_ThemeAmaszonas,
+.dxEditors_fcgroupnotand_ThemeAmaszonas,
+.dxEditors_fcgroupnotor_ThemeAmaszonas,
+.dxEditors_fcgroupor_ThemeAmaszonas,
+.dxEditors_fcgroupremove_ThemeAmaszonas,
+.dxEditors_fcopany_ThemeAmaszonas,
+.dxEditors_fcopavg_ThemeAmaszonas,
+.dxEditors_fcopbegin_ThemeAmaszonas,
+.dxEditors_fcopbetween_ThemeAmaszonas,
+.dxEditors_fcopblank_ThemeAmaszonas,
+.dxEditors_fcopcontain_ThemeAmaszonas,
+.dxEditors_fcopcount_ThemeAmaszonas,
+.dxEditors_fcopend_ThemeAmaszonas,
+.dxEditors_fcopequal_ThemeAmaszonas,
+.dxEditors_fcopexists_ThemeAmaszonas,
+.dxEditors_fcopgreater_ThemeAmaszonas,
+.dxEditors_fcopgreaterorequal_ThemeAmaszonas,
+.dxEditors_fcopless_ThemeAmaszonas,
+.dxEditors_fcoplessorequal_ThemeAmaszonas,
+.dxEditors_fcoplike_ThemeAmaszonas,
+.dxEditors_fcopmax_ThemeAmaszonas,
+.dxEditors_fcopmin_ThemeAmaszonas,
+.dxEditors_fcopnotany_ThemeAmaszonas,
+.dxEditors_fcopnotbetween_ThemeAmaszonas,
+.dxEditors_fcopnotblank_ThemeAmaszonas,
+.dxEditors_fcopnotcontain_ThemeAmaszonas,
+.dxEditors_fcopnotequal_ThemeAmaszonas,
+.dxEditors_fcopnotlike_ThemeAmaszonas,
+.dxEditors_fcopsum_ThemeAmaszonas,
+.dxEditors_fcoptypefield_ThemeAmaszonas,
+.dxEditors_fcoptypefieldhot_ThemeAmaszonas,
+.dxEditors_fcoptypevalue_ThemeAmaszonas,
+.dxEditors_fcoptypevaluehot_ThemeAmaszonas,
+.dxEditors_fcremove_ThemeAmaszonas,
+.dxEditors_fcremovehot_ThemeAmaszonas,
+.dxeSpinDecButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas,
+.dxeSpinDecButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas,
+.dxeSpinIncButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas,
+.dxeSpinIncButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas,
+.dxeSpinLargeDecButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas,
+.dxeSpinLargeDecButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas,
+.dxeSpinLargeIncButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas,
+.dxeSpinLargeIncButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas,
+.dxeTBDecBtnHover_ThemeAmaszonas.dxEditors_edtTBDecBtn_ThemeAmaszonas,
+.dxeTBDecBtnPressed_ThemeAmaszonas.dxEditors_edtTBDecBtn_ThemeAmaszonas,
+.dxeTBIncBtnHover_ThemeAmaszonas.dxEditors_edtTBIncBtn_ThemeAmaszonas,
+.dxeTBIncBtnPressed_ThemeAmaszonas.dxEditors_edtTBIncBtn_ThemeAmaszonas,
+.dxeTrackBar_ThemeAmaszonas.dxeDisabled_ThemeAmaszonas .dxEditors_edtTBDecBtn_ThemeAmaszonas,
+.dxeTrackBar_ThemeAmaszonas.dxeDisabled_ThemeAmaszonas .dxEditors_edtTBIncBtn_ThemeAmaszonas,
+.dxgvFocusedRow_ThemeAmaszonas .dxEditors_edtRadioButtonChecked_ThemeAmaszonas
+{
+    background-image: url('sprite.svg');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtClear_ThemeAmaszonas
+{
+    background-position: -394px -31px;
+    width: 20px;
+    height: 20px;
+}
+.dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtDropDown_ThemeAmaszonas
+{
+    background-position: -423px -33px;
+    width: 10px;
+    height: 10px;
+}
+.dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtEllipsis_ThemeAmaszonas
+{
+    background-position: -255px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxeButtonEditButtonPressed_ThemeAmaszonas .dxEditors_edtDropDown_ThemeAmaszonas
+{
+    background-position: -423px -44px;
+    width: 10px;
+    height: 10px;
+}
+.dxeButtonEditButtonPressed_ThemeAmaszonas .dxEditors_edtEllipsis_ThemeAmaszonas
+{
+    background-position: -187px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_caRefresh_ThemeAmaszonas
+{
+    background-position: -394px -197px;
+    width: 28px;
+    height: 28px;
+}
+.dxEditors_edtBinaryImageDelete_ThemeAmaszonas
+{
+    background-position: -17px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_edtBinaryImageOpenDialog_ThemeAmaszonas
+{
+    background-position: -394px -252px;
+    width: 20px;
+    height: 20px;
+}
+.dxEditors_edtCalendarFNNextYear_ThemeAmaszonas
+{
+    background-position: -423px 0px;
+    width: 12px;
+    height: 12px;
+}
+.dxEditors_edtCalendarFNPrevYear_ThemeAmaszonas
+{
+    background-position: -423px -142px;
+    width: 12px;
+    height: 12px;
+}
+.dxEditors_edtCalendarNextMonth_ThemeAmaszonas
+{
+    background-position: -395px -184px;
+    width: 12px;
+    height: 12px;
+}
+.dxEditors_edtCalendarNextMonthDisabled_ThemeAmaszonas
+{
+    background-position: -423px -103px;
+    width: 12px;
+    height: 12px;
+}
+.dxEditors_edtCalendarNextYear_ThemeAmaszonas
+{
+    background-position: -423px -116px;
+    width: 12px;
+    height: 12px;
+}
+.dxEditors_edtCalendarNextYearDisabled_ThemeAmaszonas
+{
+    background-position: -394px -171px;
+    width: 12px;
+    height: 12px;
+}
+.dxEditors_edtCalendarPrevMonth_ThemeAmaszonas
+{
+    background-position: -423px -129px;
+    width: 12px;
+    height: 12px;
+}
+.dxEditors_edtCalendarPrevMonthDisabled_ThemeAmaszonas
+{
+    background-position: -423px -155px;
+    width: 12px;
+    height: 12px;
+}
+.dxEditors_edtCalendarPrevYear_ThemeAmaszonas
+{
+    background-position: -423px -77px;
+    width: 12px;
+    height: 12px;
+}
+.dxEditors_edtCalendarPrevYearDisabled_ThemeAmaszonas
+{
+    background-position: -423px -90px;
+    width: 12px;
+    height: 12px;
+}
+.dxEditors_edtClear_ThemeAmaszonas
+{
+    background-position: -394px -315px;
+    width: 20px;
+    height: 20px;
+}
+.dxEditors_edtDETSClockFace_ThemeAmaszonas
+{
+    background-position: -197px 0px;
+    width: 196px;
+    height: 196px;
+}
+.dxEditors_edtDETSHourHand_ThemeAmaszonas
+{
+    background-position: 0px -197px;
+    width: 196px;
+    height: 196px;
+}
+.dxEditors_edtDETSMinuteHand_ThemeAmaszonas
+{
+    background-position: -197px -197px;
+    width: 196px;
+    height: 196px;
+}
+.dxEditors_edtDETSSecondHand_ThemeAmaszonas
+{
+    background-position: 0px 0px;
+    width: 196px;
+    height: 196px;
+}
+.dxEditors_edtDropDown_ThemeAmaszonas
+{
+    background-position: -423px -66px;
+    width: 10px;
+    height: 10px;
+}
+.dxEditors_edtDropDownDisabled_ThemeAmaszonas
+{
+    background-position: -423px -55px;
+    width: 10px;
+    height: 10px;
+}
+.dxEditors_edtEllipsis_ThemeAmaszonas
+{
+    background-position: -34px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_edtEllipsisDisabled_ThemeAmaszonas
+{
+    background-position: -136px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_edtError_ThemeAmaszonas
+{
+    background-position: -221px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_edtRadioButtonChecked_ThemeAmaszonas
+{
+    background-position: -415px -315px;
+    width: 20px;
+    height: 20px;
+}
+.dxEditors_edtRadioButtonCheckedDisabled_ThemeAmaszonas
+{
+    background-position: -394px -273px;
+    width: 20px;
+    height: 20px;
+}
+.dxEditors_edtRadioButtonUnchecked_ThemeAmaszonas
+{
+    background-position: -415px -294px;
+    width: 20px;
+    height: 20px;
+}
+.dxEditors_edtRadioButtonUncheckedDisabled_ThemeAmaszonas
+{
+    background-position: -394px -294px;
+    width: 20px;
+    height: 20px;
+}
+.dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas
+{
+    background-position: -340px -411px;
+    width: 9px;
+    height: 9px;
+}
+.dxEditors_edtSpinEditDecrementImageDisabled_ThemeAmaszonas
+{
+    background-position: -423px -242px;
+    width: 9px;
+    height: 9px;
+}
+.dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas
+{
+    background-position: -423px -23px;
+    width: 9px;
+    height: 9px;
+}
+.dxEditors_edtSpinEditIncrementImageDisabled_ThemeAmaszonas
+{
+    background-position: -360px -411px;
+    width: 9px;
+    height: 9px;
+}
+.dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas
+{
+    background-position: -350px -411px;
+    width: 9px;
+    height: 9px;
+}
+.dxEditors_edtSpinEditLargeDecImageDisabled_ThemeAmaszonas
+{
+    background-position: -423px -222px;
+    width: 9px;
+    height: 9px;
+}
+.dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas
+{
+    background-position: -423px -197px;
+    width: 9px;
+    height: 9px;
+}
+.dxEditors_edtSpinEditLargeIncImageDisabled_ThemeAmaszonas
+{
+    background-position: -423px -13px;
+    width: 9px;
+    height: 9px;
+}
+.dxEditors_edtTBDecBtn_ThemeAmaszonas
+{
+    background-position: -394px 0px;
+    width: 28px;
+    height: 28px;
+}
+.dxEditors_edtTBIncBtn_ThemeAmaszonas
+{
+    background-position: -394px -52px;
+    width: 28px;
+    height: 28px;
+}
+.dxEditors_edtTokenBoxTokenRemoveButton_ThemeAmaszonas
+{
+    background-position: -415px -273px;
+    width: 20px;
+    height: 20px;
+}
+.dxEditors_edtTokenBoxTokenRemoveButtonDisabled_ThemeAmaszonas
+{
+    background-position: -415px -252px;
+    width: 20px;
+    height: 20px;
+}
+.dxEditors_fcadd_ThemeAmaszonas
+{
+    background-position: -255px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcaddhot_ThemeAmaszonas
+{
+    background-position: -51px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcgroupaddcondition_ThemeAmaszonas
+{
+    background-position: -408px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcgroupaddgroup_ThemeAmaszonas
+{
+    background-position: -102px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcgroupand_ThemeAmaszonas
+{
+    background-position: -51px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcgroupnotand_ThemeAmaszonas
+{
+    background-position: -272px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcgroupnotor_ThemeAmaszonas
+{
+    background-position: -170px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcgroupor_ThemeAmaszonas
+{
+    background-position: -102px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcgroupremove_ThemeAmaszonas
+{
+    background-position: -340px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopany_ThemeAmaszonas
+{
+    background-position: -34px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopavg_ThemeAmaszonas
+{
+    background-position: -238px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopbegin_ThemeAmaszonas
+{
+    background-position: -289px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopbetween_ThemeAmaszonas
+{
+    background-position: -289px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopblank_ThemeAmaszonas
+{
+    background-position: -136px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopcontain_ThemeAmaszonas
+{
+    background-position: -374px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopcount_ThemeAmaszonas
+{
+    background-position: -85px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopend_ThemeAmaszonas
+{
+    background-position: -17px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopequal_ThemeAmaszonas
+{
+    background-position: -323px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopexists_ThemeAmaszonas
+{
+    background-position: -119px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopgreater_ThemeAmaszonas
+{
+    background-position: -68px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopgreaterorequal_ThemeAmaszonas
+{
+    background-position: -170px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopless_ThemeAmaszonas
+{
+    background-position: -306px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcoplessorequal_ThemeAmaszonas
+{
+    background-position: -272px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcoplike_ThemeAmaszonas
+{
+    background-position: -187px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopmax_ThemeAmaszonas
+{
+    background-position: -119px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopmin_ThemeAmaszonas
+{
+    background-position: -357px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopnotany_ThemeAmaszonas
+{
+    background-position: -323px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopnotbetween_ThemeAmaszonas
+{
+    background-position: -68px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopnotblank_ThemeAmaszonas
+{
+    background-position: -221px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopnotcontain_ThemeAmaszonas
+{
+    background-position: -204px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopnotequal_ThemeAmaszonas
+{
+    background-position: -85px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopnotlike_ThemeAmaszonas
+{
+    background-position: -153px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcopsum_ThemeAmaszonas
+{
+    background-position: 0px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcoptypefield_ThemeAmaszonas
+{
+    background-position: 0px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcoptypefieldhot_ThemeAmaszonas
+{
+    background-position: -204px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcoptypevalue_ThemeAmaszonas
+{
+    background-position: -238px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcoptypevaluehot_ThemeAmaszonas
+{
+    background-position: -391px -394px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcremove_ThemeAmaszonas
+{
+    background-position: -153px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxEditors_fcremovehot_ThemeAmaszonas
+{
+    background-position: -306px -411px;
+    width: 16px;
+    height: 16px;
+}
+.dxeSpinDecButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas
+{
+    background-position: -423px -212px;
+    width: 9px;
+    height: 9px;
+}
+.dxeSpinDecButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas
+{
+    background-position: -423px -345px;
+    width: 9px;
+    height: 9px;
+}
+.dxeSpinIncButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas
+{
+    background-position: -423px -355px;
+    width: 9px;
+    height: 9px;
+}
+.dxeSpinIncButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas
+{
+    background-position: -394px -374px;
+    width: 9px;
+    height: 9px;
+}
+.dxeSpinLargeDecButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas
+{
+    background-position: -423px -232px;
+    width: 9px;
+    height: 9px;
+}
+.dxeSpinLargeDecButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas
+{
+    background-position: -425px -394px;
+    width: 9px;
+    height: 9px;
+}
+.dxeSpinLargeIncButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas
+{
+    background-position: -370px -411px;
+    width: 9px;
+    height: 9px;
+}
+.dxeSpinLargeIncButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas
+{
+    background-position: -398px -384px;
+    width: 9px;
+    height: 9px;
+}
+.dxeTBDecBtnHover_ThemeAmaszonas.dxEditors_edtTBDecBtn_ThemeAmaszonas
+{
+    background-position: -394px -110px;
+    width: 28px;
+    height: 28px;
+}
+.dxeTBDecBtnPressed_ThemeAmaszonas.dxEditors_edtTBDecBtn_ThemeAmaszonas
+{
+    background-position: -408px -168px;
+    width: 28px;
+    height: 28px;
+}
+.dxeTBIncBtnHover_ThemeAmaszonas.dxEditors_edtTBIncBtn_ThemeAmaszonas
+{
+    background-position: -408px -365px;
+    width: 28px;
+    height: 28px;
+}
+.dxeTBIncBtnPressed_ThemeAmaszonas.dxEditors_edtTBIncBtn_ThemeAmaszonas
+{
+    background-position: -394px -336px;
+    width: 28px;
+    height: 28px;
+}
+.dxeTrackBar_ThemeAmaszonas.dxeDisabled_ThemeAmaszonas .dxEditors_edtTBDecBtn_ThemeAmaszonas
+{
+    background-position: -394px -139px;
+    width: 28px;
+    height: 28px;
+}
+.dxeTrackBar_ThemeAmaszonas.dxeDisabled_ThemeAmaszonas .dxEditors_edtTBIncBtn_ThemeAmaszonas
+{
+    background-position: -394px -81px;
+    width: 28px;
+    height: 28px;
+}
+.dxgvFocusedRow_ThemeAmaszonas .dxEditors_edtRadioButtonChecked_ThemeAmaszonas
+{
+    background-position: -394px -231px;
+    width: 20px;
+    height: 20px;
+}
+.dxeTBVSys .dxEditors_edtTBMainDHPressed_ThemeAmaszonas,
+.dxeTBVSys .dxEditors_edtTBSecondaryDHPressed_ThemeAmaszonas,
+.dxeTBHSys .dxEditors_edtTBMainDHPressed_ThemeAmaszonas,
+.dxeTBHSys .dxEditors_edtTBSecondaryDHPressed_ThemeAmaszonas
+{
+	z-index: 7;
+}
+.dxEditors_edtError_ThemeAmaszonas,
+.dxEditors_edtCalendarPrevYear_ThemeAmaszonas,
+.dxEditors_edtCalendarPrevYearDisabled_ThemeAmaszonas,
+.dxEditors_edtCalendarPrevMonth_ThemeAmaszonas,
+.dxEditors_edtCalendarPrevMonthDisabled_ThemeAmaszonas,
+.dxEditors_edtCalendarNextMonth_ThemeAmaszonas,
+.dxEditors_edtCalendarNextMonthDisabled_ThemeAmaszonas,
+.dxEditors_edtCalendarNextYear_ThemeAmaszonas,
+.dxEditors_edtCalendarNextYearDisabled_ThemeAmaszonas,
+.dxEditors_edtCalendarFNPrevYear_ThemeAmaszonas,
+.dxEditors_edtCalendarFNNextYear_ThemeAmaszonas,
+.dxEditors_edtEllipsis_ThemeAmaszonas,
+.dxEditors_edtEllipsisDisabled_ThemeAmaszonas,
+.dxEditors_edtDropDown_ThemeAmaszonas,
+.dxEditors_edtDropDownDisabled_ThemeAmaszonas,
+.dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas,
+.dxEditors_edtSpinEditIncrementImageDisabled_ThemeAmaszonas,
+.dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas,
+.dxEditors_edtSpinEditDecrementImageDisabled_ThemeAmaszonas,
+.dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas,
+.dxEditors_edtSpinEditLargeIncImageDisabled_ThemeAmaszonas,
+.dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas,
+.dxEditors_edtSpinEditLargeDecImageDisabled_ThemeAmaszonas
+{
+	display:block;
+	margin:auto;
+}
+.dxEditors_edtCalendarFNPrevYear_ThemeAmaszonas
+{
+    margin-right: 8px;
+}
+.dxEditors_edtCalendarFNNextYear_ThemeAmaszonas
+{
+    margin-left: 8px;
+}
+.dxEditors_edtTBIncBtn_ThemeAmaszonas,
+.dxEditors_edtTBDecBtn_ThemeAmaszonas 
+{
+    -webkit-box-shadow: 0px 2px 2.82px 0.18px rgba(0, 0, 0, 0.24);
+    -moz-box-shadow: 0px 2px 2.82px 0.18px rgba(0, 0, 0, 0.24);
+    box-shadow: 0px 2px 2.82px 0.18px rgba(0, 0, 0, 0.24);
+}
+.dxEditors_edtDETSHourHand_ThemeAmaszonas {
+    z-index:9;
+}

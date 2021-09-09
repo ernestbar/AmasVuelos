@@ -1,0 +1,237 @@
+.dx-acc-r .dxm-checked .dxTreeList_CTShowCustomizationWindow_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CollapsedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CollapsedButtonRtl_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTCollapseRow_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTCollapseRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTDeleteRow_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTDeleteRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTEditRow_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTEditRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTExpandRow_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTExpandRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTFullCollapse_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTFullCollapseDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTFullExpand_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTFullExpandDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTNewRow_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTNewRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTRefresh_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTRefreshDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTShowCustomizationWindow_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_CTShowCustomizationWindowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_DragAndDropArrowDown_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_DragAndDropArrowUp_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_DragAndDropHide_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_DragAndDropNode_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_ExpandedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_ExpandedButtonRtl_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_SortAsc_ThemeAmaszonas:before,
+.dx-acc-r .dxTreeList_SortDesc_ThemeAmaszonas:before
+
+{
+    content: url('sprite.svg');
+
+}
+.dx-acc-r .dxm-checked .dxTreeList_CTShowCustomizationWindow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -170px;
+
+}
+.dx-acc-r .dxTreeList_CollapsedButton_ThemeAmaszonas:before
+
+{
+    left: -10px;
+    top: -366px;
+
+}
+.dx-acc-r .dxTreeList_CollapsedButtonRtl_ThemeAmaszonas:before
+
+{
+    left: -11px;
+    top: -377px;
+
+}
+.dx-acc-r .dxTreeList_CTCollapseRow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -136px;
+
+}
+.dx-acc-r .dxTreeList_CTCollapseRowDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -68px;
+
+}
+.dx-acc-r .dxTreeList_CTDeleteRow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -204px;
+
+}
+.dx-acc-r .dxTreeList_CTDeleteRowDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -119px;
+
+}
+.dx-acc-r .dxTreeList_CTEditRow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -85px;
+
+}
+.dx-acc-r .dxTreeList_CTEditRowDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -153px;
+
+}
+.dx-acc-r .dxTreeList_CTExpandRow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: 0px;
+
+}
+.dx-acc-r .dxTreeList_CTExpandRowDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -221px;
+
+}
+.dx-acc-r .dxTreeList_CTFullCollapse_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -306px;
+
+}
+.dx-acc-r .dxTreeList_CTFullCollapseDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -238px;
+
+}
+.dx-acc-r .dxTreeList_CTFullExpand_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -34px;
+
+}
+.dx-acc-r .dxTreeList_CTFullExpandDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -187px;
+
+}
+.dx-acc-r .dxTreeList_CTNewRow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -51px;
+
+}
+.dx-acc-r .dxTreeList_CTNewRowDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -323px;
+
+}
+.dx-acc-r .dxTreeList_CTRefresh_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -272px;
+
+}
+.dx-acc-r .dxTreeList_CTRefreshDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -255px;
+
+}
+.dx-acc-r .dxTreeList_CTShowCustomizationWindow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -289px;
+
+}
+.dx-acc-r .dxTreeList_CTShowCustomizationWindowDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -102px;
+
+}
+.dx-acc-r .dxTreeList_DragAndDropArrowDown_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -387px;
+
+}
+.dx-acc-r .dxTreeList_DragAndDropArrowUp_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -377px;
+
+}
+.dx-acc-r .dxTreeList_DragAndDropHide_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -17px;
+
+}
+.dx-acc-r .dxTreeList_DragAndDropNode_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -366px;
+
+}
+.dx-acc-r .dxTreeList_ExpandedButton_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -397px;
+
+}
+.dx-acc-r .dxTreeList_ExpandedButtonRtl_ThemeAmaszonas:before
+
+{
+    left: -8px;
+    top: -397px;
+
+}
+.dx-acc-r .dxTreeList_SortAsc_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -340px;
+
+}
+.dx-acc-r .dxTreeList_SortDesc_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -353px;
+
+}

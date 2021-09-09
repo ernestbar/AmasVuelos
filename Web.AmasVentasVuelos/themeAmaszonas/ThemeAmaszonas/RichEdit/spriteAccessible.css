@@ -1,0 +1,101 @@
+.dx-acc-r .dxRichEdit_CenterTabDragHandle_ThemeAmaszonas:before,
+.dx-acc-r .dxRichEdit_ColumnSeparatorDragHandle_ThemeAmaszonas:before,
+.dx-acc-r .dxRichEdit_DecimalTabDragHandle_ThemeAmaszonas:before,
+.dx-acc-r .dxRichEdit_FirstLineIdentDragHandle_ThemeAmaszonas:before,
+.dx-acc-r .dxRichEdit_LeftIdentDragHandle_ThemeAmaszonas:before,
+.dx-acc-r .dxRichEdit_LeftTabDragHandle_ThemeAmaszonas:before,
+.dx-acc-r .dxRichEdit_QuickSearchCloseButton_ThemeAmaszonas:before,
+.dx-acc-r .dxRichEdit_QuickSearchCollapseButton_ThemeAmaszonas:before,
+.dx-acc-r .dxRichEdit_QuickSearchNextButton_ThemeAmaszonas:before,
+.dx-acc-r .dxRichEdit_QuickSearchPrevButton_ThemeAmaszonas:before,
+.dx-acc-r .dxRichEdit_RightIdentDragHandle_ThemeAmaszonas:before,
+.dx-acc-r .dxRichEdit_RightTabDragHandle_ThemeAmaszonas:before
+
+{
+    content: url('sprite.svg');
+
+}
+.dx-acc-r .dxRichEdit_CenterTabDragHandle_ThemeAmaszonas:before
+
+{
+    left: -24px;
+    top: -14px;
+
+}
+.dx-acc-r .dxRichEdit_ColumnSeparatorDragHandle_ThemeAmaszonas:before
+
+{
+    left: -26px;
+    top: -21px;
+
+}
+.dx-acc-r .dxRichEdit_DecimalTabDragHandle_ThemeAmaszonas:before
+
+{
+    left: -33px;
+    top: -14px;
+
+}
+.dx-acc-r .dxRichEdit_FirstLineIdentDragHandle_ThemeAmaszonas:before
+
+{
+    left: -10px;
+    top: -34px;
+
+}
+.dx-acc-r .dxRichEdit_LeftIdentDragHandle_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -34px;
+
+}
+.dx-acc-r .dxRichEdit_LeftTabDragHandle_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -7px;
+
+}
+.dx-acc-r .dxRichEdit_QuickSearchCloseButton_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: 0px;
+
+}
+.dx-acc-r .dxRichEdit_QuickSearchCollapseButton_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -21px;
+
+}
+.dx-acc-r .dxRichEdit_QuickSearchNextButton_ThemeAmaszonas:before
+
+{
+    left: -13px;
+    top: -21px;
+
+}
+.dx-acc-r .dxRichEdit_QuickSearchPrevButton_ThemeAmaszonas:before
+
+{
+    left: -21px;
+    top: 0px;
+
+}
+.dx-acc-r .dxRichEdit_RightIdentDragHandle_ThemeAmaszonas:before
+
+{
+    left: -20px;
+    top: -34px;
+
+}
+.dx-acc-r .dxRichEdit_RightTabDragHandle_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: 0px;
+
+}

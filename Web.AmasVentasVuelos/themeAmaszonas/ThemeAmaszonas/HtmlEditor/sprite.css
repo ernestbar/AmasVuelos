@@ -1,0 +1,197 @@
+.dxeListBoxItemSelected_ThemeAmaszonas .dxHtmlEditor_heEnumIcon_ThemeAmaszonas,
+.dxeListBoxItemSelected_ThemeAmaszonas .dxHtmlEditor_heEventIcon_ThemeAmaszonas,
+.dxeListBoxItemSelected_ThemeAmaszonas .dxHtmlEditor_heFieldIcon_ThemeAmaszonas,
+.dxeListBoxItemSelected_ThemeAmaszonas .dxHtmlEditor_heXmlItemIcon_ThemeAmaszonas,
+.dxHtmlEditor_heConstrainProportionsBottom_ThemeAmaszonas,
+.dxHtmlEditor_heConstrainProportionsBottomRtl_ThemeAmaszonas,
+.dxHtmlEditor_heConstrainProportionsMiddleOff_ThemeAmaszonas,
+.dxHtmlEditor_heConstrainProportionsMiddleOffRtl_ThemeAmaszonas,
+.dxHtmlEditor_heConstrainProportionsMiddleOn_ThemeAmaszonas,
+.dxHtmlEditor_heConstrainProportionsMiddleOnRtl_ThemeAmaszonas,
+.dxHtmlEditor_heConstrainProportionsTop_ThemeAmaszonas,
+.dxHtmlEditor_heConstrainProportionsTopRtl_ThemeAmaszonas,
+.dxHtmlEditor_heEnumIcon_ThemeAmaszonas,
+.dxHtmlEditor_heErrorFrameCloseButton_ThemeAmaszonas,
+.dxHtmlEditor_heEventIcon_ThemeAmaszonas,
+.dxHtmlEditor_heFieldIcon_ThemeAmaszonas,
+.dxHtmlEditor_heReset_ThemeAmaszonas,
+.dxHtmlEditor_heSizeGrip_ThemeAmaszonas,
+.dxHtmlEditor_heSizeGripRtl_ThemeAmaszonas,
+.dxHtmlEditor_heTagInspectorChangeButton_ThemeAmaszonas,
+.dxHtmlEditor_heTagInspectorRemoveButton_ThemeAmaszonas,
+.dxHtmlEditor_heTagInspectorSeparator_ThemeAmaszonas,
+.dxHtmlEditor_heToolbarPopOut_ThemeAmaszonas,
+.dxHtmlEditor_heXmlItemIcon_ThemeAmaszonas,
+.dxm-hovered .dxHtmlEditor_heToolbarPopOut_ThemeAmaszonas
+{
+    background-image: url('sprite.svg');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxeListBoxItemSelected_ThemeAmaszonas .dxHtmlEditor_heEnumIcon_ThemeAmaszonas
+{
+    background-position: -85px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxeListBoxItemSelected_ThemeAmaszonas .dxHtmlEditor_heEventIcon_ThemeAmaszonas
+{
+    background-position: -17px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxeListBoxItemSelected_ThemeAmaszonas .dxHtmlEditor_heFieldIcon_ThemeAmaszonas
+{
+    background-position: 0px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxeListBoxItemSelected_ThemeAmaszonas .dxHtmlEditor_heXmlItemIcon_ThemeAmaszonas
+{
+    background-position: -68px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxHtmlEditor_heConstrainProportionsBottom_ThemeAmaszonas
+{
+    background-position: -290px -10px;
+    width: 8px;
+    height: 6px;
+}
+.dxHtmlEditor_heConstrainProportionsBottomRtl_ThemeAmaszonas
+{
+    background-position: -272px -10px;
+    width: 8px;
+    height: 6px;
+}
+.dxHtmlEditor_heConstrainProportionsMiddleOff_ThemeAmaszonas
+{
+    background-position: -217px 0px;
+    width: 7px;
+    height: 13px;
+}
+.dxHtmlEditor_heConstrainProportionsMiddleOffRtl_ThemeAmaszonas
+{
+    background-position: -241px 0px;
+    width: 7px;
+    height: 13px;
+}
+.dxHtmlEditor_heConstrainProportionsMiddleOn_ThemeAmaszonas
+{
+    background-position: -225px 0px;
+    width: 7px;
+    height: 13px;
+}
+.dxHtmlEditor_heConstrainProportionsMiddleOnRtl_ThemeAmaszonas
+{
+    background-position: -233px 0px;
+    width: 7px;
+    height: 13px;
+}
+.dxHtmlEditor_heConstrainProportionsTop_ThemeAmaszonas
+{
+    background-position: -286px 0px;
+    width: 8px;
+    height: 6px;
+}
+.dxHtmlEditor_heConstrainProportionsTopRtl_ThemeAmaszonas
+{
+    background-position: -281px -10px;
+    width: 8px;
+    height: 6px;
+}
+.dxHtmlEditor_heEnumIcon_ThemeAmaszonas
+{
+    background-position: -136px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxHtmlEditor_heErrorFrameCloseButton_ThemeAmaszonas
+{
+    background-position: -249px 0px;
+    width: 10px;
+    height: 10px;
+}
+.dxHtmlEditor_heEventIcon_ThemeAmaszonas
+{
+    background-position: -51px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxHtmlEditor_heFieldIcon_ThemeAmaszonas
+{
+    background-position: -102px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxHtmlEditor_heReset_ThemeAmaszonas
+{
+    background-position: -153px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxHtmlEditor_heSizeGrip_ThemeAmaszonas
+{
+    background-position: -187px 0px;
+    width: 14px;
+    height: 14px;
+}
+.dxHtmlEditor_heSizeGripRtl_ThemeAmaszonas
+{
+    background-position: -202px 0px;
+    width: 14px;
+    height: 14px;
+}
+.dxHtmlEditor_heTagInspectorChangeButton_ThemeAmaszonas
+{
+    background-position: -34px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxHtmlEditor_heTagInspectorRemoveButton_ThemeAmaszonas
+{
+    background-position: -170px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxHtmlEditor_heTagInspectorSeparator_ThemeAmaszonas
+{
+    background-position: -280px 0px;
+    width: 5px;
+    height: 8px;
+}
+.dxHtmlEditor_heToolbarPopOut_ThemeAmaszonas
+{
+    background-position: -260px 0px;
+    width: 9px;
+    height: 9px;
+}
+.dxHtmlEditor_heXmlItemIcon_ThemeAmaszonas
+{
+    background-position: -119px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxHtmlEditor_heToolbarPopOut_ThemeAmaszonas
+{
+    background-position: -270px 0px;
+    width: 9px;
+    height: 9px;
+}
+.dxHtmlEditor_heConstrainProportionsMiddleOn_ThemeAmaszonas,
+.dxHtmlEditor_heConstrainProportionsMiddleOff_ThemeAmaszonas,
+.dxHtmlEditor_heConstrainProportionsBottom_ThemeAmaszonas,
+.dxHtmlEditor_heConstrainProportionsTop_ThemeAmaszonas,
+.dxHtmlEditor_RoundPanel_herpHeaderTopLeftCorner_ThemeAmaszonas,
+.dxHtmlEditor_RoundPanel_herpHeaderTopRightCorner_ThemeAmaszonas,
+.dxHtmlEditor_RoundPanel_herpBottomLeftCorner_ThemeAmaszonas,
+.dxHtmlEditor_RoundPanel_herpBottomRightCorner_ThemeAmaszonas,
+.dxHtmlEditor_RoundPanel_herpTopLeftCorner_ThemeAmaszonas,
+.dxHtmlEditor_RoundPanel_herpTopRightCorner_ThemeAmaszonas,
+.dxHtmlEditor_RoundPanel_herpGroupBoxBottomLeftCorner_ThemeAmaszonas,
+.dxHtmlEditor_RoundPanel_herpGroupBoxBottomRightCorner_ThemeAmaszonas,
+.dxHtmlEditor_RoundPanel_herpGroupBoxTopLeftCorner_ThemeAmaszonas,
+.dxHtmlEditor_RoundPanel_herpGroupBoxTopRightCorner_ThemeAmaszonas
+{
+	display:block;
+}

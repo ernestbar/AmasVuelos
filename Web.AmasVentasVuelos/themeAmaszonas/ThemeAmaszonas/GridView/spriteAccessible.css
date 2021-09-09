@@ -1,0 +1,1437 @@
+.dx-acc-r .dxGridView_CTClearFilter_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTClearFilterDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTClearGrouping_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTClearGroupingDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTCollapseDetailRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTCollapseDetailRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTCollapseRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTCollapseRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTDeleteRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTDeleteRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTEditRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTEditRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTExpandDetailRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTExpandDetailRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTExpandRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTExpandRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTFullCollapse_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTFullCollapseDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTFullExpand_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTFullExpandDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTNewRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTNewRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTRefresh_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTRefreshDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTShowCustDialog_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTShowCustDialogDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTShowCustomizationWindow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTShowCustomizationWindowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTShowFilterEditor_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTShowFilterEditorDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTShowGroupPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTShowGroupPanelDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTShowSearchPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_CTShowSearchPanelDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCellError_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMClearFilter_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMClearFilterDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMClearGrouping_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMClearGroupingDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMCollapseDetailRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMCollapseDetailRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMCollapseRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMCollapseRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMDeleteRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMDeleteRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMEditRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMEditRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMExpandDetailRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMExpandDetailRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMExpandRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMExpandRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMFullCollapse_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMFullCollapseDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMFullExpand_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMFullExpandDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMGroupByColumn_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMGroupByColumnDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMNewRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMNewRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMRefresh_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMRefreshDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSearchPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSearchPanelDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMShowCustDialog_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMShowCustDialogDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMShowCustomizationWindow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMShowCustomizationWindowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMShowFilterEditor_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMShowFilterEditorDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMShowGroupPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMShowGroupPanelDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMShowSearchPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMShowSearchPanelDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSortAscending_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSortAscendingDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSortDescending_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSortDescendingDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSummaryAverage_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSummaryAverageDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSummaryCount_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSummaryCountDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSummaryMax_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSummaryMaxDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSummaryMin_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSummaryMinDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSummarySum_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMSummarySumDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCMUngroupColumn_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOApply_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOApplyDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOClearFilter_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOClearFilterDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOClose_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnDrag_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnDragDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnGroup_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnGroupDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnHide_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnHideDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnRemove_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnRemoveDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnShow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnShowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnSort_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnSortDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnSortDown_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnSortDownDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnSortUp_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnSortUpDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnUngroup_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnUngroupDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnUnsort_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOColumnUnsortDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCODragAreaCollapse_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCODragAreaExpand_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOFilterCollapse_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCOFilterExpand_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCollapsedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvCollapsedButtonRtl_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvDetailCollapsedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvDetailCollapsedButtonRtl_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvDetailExpandedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvDetailExpandedButtonRtl_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvDragAndDropArrowDown_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvDragAndDropArrowLeft_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvDragAndDropArrowRight_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvDragAndDropArrowUp_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvDragAndDropHideColumn_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvExpandedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvExpandedButtonRtl_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvFilterRowButton_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvFixedGroupRow_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvHeaderFilter_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvHeaderFilterActive_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvHeaderSortDown_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvHeaderSortUp_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvHideAdaptiveDetailButton_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvParentGroupRows_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_gvShowAdaptiveDetailButton_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_WindowResizer_ThemeAmaszonas:before,
+.dx-acc-r .dxGridView_WindowResizerRtl_ThemeAmaszonas:before,
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvCollapsedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvCollapsedButtonRtl_ThemeAmaszonas:before,
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvDetailCollapsedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvDetailCollapsedButtonRtl_ThemeAmaszonas:before,
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvDetailExpandedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvDetailExpandedButtonRtl_ThemeAmaszonas:before,
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvExpandedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvExpandedButtonRtl_ThemeAmaszonas:before,
+.dx-acc-r .dxgvFocusedRow_ThemeAmaszonas .dxGridView_gvShowAdaptiveDetailButton_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_CTShowCustomizationWindow_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_CTShowGroupPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_CTShowSearchPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMClearFilter_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMClearGrouping_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMCollapseDetailRow_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMCollapseRow_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMDeleteRow_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMEditRow_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMExpandDetailRow_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMExpandRow_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMFullCollapse_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMFullExpand_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMGroupByColumn_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMNewRow_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMRefresh_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMSearchPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMShowCustomizationWindow_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMShowFilterEditor_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMShowGroupPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMShowSearchPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMSortAscending_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMSortDescending_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMSummaryAverage_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMSummaryCount_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMSummaryMax_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMSummaryMin_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMSummarySum_ThemeAmaszonas:before,
+.dx-acc-r .dxm-checked .dxGridView_gvCMUngroupColumn_ThemeAmaszonas:before
+
+{
+    content: url('sprite.svg');
+
+}
+.dx-acc-r .dxGridView_CTClearFilter_ThemeAmaszonas:before
+
+{
+    left: -119px;
+    top: -103px;
+
+}
+.dx-acc-r .dxGridView_CTClearFilterDisabled_ThemeAmaszonas:before
+
+{
+    left: -170px;
+    top: -154px;
+
+}
+.dx-acc-r .dxGridView_CTClearGrouping_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -103px;
+
+}
+.dx-acc-r .dxGridView_CTClearGroupingDisabled_ThemeAmaszonas:before
+
+{
+    left: -119px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_CTCollapseDetailRow_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_CTCollapseDetailRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: -137px;
+
+}
+.dx-acc-r .dxGridView_CTCollapseRow_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -205px;
+
+}
+.dx-acc-r .dxGridView_CTCollapseRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -102px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_CTDeleteRow_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: -154px;
+
+}
+.dx-acc-r .dxGridView_CTDeleteRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -136px;
+    top: -137px;
+
+}
+.dx-acc-r .dxGridView_CTEditRow_ThemeAmaszonas:before
+
+{
+    left: -187px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_CTEditRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -188px;
+
+}
+.dx-acc-r .dxGridView_CTExpandDetailRow_ThemeAmaszonas:before
+
+{
+    left: -102px;
+    top: -86px;
+
+}
+.dx-acc-r .dxGridView_CTExpandDetailRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: -86px;
+
+}
+.dx-acc-r .dxGridView_CTExpandRow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -171px;
+
+}
+.dx-acc-r .dxGridView_CTExpandRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: -120px;
+
+}
+.dx-acc-r .dxGridView_CTFullCollapse_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: -171px;
+
+}
+.dx-acc-r .dxGridView_CTFullCollapseDisabled_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: -188px;
+
+}
+.dx-acc-r .dxGridView_CTFullExpand_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: -86px;
+
+}
+.dx-acc-r .dxGridView_CTFullExpandDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -103px;
+
+}
+.dx-acc-r .dxGridView_CTNewRow_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -120px;
+
+}
+.dx-acc-r .dxGridView_CTNewRowDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -86px;
+
+}
+.dx-acc-r .dxGridView_CTRefresh_ThemeAmaszonas:before
+
+{
+    left: -204px;
+    top: -120px;
+
+}
+.dx-acc-r .dxGridView_CTRefreshDisabled_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: -205px;
+
+}
+.dx-acc-r .dxGridView_CTShowCustDialog_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: -137px;
+
+}
+.dx-acc-r .dxGridView_CTShowCustDialogDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -120px;
+
+}
+.dx-acc-r .dxGridView_CTShowCustomizationWindow_ThemeAmaszonas:before
+
+{
+    left: -102px;
+    top: -188px;
+
+}
+.dx-acc-r .dxGridView_CTShowCustomizationWindowDisabled_ThemeAmaszonas:before
+
+{
+    left: -102px;
+    top: -171px;
+
+}
+.dx-acc-r .dxGridView_CTShowFilterEditor_ThemeAmaszonas:before
+
+{
+    left: -105px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_CTShowFilterEditorDisabled_ThemeAmaszonas:before
+
+{
+    left: -207px;
+    top: 0px;
+
+}
+.dx-acc-r .dxGridView_CTShowGroupPanel_ThemeAmaszonas:before
+
+{
+    left: -187px;
+    top: -86px;
+
+}
+.dx-acc-r .dxGridView_CTShowGroupPanelDisabled_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: -205px;
+
+}
+.dx-acc-r .dxGridView_CTShowSearchPanel_ThemeAmaszonas:before
+
+{
+    left: -60px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_CTShowSearchPanelDisabled_ThemeAmaszonas:before
+
+{
+    left: -204px;
+    top: -86px;
+
+}
+.dx-acc-r .dxGridView_gvCellError_ThemeAmaszonas:before
+
+{
+    left: -45px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvCMClearFilter_ThemeAmaszonas:before
+
+{
+    left: -204px;
+    top: -154px;
+
+}
+.dx-acc-r .dxGridView_gvCMClearFilterDisabled_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -171px;
+
+}
+.dx-acc-r .dxGridView_gvCMClearGrouping_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -188px;
+
+}
+.dx-acc-r .dxGridView_gvCMClearGroupingDisabled_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: -103px;
+
+}
+.dx-acc-r .dxGridView_gvCMCollapseDetailRow_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -86px;
+
+}
+.dx-acc-r .dxGridView_gvCMCollapseDetailRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: -120px;
+
+}
+.dx-acc-r .dxGridView_gvCMCollapseRow_ThemeAmaszonas:before
+
+{
+    left: -170px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_gvCMCollapseRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -102px;
+    top: -154px;
+
+}
+.dx-acc-r .dxGridView_gvCMDeleteRow_ThemeAmaszonas:before
+
+{
+    left: -170px;
+    top: -137px;
+
+}
+.dx-acc-r .dxGridView_gvCMDeleteRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: -171px;
+
+}
+.dx-acc-r .dxGridView_gvCMEditRow_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: -103px;
+
+}
+.dx-acc-r .dxGridView_gvCMEditRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: -154px;
+
+}
+.dx-acc-r .dxGridView_gvCMExpandDetailRow_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_gvCMExpandDetailRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_gvCMExpandRow_ThemeAmaszonas:before
+
+{
+    left: -136px;
+    top: -86px;
+
+}
+.dx-acc-r .dxGridView_gvCMExpandRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -187px;
+    top: -137px;
+
+}
+.dx-acc-r .dxGridView_gvCMFullCollapse_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: -103px;
+
+}
+.dx-acc-r .dxGridView_gvCMFullCollapseDisabled_ThemeAmaszonas:before
+
+{
+    left: -136px;
+    top: -171px;
+
+}
+.dx-acc-r .dxGridView_gvCMFullExpand_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_gvCMFullExpandDisabled_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: -154px;
+
+}
+.dx-acc-r .dxGridView_gvCMGroupByColumn_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_gvCMGroupByColumnDisabled_ThemeAmaszonas:before
+
+{
+    left: -119px;
+    top: -154px;
+
+}
+.dx-acc-r .dxGridView_gvCMNewRow_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: -171px;
+
+}
+.dx-acc-r .dxGridView_gvCMNewRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -136px;
+    top: -154px;
+
+}
+.dx-acc-r .dxGridView_gvCMRefresh_ThemeAmaszonas:before
+
+{
+    left: -204px;
+    top: -188px;
+
+}
+.dx-acc-r .dxGridView_gvCMRefreshDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -137px;
+
+}
+.dx-acc-r .dxGridView_gvCMSearchPanel_ThemeAmaszonas:before
+
+{
+    left: -138px;
+    top: -205px;
+
+}
+.dx-acc-r .dxGridView_gvCMSearchPanelDisabled_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: -154px;
+
+}
+.dx-acc-r .dxGridView_gvCMShowCustDialog_ThemeAmaszonas:before
+
+{
+    left: -136px;
+    top: -188px;
+
+}
+.dx-acc-r .dxGridView_gvCMShowCustDialogDisabled_ThemeAmaszonas:before
+
+{
+    left: -204px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_gvCMShowCustomizationWindow_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: -154px;
+
+}
+.dx-acc-r .dxGridView_gvCMShowCustomizationWindowDisabled_ThemeAmaszonas:before
+
+{
+    left: -170px;
+    top: -188px;
+
+}
+.dx-acc-r .dxGridView_gvCMShowFilterEditor_ThemeAmaszonas:before
+
+{
+    left: -75px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvCMShowFilterEditorDisabled_ThemeAmaszonas:before
+
+{
+    left: -207px;
+    top: -23px;
+
+}
+.dx-acc-r .dxGridView_gvCMShowGroupPanel_ThemeAmaszonas:before
+
+{
+    left: -170px;
+    top: -120px;
+
+}
+.dx-acc-r .dxGridView_gvCMShowGroupPanelDisabled_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -205px;
+
+}
+.dx-acc-r .dxGridView_gvCMShowSearchPanel_ThemeAmaszonas:before
+
+{
+    left: -198px;
+    top: -205px;
+
+}
+.dx-acc-r .dxGridView_gvCMShowSearchPanelDisabled_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: -86px;
+
+}
+.dx-acc-r .dxGridView_gvCMSortAscending_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: -188px;
+
+}
+.dx-acc-r .dxGridView_gvCMSortAscendingDisabled_ThemeAmaszonas:before
+
+{
+    left: -102px;
+    top: -137px;
+
+}
+.dx-acc-r .dxGridView_gvCMSortDescending_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -137px;
+
+}
+.dx-acc-r .dxGridView_gvCMSortDescendingDisabled_ThemeAmaszonas:before
+
+{
+    left: -136px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_gvCMSummaryAverage_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: -171px;
+
+}
+.dx-acc-r .dxGridView_gvCMSummaryAverageDisabled_ThemeAmaszonas:before
+
+{
+    left: -119px;
+    top: -171px;
+
+}
+.dx-acc-r .dxGridView_gvCMSummaryCount_ThemeAmaszonas:before
+
+{
+    left: -119px;
+    top: -120px;
+
+}
+.dx-acc-r .dxGridView_gvCMSummaryCountDisabled_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: -86px;
+
+}
+.dx-acc-r .dxGridView_gvCMSummaryMax_ThemeAmaszonas:before
+
+{
+    left: -102px;
+    top: -120px;
+
+}
+.dx-acc-r .dxGridView_gvCMSummaryMaxDisabled_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: -103px;
+
+}
+.dx-acc-r .dxGridView_gvCMSummaryMin_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: -188px;
+
+}
+.dx-acc-r .dxGridView_gvCMSummaryMinDisabled_ThemeAmaszonas:before
+
+{
+    left: -187px;
+    top: -188px;
+
+}
+.dx-acc-r .dxGridView_gvCMSummarySum_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: -205px;
+
+}
+.dx-acc-r .dxGridView_gvCMSummarySumDisabled_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: -188px;
+
+}
+.dx-acc-r .dxGridView_gvCMUngroupColumn_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: -69px;
+
+}
+.dx-acc-r .dxGridView_gvCOApply_ThemeAmaszonas:before
+
+{
+    left: -92px;
+    top: -46px;
+
+}
+.dx-acc-r .dxGridView_gvCOApplyDisabled_ThemeAmaszonas:before
+
+{
+    left: -138px;
+    top: 0px;
+
+}
+.dx-acc-r .dxGridView_gvCOClearFilter_ThemeAmaszonas:before
+
+{
+    left: -161px;
+    top: -46px;
+
+}
+.dx-acc-r .dxGridView_gvCOClearFilterDisabled_ThemeAmaszonas:before
+
+{
+    left: -161px;
+    top: 0px;
+
+}
+.dx-acc-r .dxGridView_gvCOClose_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: 0px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnDrag_ThemeAmaszonas:before
+
+{
+    left: -203px;
+    top: -46px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnDragDisabled_ThemeAmaszonas:before
+
+{
+    left: -184px;
+    top: -46px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnGroup_ThemeAmaszonas:before
+
+{
+    left: -46px;
+    top: -46px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnGroupDisabled_ThemeAmaszonas:before
+
+{
+    left: -115px;
+    top: -46px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnHide_ThemeAmaszonas:before
+
+{
+    left: -161px;
+    top: -23px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnHideDisabled_ThemeAmaszonas:before
+
+{
+    left: -46px;
+    top: -23px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnRemove_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -46px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnRemoveDisabled_ThemeAmaszonas:before
+
+{
+    left: -184px;
+    top: 0px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnShow_ThemeAmaszonas:before
+
+{
+    left: -138px;
+    top: -46px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnShowDisabled_ThemeAmaszonas:before
+
+{
+    left: -69px;
+    top: -46px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnSort_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -23px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnSortDisabled_ThemeAmaszonas:before
+
+{
+    left: -115px;
+    top: 0px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnSortDown_ThemeAmaszonas:before
+
+{
+    left: -92px;
+    top: -23px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnSortDownDisabled_ThemeAmaszonas:before
+
+{
+    left: -23px;
+    top: -23px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnSortUp_ThemeAmaszonas:before
+
+{
+    left: -69px;
+    top: 0px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnSortUpDisabled_ThemeAmaszonas:before
+
+{
+    left: -138px;
+    top: -23px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnUngroup_ThemeAmaszonas:before
+
+{
+    left: -23px;
+    top: 0px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnUngroupDisabled_ThemeAmaszonas:before
+
+{
+    left: -46px;
+    top: 0px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnUnsort_ThemeAmaszonas:before
+
+{
+    left: -92px;
+    top: 0px;
+
+}
+.dx-acc-r .dxGridView_gvCOColumnUnsortDisabled_ThemeAmaszonas:before
+
+{
+    left: -184px;
+    top: -23px;
+
+}
+.dx-acc-r .dxGridView_gvCODragAreaCollapse_ThemeAmaszonas:before
+
+{
+    left: -134px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvCODragAreaExpand_ThemeAmaszonas:before
+
+{
+    left: -120px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvCOFilterCollapse_ThemeAmaszonas:before
+
+{
+    left: -69px;
+    top: -23px;
+
+}
+.dx-acc-r .dxGridView_gvCOFilterExpand_ThemeAmaszonas:before
+
+{
+    left: -23px;
+    top: -46px;
+
+}
+.dx-acc-r .dxGridView_gvCollapsedButton_ThemeAmaszonas:before
+
+{
+    left: -148px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvCollapsedButtonRtl_ThemeAmaszonas:before
+
+{
+    left: -187px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvDetailCollapsedButton_ThemeAmaszonas:before
+
+{
+    left: -78px;
+    top: -237px;
+
+}
+.dx-acc-r .dxGridView_gvDetailCollapsedButtonRtl_ThemeAmaszonas:before
+
+{
+    left: -143px;
+    top: -237px;
+
+}
+.dx-acc-r .dxGridView_gvDetailExpandedButton_ThemeAmaszonas:before
+
+{
+    left: -104px;
+    top: -237px;
+
+}
+.dx-acc-r .dxGridView_gvDetailExpandedButtonRtl_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -237px;
+
+}
+.dx-acc-r .dxGridView_gvDragAndDropArrowDown_ThemeAmaszonas:before
+
+{
+    left: -169px;
+    top: -237px;
+
+}
+.dx-acc-r .dxGridView_gvDragAndDropArrowLeft_ThemeAmaszonas:before
+
+{
+    left: -213px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvDragAndDropArrowRight_ThemeAmaszonas:before
+
+{
+    left: -213px;
+    top: -205px;
+
+}
+.dx-acc-r .dxGridView_gvDragAndDropArrowUp_ThemeAmaszonas:before
+
+{
+    left: -181px;
+    top: -237px;
+
+}
+.dx-acc-r .dxGridView_gvDragAndDropHideColumn_ThemeAmaszonas:before
+
+{
+    left: -170px;
+    top: -86px;
+
+}
+.dx-acc-r .dxGridView_gvExpandedButton_ThemeAmaszonas:before
+
+{
+    left: -200px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvExpandedButtonRtl_ThemeAmaszonas:before
+
+{
+    left: -39px;
+    top: -237px;
+
+}
+.dx-acc-r .dxGridView_gvFilterRowButton_ThemeAmaszonas:before
+
+{
+    left: -30px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvFixedGroupRow_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: -205px;
+
+}
+.dx-acc-r .dxGridView_gvHeaderFilter_ThemeAmaszonas:before
+
+{
+    left: -15px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvHeaderFilterActive_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvHeaderSortDown_ThemeAmaszonas:before
+
+{
+    left: -174px;
+    top: -222px;
+
+}
+.dx-acc-r .dxGridView_gvHeaderSortUp_ThemeAmaszonas:before
+
+{
+    left: -13px;
+    top: -237px;
+
+}
+.dx-acc-r .dxGridView_gvHideAdaptiveDetailButton_ThemeAmaszonas:before
+
+{
+    left: -187px;
+    top: -103px;
+
+}
+.dx-acc-r .dxGridView_gvParentGroupRows_ThemeAmaszonas:before
+
+{
+    left: -115px;
+    top: -23px;
+
+}
+.dx-acc-r .dxGridView_gvShowAdaptiveDetailButton_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: -137px;
+
+}
+.dx-acc-r .dxGridView_WindowResizer_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: -205px;
+
+}
+.dx-acc-r .dxGridView_WindowResizerRtl_ThemeAmaszonas:before
+
+{
+    left: -123px;
+    top: -205px;
+
+}
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvCollapsedButton_ThemeAmaszonas:before
+
+{
+    left: -161px;
+    top: -222px;
+
+}
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvCollapsedButtonRtl_ThemeAmaszonas:before
+
+{
+    left: -52px;
+    top: -237px;
+
+}
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvDetailCollapsedButton_ThemeAmaszonas:before
+
+{
+    left: -65px;
+    top: -237px;
+
+}
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvDetailCollapsedButtonRtl_ThemeAmaszonas:before
+
+{
+    left: -26px;
+    top: -237px;
+
+}
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvDetailExpandedButton_ThemeAmaszonas:before
+
+{
+    left: -117px;
+    top: -237px;
+
+}
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvDetailExpandedButtonRtl_ThemeAmaszonas:before
+
+{
+    left: -91px;
+    top: -237px;
+
+}
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvExpandedButton_ThemeAmaszonas:before
+
+{
+    left: -156px;
+    top: -237px;
+
+}
+.dx-acc-r .dxgvFocusedGroupRow_ThemeAmaszonas .dxGridView_gvExpandedButtonRtl_ThemeAmaszonas:before
+
+{
+    left: -130px;
+    top: -237px;
+
+}
+.dx-acc-r .dxgvFocusedRow_ThemeAmaszonas .dxGridView_gvShowAdaptiveDetailButton_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: -120px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_CTShowCustomizationWindow_ThemeAmaszonas:before
+
+{
+    left: -187px;
+    top: -171px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_CTShowGroupPanel_ThemeAmaszonas:before
+
+{
+    left: -170px;
+    top: -171px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_CTShowSearchPanel_ThemeAmaszonas:before
+
+{
+    left: -168px;
+    top: -205px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMClearFilter_ThemeAmaszonas:before
+
+{
+    left: -204px;
+    top: -171px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMClearGrouping_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: -69px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMCollapseDetailRow_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: -103px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMCollapseRow_ThemeAmaszonas:before
+
+{
+    left: -102px;
+    top: -103px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMDeleteRow_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: -171px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMEditRow_ThemeAmaszonas:before
+
+{
+    left: -187px;
+    top: -154px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMExpandDetailRow_ThemeAmaszonas:before
+
+{
+    left: -204px;
+    top: -137px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMExpandRow_ThemeAmaszonas:before
+
+{
+    left: -170px;
+    top: -103px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMFullCollapse_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -154px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMFullExpand_ThemeAmaszonas:before
+
+{
+    left: -119px;
+    top: -188px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMGroupByColumn_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: -137px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMNewRow_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -154px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMRefresh_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: -120px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMSearchPanel_ThemeAmaszonas:before
+
+{
+    left: -90px;
+    top: -222px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMShowCustomizationWindow_ThemeAmaszonas:before
+
+{
+    left: -119px;
+    top: -137px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMShowFilterEditor_ThemeAmaszonas:before
+
+{
+    left: -183px;
+    top: -205px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMShowGroupPanel_ThemeAmaszonas:before
+
+{
+    left: -136px;
+    top: -103px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMShowSearchPanel_ThemeAmaszonas:before
+
+{
+    left: -108px;
+    top: -205px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMSortAscending_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: -137px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMSortDescending_ThemeAmaszonas:before
+
+{
+    left: -204px;
+    top: -103px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMSummaryAverage_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: -120px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMSummaryCount_ThemeAmaszonas:before
+
+{
+    left: -136px;
+    top: -120px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMSummaryMax_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: -188px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMSummaryMin_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: -86px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMSummarySum_ThemeAmaszonas:before
+
+{
+    left: -119px;
+    top: -86px;
+
+}
+.dx-acc-r .dxm-checked .dxGridView_gvCMUngroupColumn_ThemeAmaszonas:before
+
+{
+    left: -187px;
+    top: -120px;
+
+}

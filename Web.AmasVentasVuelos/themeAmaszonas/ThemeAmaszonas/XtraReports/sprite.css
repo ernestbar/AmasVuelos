@@ -1,0 +1,258 @@
+.dxm-hovered .dxXtraReports_BtnFirstPage_ThemeAmaszonas,
+.dxm-hovered .dxXtraReports_BtnLastPage_ThemeAmaszonas,
+.dxm-hovered .dxXtraReports_BtnNextPage_ThemeAmaszonas,
+.dxm-hovered .dxXtraReports_BtnPrevPage_ThemeAmaszonas,
+.dxm-hovered .dxXtraReports_BtnPrint_ThemeAmaszonas,
+.dxm-hovered .dxXtraReports_BtnPrintPage_ThemeAmaszonas,
+.dxm-hovered .dxXtraReports_BtnSave_ThemeAmaszonas,
+.dxm-hovered .dxXtraReports_BtnSaveWindow_ThemeAmaszonas,
+.dxm-hovered .dxXtraReports_BtnSearch_ThemeAmaszonas,
+.dxXtraReports_BtnFirstPage_ThemeAmaszonas,
+.dxXtraReports_BtnFirstPageDisabled_ThemeAmaszonas,
+.dxXtraReports_BtnLastPage_ThemeAmaszonas,
+.dxXtraReports_BtnLastPageDisabled_ThemeAmaszonas,
+.dxXtraReports_BtnNextPage_ThemeAmaszonas,
+.dxXtraReports_BtnNextPageDisabled_ThemeAmaszonas,
+.dxXtraReports_BtnPrevPage_ThemeAmaszonas,
+.dxXtraReports_BtnPrevPageDisabled_ThemeAmaszonas,
+.dxXtraReports_BtnPrint_ThemeAmaszonas,
+.dxXtraReports_BtnPrintDisabled_ThemeAmaszonas,
+.dxXtraReports_BtnPrintPage_ThemeAmaszonas,
+.dxXtraReports_BtnPrintPageDisabled_ThemeAmaszonas,
+.dxXtraReports_BtnSave_ThemeAmaszonas,
+.dxXtraReports_BtnSaveDisabled_ThemeAmaszonas,
+.dxXtraReports_BtnSaveWindow_ThemeAmaszonas,
+.dxXtraReports_BtnSaveWindowDisabled_ThemeAmaszonas,
+.dxXtraReports_BtnSearch_ThemeAmaszonas,
+.dxXtraReports_BtnSearchDisabled_ThemeAmaszonas,
+.dxXtraReports_PageBorder_blc_ThemeAmaszonas,
+.dxXtraReports_PageBorder_brc_ThemeAmaszonas,
+.dxXtraReports_PageBorder_tlc_ThemeAmaszonas,
+.dxXtraReports_PageBorder_trc_ThemeAmaszonas
+{
+    background-image: url('sprite.svg');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxm-hovered .dxXtraReports_BtnFirstPage_ThemeAmaszonas
+{
+    background-position: -19px -38px;
+    width: 18px;
+    height: 18px;
+}
+.dxm-hovered .dxXtraReports_BtnLastPage_ThemeAmaszonas
+{
+    background-position: -76px -19px;
+    width: 18px;
+    height: 18px;
+}
+.dxm-hovered .dxXtraReports_BtnNextPage_ThemeAmaszonas
+{
+    background-position: -38px 0px;
+    width: 18px;
+    height: 18px;
+}
+.dxm-hovered .dxXtraReports_BtnPrevPage_ThemeAmaszonas
+{
+    background-position: -57px -19px;
+    width: 18px;
+    height: 18px;
+}
+.dxm-hovered .dxXtraReports_BtnPrint_ThemeAmaszonas
+{
+    background-position: -51px -57px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxXtraReports_BtnPrintPage_ThemeAmaszonas
+{
+    background-position: -17px -74px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxXtraReports_BtnSave_ThemeAmaszonas
+{
+    background-position: -85px -57px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxXtraReports_BtnSaveWindow_ThemeAmaszonas
+{
+    background-position: -51px -74px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxXtraReports_BtnSearch_ThemeAmaszonas
+{
+    background-position: 0px -57px;
+    width: 16px;
+    height: 16px;
+}
+.dxXtraReports_BtnFirstPage_ThemeAmaszonas
+{
+    background-position: 0px -38px;
+    width: 18px;
+    height: 18px;
+}
+.dxXtraReports_BtnFirstPageDisabled_ThemeAmaszonas
+{
+    background-position: -57px 0px;
+    width: 18px;
+    height: 18px;
+}
+.dxXtraReports_BtnLastPage_ThemeAmaszonas
+{
+    background-position: -76px 0px;
+    width: 18px;
+    height: 18px;
+}
+.dxXtraReports_BtnLastPageDisabled_ThemeAmaszonas
+{
+    background-position: 0px 0px;
+    width: 18px;
+    height: 18px;
+}
+.dxXtraReports_BtnNextPage_ThemeAmaszonas
+{
+    background-position: -19px 0px;
+    width: 18px;
+    height: 18px;
+}
+.dxXtraReports_BtnNextPageDisabled_ThemeAmaszonas
+{
+    background-position: 0px -19px;
+    width: 18px;
+    height: 18px;
+}
+.dxXtraReports_BtnPrevPage_ThemeAmaszonas
+{
+    background-position: -38px -19px;
+    width: 18px;
+    height: 18px;
+}
+.dxXtraReports_BtnPrevPageDisabled_ThemeAmaszonas
+{
+    background-position: -19px -19px;
+    width: 18px;
+    height: 18px;
+}
+.dxXtraReports_BtnPrint_ThemeAmaszonas
+{
+    background-position: -72px -38px;
+    width: 16px;
+    height: 16px;
+}
+.dxXtraReports_BtnPrintDisabled_ThemeAmaszonas
+{
+    background-position: -89px -38px;
+    width: 16px;
+    height: 16px;
+}
+.dxXtraReports_BtnPrintPage_ThemeAmaszonas
+{
+    background-position: 0px -74px;
+    width: 16px;
+    height: 16px;
+}
+.dxXtraReports_BtnPrintPageDisabled_ThemeAmaszonas
+{
+    background-position: -55px -38px;
+    width: 16px;
+    height: 16px;
+}
+.dxXtraReports_BtnSave_ThemeAmaszonas
+{
+    background-position: -34px -57px;
+    width: 16px;
+    height: 16px;
+}
+.dxXtraReports_BtnSaveDisabled_ThemeAmaszonas
+{
+    background-position: -68px -74px;
+    width: 16px;
+    height: 16px;
+}
+.dxXtraReports_BtnSaveWindow_ThemeAmaszonas
+{
+    background-position: -68px -57px;
+    width: 16px;
+    height: 16px;
+}
+.dxXtraReports_BtnSaveWindowDisabled_ThemeAmaszonas
+{
+    background-position: -34px -74px;
+    width: 16px;
+    height: 16px;
+}
+.dxXtraReports_BtnSearch_ThemeAmaszonas
+{
+    background-position: -38px -38px;
+    width: 16px;
+    height: 16px;
+}
+.dxXtraReports_BtnSearchDisabled_ThemeAmaszonas
+{
+    background-position: -17px -57px;
+    width: 16px;
+    height: 16px;
+}
+.dxXtraReports_PageBorder_blc_ThemeAmaszonas
+{
+    background-position: -95px -19px;
+    width: 10px;
+    height: 10px;
+}
+.dxXtraReports_PageBorder_brc_ThemeAmaszonas
+{
+    background-position: -85px -74px;
+    width: 10px;
+    height: 10px;
+}
+.dxXtraReports_PageBorder_tlc_ThemeAmaszonas
+{
+    background-position: -95px 0px;
+    width: 10px;
+    height: 10px;
+}
+.dxXtraReports_PageBorder_trc_ThemeAmaszonas
+{
+    background-position: -96px -74px;
+    width: 10px;
+    height: 10px;
+}
+.dxXtraReports_PageBorder_t_ThemeAmaszonas,
+.dxXtraReports_PageBorder_l_ThemeAmaszonas,
+.dxXtraReports_PageBorder_r_ThemeAmaszonas,
+.dxXtraReports_PageBorder_b_ThemeAmaszonas {
+    padding: 0px;
+    background-color: transparent;
+}
+
+.dxXtraReports_PageBorder_t_ThemeAmaszonas {
+    background-image: url('pageTopBorder.svg');
+    background-repeat: repeat-x;
+    width: 1px;
+    height: 10px;
+}
+
+.dxXtraReports_PageBorder_l_ThemeAmaszonas {
+    background-image: url('pageLeftBorder.svg');
+    background-repeat: repeat-y;
+    width: 10px;
+    height: 1px;
+}
+
+.dxXtraReports_PageBorder_r_ThemeAmaszonas {
+    background-image: url('pageRightBorder.svg');
+    background-repeat: repeat-y;
+    width: 10px;
+    height: 1px;
+}
+
+.dxXtraReports_PageBorder_b_ThemeAmaszonas {
+    background-image: url('pageBottomBorder.svg');
+    background-repeat: repeat-x;
+    width: 1px;
+    height: 10px;
+}
+

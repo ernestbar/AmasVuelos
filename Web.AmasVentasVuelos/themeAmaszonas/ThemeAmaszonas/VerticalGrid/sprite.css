@@ -1,0 +1,181 @@
+.dxm-checked .dxVerticalGrid_CTShowSearchPanel_ThemeAmaszonas,
+.dxVerticalGrid_CategoryCollapsed_ThemeAmaszonas,
+.dxVerticalGrid_CategoryExpanded_ThemeAmaszonas,
+.dxVerticalGrid_CollapsedButton_ThemeAmaszonas,
+.dxVerticalGrid_CTClearFilter_ThemeAmaszonas,
+.dxVerticalGrid_CTClearFilterDisabled_ThemeAmaszonas,
+.dxVerticalGrid_CTDeleteRow_ThemeAmaszonas,
+.dxVerticalGrid_CTDeleteRowDisabled_ThemeAmaszonas,
+.dxVerticalGrid_CTEditRow_ThemeAmaszonas,
+.dxVerticalGrid_CTEditRowDisabled_ThemeAmaszonas,
+.dxVerticalGrid_CTNewRow_ThemeAmaszonas,
+.dxVerticalGrid_CTNewRowDisabled_ThemeAmaszonas,
+.dxVerticalGrid_CTRefresh_ThemeAmaszonas,
+.dxVerticalGrid_CTRefreshDisabled_ThemeAmaszonas,
+.dxVerticalGrid_CTShowFilterEditor_ThemeAmaszonas,
+.dxVerticalGrid_CTShowFilterEditorDisabled_ThemeAmaszonas,
+.dxVerticalGrid_CTShowSearchPanel_ThemeAmaszonas,
+.dxVerticalGrid_CTShowSearchPanelDisabled_ThemeAmaszonas,
+.dxVerticalGrid_ExpandedButton_ThemeAmaszonas,
+.dxVerticalGrid_gvCellError_ThemeAmaszonas,
+.dxVerticalGrid_gvFilterRowButton_ThemeAmaszonas,
+.dxVerticalGrid_gvHeaderFilter_ThemeAmaszonas,
+.dxVerticalGrid_gvHeaderFilterActive_ThemeAmaszonas,
+.dxVerticalGrid_gvHeaderSortDown_ThemeAmaszonas,
+.dxVerticalGrid_gvHeaderSortUp_ThemeAmaszonas
+{
+    background-image: url('sprite.svg');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxm-checked .dxVerticalGrid_CTShowSearchPanel_ThemeAmaszonas
+{
+    background-position: -45px -17px;
+    width: 14px;
+    height: 14px;
+}
+.dxVerticalGrid_CategoryCollapsed_ThemeAmaszonas
+{
+    background-position: -172px -17px;
+    width: 12px;
+    height: 12px;
+}
+.dxVerticalGrid_CategoryExpanded_ThemeAmaszonas
+{
+    background-position: -133px -17px;
+    width: 12px;
+    height: 12px;
+}
+.dxVerticalGrid_CollapsedButton_ThemeAmaszonas
+{
+    background-position: -185px -17px;
+    width: 12px;
+    height: 12px;
+}
+.dxVerticalGrid_CTClearFilter_ThemeAmaszonas
+{
+    background-position: -102px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxVerticalGrid_CTClearFilterDisabled_ThemeAmaszonas
+{
+    background-position: -153px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxVerticalGrid_CTDeleteRow_ThemeAmaszonas
+{
+    background-position: -85px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxVerticalGrid_CTDeleteRowDisabled_ThemeAmaszonas
+{
+    background-position: -119px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxVerticalGrid_CTEditRow_ThemeAmaszonas
+{
+    background-position: -170px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxVerticalGrid_CTEditRowDisabled_ThemeAmaszonas
+{
+    background-position: -34px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxVerticalGrid_CTNewRow_ThemeAmaszonas
+{
+    background-position: -68px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxVerticalGrid_CTNewRowDisabled_ThemeAmaszonas
+{
+    background-position: -136px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxVerticalGrid_CTRefresh_ThemeAmaszonas
+{
+    background-position: 0px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxVerticalGrid_CTRefreshDisabled_ThemeAmaszonas
+{
+    background-position: -17px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxVerticalGrid_CTShowFilterEditor_ThemeAmaszonas
+{
+    background-position: -30px -17px;
+    width: 14px;
+    height: 14px;
+}
+.dxVerticalGrid_CTShowFilterEditorDisabled_ThemeAmaszonas
+{
+    background-position: -15px -17px;
+    width: 14px;
+    height: 14px;
+}
+.dxVerticalGrid_CTShowSearchPanel_ThemeAmaszonas
+{
+    background-position: -75px -17px;
+    width: 14px;
+    height: 14px;
+}
+.dxVerticalGrid_CTShowSearchPanelDisabled_ThemeAmaszonas
+{
+    background-position: -51px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxVerticalGrid_ExpandedButton_ThemeAmaszonas
+{
+    background-position: -146px -17px;
+    width: 12px;
+    height: 12px;
+}
+.dxVerticalGrid_gvCellError_ThemeAmaszonas
+{
+    background-position: -90px -17px;
+    width: 14px;
+    height: 14px;
+}
+.dxVerticalGrid_gvFilterRowButton_ThemeAmaszonas
+{
+    background-position: -60px -17px;
+    width: 14px;
+    height: 14px;
+}
+.dxVerticalGrid_gvHeaderFilter_ThemeAmaszonas
+{
+    background-position: 0px -17px;
+    width: 14px;
+    height: 14px;
+}
+.dxVerticalGrid_gvHeaderFilterActive_ThemeAmaszonas
+{
+    background-position: -105px -17px;
+    width: 14px;
+    height: 14px;
+}
+.dxVerticalGrid_gvHeaderSortDown_ThemeAmaszonas
+{
+    background-position: -159px -17px;
+    width: 12px;
+    height: 12px;
+}
+.dxVerticalGrid_gvHeaderSortUp_ThemeAmaszonas
+{
+    background-position: -120px -17px;
+    width: 12px;
+    height: 12px;
+}
+

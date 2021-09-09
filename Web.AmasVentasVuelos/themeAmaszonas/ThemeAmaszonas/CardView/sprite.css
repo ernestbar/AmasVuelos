@@ -1,0 +1,174 @@
+.dxCardView_CTClearFilter_ThemeAmaszonas,
+.dxCardView_CTClearFilterDisabled_ThemeAmaszonas,
+.dxCardView_CTDeleteRow_ThemeAmaszonas,
+.dxCardView_CTDeleteRowDisabled_ThemeAmaszonas,
+.dxCardView_CTEditRow_ThemeAmaszonas,
+.dxCardView_CTEditRowDisabled_ThemeAmaszonas,
+.dxCardView_CTNewRow_ThemeAmaszonas,
+.dxCardView_CTNewRowDisabled_ThemeAmaszonas,
+.dxCardView_CTRefresh_ThemeAmaszonas,
+.dxCardView_CTRefreshDisabled_ThemeAmaszonas,
+.dxCardView_CTShowCustomizationWindow_ThemeAmaszonas,
+.dxCardView_CTShowCustomizationWindowDisabled_ThemeAmaszonas,
+.dxCardView_CTShowFilterEditor_ThemeAmaszonas,
+.dxCardView_CTShowFilterEditorDisabled_ThemeAmaszonas,
+.dxCardView_CTShowSearchPanel_ThemeAmaszonas,
+.dxCardView_CTShowSearchPanelDisabled_ThemeAmaszonas,
+.dxCardView_gvCellError_ThemeAmaszonas,
+.dxCardView_gvFilterRowButton_ThemeAmaszonas,
+.dxCardView_gvHeaderFilter_ThemeAmaszonas,
+.dxCardView_gvHeaderFilterActive_ThemeAmaszonas,
+.dxCardView_gvHeaderSortDown_ThemeAmaszonas,
+.dxCardView_gvHeaderSortUp_ThemeAmaszonas,
+.dxm-checked .dxCardView_CTShowCustomizationWindow_ThemeAmaszonas,
+.dxm-checked .dxCardView_CTShowSearchPanel_ThemeAmaszonas
+{
+    background-image: url('sprite.svg');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxCardView_CTClearFilter_ThemeAmaszonas
+{
+    background-position: 0px -204px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTClearFilterDisabled_ThemeAmaszonas
+{
+    background-position: 0px -68px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTDeleteRow_ThemeAmaszonas
+{
+    background-position: 0px -119px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTDeleteRowDisabled_ThemeAmaszonas
+{
+    background-position: 0px -170px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTEditRow_ThemeAmaszonas
+{
+    background-position: 0px -187px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTEditRowDisabled_ThemeAmaszonas
+{
+    background-position: 0px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTNewRow_ThemeAmaszonas
+{
+    background-position: 0px -17px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTNewRowDisabled_ThemeAmaszonas
+{
+    background-position: 0px -34px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTRefresh_ThemeAmaszonas
+{
+    background-position: 0px -85px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTRefreshDisabled_ThemeAmaszonas
+{
+    background-position: 0px -51px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTShowCustomizationWindow_ThemeAmaszonas
+{
+    background-position: 0px -153px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTShowCustomizationWindowDisabled_ThemeAmaszonas
+{
+    background-position: 0px -102px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_CTShowFilterEditor_ThemeAmaszonas
+{
+    background-position: 0px -253px;
+    width: 14px;
+    height: 14px;
+}
+.dxCardView_CTShowFilterEditorDisabled_ThemeAmaszonas
+{
+    background-position: 0px -313px;
+    width: 14px;
+    height: 14px;
+}
+.dxCardView_CTShowSearchPanel_ThemeAmaszonas
+{
+    background-position: 0px -343px;
+    width: 14px;
+    height: 14px;
+}
+.dxCardView_CTShowSearchPanelDisabled_ThemeAmaszonas
+{
+    background-position: 0px -136px;
+    width: 16px;
+    height: 16px;
+}
+.dxCardView_gvCellError_ThemeAmaszonas
+{
+    background-position: 0px -238px;
+    width: 14px;
+    height: 14px;
+}
+.dxCardView_gvFilterRowButton_ThemeAmaszonas
+{
+    background-position: 0px -328px;
+    width: 14px;
+    height: 14px;
+}
+.dxCardView_gvHeaderFilter_ThemeAmaszonas
+{
+    background-position: 0px -298px;
+    width: 14px;
+    height: 14px;
+}
+.dxCardView_gvHeaderFilterActive_ThemeAmaszonas
+{
+    background-position: 0px -283px;
+    width: 14px;
+    height: 14px;
+}
+.dxCardView_gvHeaderSortDown_ThemeAmaszonas
+{
+    background-position: 0px -358px;
+    width: 12px;
+    height: 12px;
+}
+.dxCardView_gvHeaderSortUp_ThemeAmaszonas
+{
+    background-position: 0px -371px;
+    width: 12px;
+    height: 12px;
+}
+.dxm-checked .dxCardView_CTShowCustomizationWindow_ThemeAmaszonas
+{
+    background-position: 0px -221px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-checked .dxCardView_CTShowSearchPanel_ThemeAmaszonas
+{
+    background-position: 0px -268px;
+    width: 14px;
+    height: 14px;
+}
+

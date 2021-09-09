@@ -1,0 +1,316 @@
+.dxPivotGrid_CTNAttribute,
+.dxPivotGrid_CTNCalculatedMeasure,
+.dxPivotGrid_CTNDimension,
+.dxPivotGrid_CTNFolderClosed,
+.dxPivotGrid_CTNFolderOpen,
+.dxPivotGrid_CTNHierarchy,
+.dxPivotGrid_CTNKpi,
+.dxPivotGrid_CTNMeasure,
+.dxPivotGrid_FLBottomPanelOnly1by4_ThemeAmaszonas,
+.dxPivotGrid_FLBottomPanelOnly2by2_ThemeAmaszonas,
+.dxPivotGrid_FLButton_ThemeAmaszonas,
+.dxPivotGrid_FLColumnAreaHeaders_ThemeAmaszonas,
+.dxPivotGrid_FLDataAreaHeaders_ThemeAmaszonas,
+.dxPivotGrid_FLFieldList_ThemeAmaszonas,
+.dxPivotGrid_FLFilterAreaHeaders_ThemeAmaszonas,
+.dxPivotGrid_FLRowAreaHeaders_ThemeAmaszonas,
+.dxPivotGrid_FLStackedDefault_ThemeAmaszonas,
+.dxPivotGrid_FLStackedSideBySide_ThemeAmaszonas,
+.dxPivotGrid_FLTopPanelOnly_ThemeAmaszonas,
+.dxPivotGrid_pgCollapsedButton_ThemeAmaszonas,
+.dxPivotGrid_pgCustomizationFormCloseButton_ThemeAmaszonas,
+.dxPivotGrid_pgDataHeaders_ThemeAmaszonas,
+.dxPivotGrid_pgDragArrowDown_ThemeAmaszonas,
+.dxPivotGrid_pgDragArrowLeft_ThemeAmaszonas,
+.dxPivotGrid_pgDragArrowRight_ThemeAmaszonas,
+.dxPivotGrid_pgDragArrowUp_ThemeAmaszonas,
+.dxPivotGrid_pgDragHideField_ThemeAmaszonas,
+.dxPivotGrid_pgExpandedButton_ThemeAmaszonas,
+.dxPivotGrid_pgFilterButton_ThemeAmaszonas,
+.dxPivotGrid_pgFilterButtonActive_ThemeAmaszonas,
+.dxPivotGrid_pgFilterResizer_ThemeAmaszonas,
+.dxPivotGrid_pgGroupSeparator_ThemeAmaszonas,
+.dxPivotGrid_pgPrefilterButton_ThemeAmaszonas,
+.dxPivotGrid_pgSortByColumn_ThemeAmaszonas,
+.dxPivotGrid_pgSortDownButton_ThemeAmaszonas,
+.dxPivotGrid_pgSortUpButton_ThemeAmaszonas,
+.dxtv-ndHov .dxPivotGrid_CTNCalculatedMeasure,
+.dxtv-ndHov .dxPivotGrid_CTNDimension,
+.dxtv-ndHov .dxPivotGrid_CTNFolderClosed,
+.dxtv-ndHov .dxPivotGrid_CTNFolderOpen,
+.dxtv-ndHov .dxPivotGrid_CTNHierarchy,
+.dxtv-ndHov .dxPivotGrid_CTNKpi,
+.dxtv-ndHov .dxPivotGrid_CTNMeasure
+{
+    background-image: url('sprite.svg');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxPivotGrid_CTNAttribute
+{
+    background-position: -68px -36px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_CTNCalculatedMeasure
+{
+    background-position: -17px -70px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_CTNDimension
+{
+    background-position: -51px -36px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_CTNFolderClosed
+{
+    background-position: 0px -104px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_CTNFolderOpen
+{
+    background-position: -34px -87px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_CTNHierarchy
+{
+    background-position: -68px -70px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_CTNKpi
+{
+    background-position: -17px -87px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_CTNMeasure
+{
+    background-position: -34px -104px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_FLBottomPanelOnly1by4_ThemeAmaszonas
+{
+    background-position: -21px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_FLBottomPanelOnly2by2_ThemeAmaszonas
+{
+    background-position: -51px -87px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_FLButton_ThemeAmaszonas
+{
+    background-position: -51px -104px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_FLColumnAreaHeaders_ThemeAmaszonas
+{
+    background-position: -68px -87px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_FLDataAreaHeaders_ThemeAmaszonas
+{
+    background-position: -34px -53px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_FLFieldList_ThemeAmaszonas
+{
+    background-position: -51px -53px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_FLFilterAreaHeaders_ThemeAmaszonas
+{
+    background-position: 0px -36px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_FLRowAreaHeaders_ThemeAmaszonas
+{
+    background-position: 0px -70px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_FLStackedDefault_ThemeAmaszonas
+{
+    background-position: -34px -36px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_FLStackedSideBySide_ThemeAmaszonas
+{
+    background-position: -38px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_FLTopPanelOnly_ThemeAmaszonas
+{
+    background-position: 0px -87px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_pgCollapsedButton_ThemeAmaszonas
+{
+    background-position: -83px -104px;
+    width: 4px;
+    height: 7px;
+}
+.dxPivotGrid_pgCustomizationFormCloseButton_ThemeAmaszonas
+{
+    background-position: 0px 0px;
+    width: 20px;
+    height: 20px;
+}
+.dxPivotGrid_pgDataHeaders_ThemeAmaszonas
+{
+    background-position: 0px -21px;
+    width: 22px;
+    height: 14px;
+}
+.dxPivotGrid_pgDragArrowDown_ThemeAmaszonas
+{
+    background-position: -59px -121px;
+    width: 10px;
+    height: 9px;
+}
+.dxPivotGrid_pgDragArrowLeft_ThemeAmaszonas
+{
+    background-position: -38px -121px;
+    width: 9px;
+    height: 10px;
+}
+.dxPivotGrid_pgDragArrowRight_ThemeAmaszonas
+{
+    background-position: -28px -121px;
+    width: 9px;
+    height: 10px;
+}
+.dxPivotGrid_pgDragArrowUp_ThemeAmaszonas
+{
+    background-position: -48px -121px;
+    width: 10px;
+    height: 9px;
+}
+.dxPivotGrid_pgDragHideField_ThemeAmaszonas
+{
+    background-position: -34px -70px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_pgExpandedButton_ThemeAmaszonas
+{
+    background-position: -80px -16px;
+    width: 7px;
+    height: 4px;
+}
+.dxPivotGrid_pgFilterButton_ThemeAmaszonas
+{
+    background-position: -68px -104px;
+    width: 14px;
+    height: 14px;
+}
+.dxPivotGrid_pgFilterButtonActive_ThemeAmaszonas
+{
+    background-position: -59px -21px;
+    width: 14px;
+    height: 14px;
+}
+.dxPivotGrid_pgFilterResizer_ThemeAmaszonas
+{
+    background-position: -44px -21px;
+    width: 14px;
+    height: 14px;
+}
+.dxPivotGrid_pgGroupSeparator_ThemeAmaszonas
+{
+    background-position: -23px -21px;
+    width: 20px;
+    height: 13px;
+}
+.dxPivotGrid_pgPrefilterButton_ThemeAmaszonas
+{
+    background-position: 0px -121px;
+    width: 14px;
+    height: 14px;
+}
+.dxPivotGrid_pgSortByColumn_ThemeAmaszonas
+{
+    background-position: -72px 0px;
+    width: 15px;
+    height: 14px;
+}
+.dxPivotGrid_pgSortDownButton_ThemeAmaszonas
+{
+    background-position: -15px -121px;
+    width: 12px;
+    height: 12px;
+}
+.dxPivotGrid_pgSortUpButton_ThemeAmaszonas
+{
+    background-position: -74px -21px;
+    width: 12px;
+    height: 12px;
+}
+.dxtv-ndHov .dxPivotGrid_CTNCalculatedMeasure
+{
+    background-position: 0px -53px;
+    width: 16px;
+    height: 16px;
+}
+.dxtv-ndHov .dxPivotGrid_CTNDimension
+{
+    background-position: -55px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxtv-ndHov .dxPivotGrid_CTNFolderClosed
+{
+    background-position: -17px -53px;
+    width: 16px;
+    height: 16px;
+}
+.dxtv-ndHov .dxPivotGrid_CTNFolderOpen
+{
+    background-position: -17px -104px;
+    width: 16px;
+    height: 16px;
+}
+.dxtv-ndHov .dxPivotGrid_CTNHierarchy
+{
+    background-position: -17px -36px;
+    width: 16px;
+    height: 16px;
+}
+.dxtv-ndHov .dxPivotGrid_CTNKpi
+{
+    background-position: -51px -70px;
+    width: 16px;
+    height: 16px;
+}
+.dxtv-ndHov .dxPivotGrid_CTNMeasure
+{
+    background-position: -68px -53px;
+    width: 16px;
+    height: 16px;
+}
+.dxPivotGrid_pgCustomizationFormCloseButton_ThemeAmaszonas,
+.dxPivotGrid_FLButton_ThemeAmaszonas
+{
+    display:block;
+}
+.dxPivotGrid_pgGroupSeparator_ThemeAmaszonas
+{
+    width: 20px!important;
+    height: 13px!important;
+}

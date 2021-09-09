@@ -1,0 +1,2035 @@
+.dxctToolbar_ThemeAmaszonas .dxm-hovered .dxWeb_mAdaptiveMenu_ThemeAmaszonas,
+.dxctToolbar_ThemeAmaszonas .dxm-hovered .dxWeb_mHorizontalPopOut_ThemeAmaszonas,
+.dxctToolbar_ThemeAmaszonas .dxWeb_mAdaptiveMenu_ThemeAmaszonas,
+.dxeListBoxItemSelected_ThemeAmaszonas .dxWeb_edtCheckBoxChecked_ThemeAmaszonas,
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmCopyButton_ThemeAmaszonas,
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmCreateButton_ThemeAmaszonas,
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmDeleteButton_ThemeAmaszonas,
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmDwnlButton_ThemeAmaszonas,
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmMoveButton_ThemeAmaszonas,
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmRefreshButton_ThemeAmaszonas,
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmRenameButton_ThemeAmaszonas,
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmUplButton_ThemeAmaszonas,
+.dxfm-file .dxWeb_edtCheckBoxChecked_ThemeAmaszonas,
+.dxfm-file .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas,
+.dxgvFocusedRow_ThemeAmaszonas .dxWeb_edtCheckBoxChecked_ThemeAmaszonas,
+.dxgvFocusedRow_ThemeAmaszonas .dxWeb_edtCheckBoxGrayed_ThemeAmaszonas,
+.dxgvFocusedRow_ThemeAmaszonas .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas,
+.dxigControl_ThemeAmaszonas.dxTouchUI .dxWeb_igCloseButton_ThemeAmaszonas,
+.dxigControl_ThemeAmaszonas.dxTouchUI .dxWeb_igPauseButton_ThemeAmaszonas,
+.dxigControl_ThemeAmaszonas.dxTouchUI .dxWeb_igPlayButton_ThemeAmaszonas,
+.dxm-checked .dxWeb_mHorizontalPopOut_ThemeAmaszonas,
+.dxm-checked .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxm-checked .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas,
+.dxm-checked.dxm-hovered .dxWeb_mHorizontalPopOut_ThemeAmaszonas,
+.dxm-checked.dxm-hovered .dxWeb_mSubMenuItemChecked_ThemeAmaszonas,
+.dxm-checked.dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxm-checked.dxm-hovered .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas,
+.dxm-disabled .dxWeb_mHorizontalPopOut_ThemeAmaszonas,
+.dxm-disabled .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxm-disabled .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas,
+.dxm-hovered .dxWeb_fmCopyButton_ThemeAmaszonas,
+.dxm-hovered .dxWeb_fmCreateButton_ThemeAmaszonas,
+.dxm-hovered .dxWeb_fmDeleteButton_ThemeAmaszonas,
+.dxm-hovered .dxWeb_fmDwnlButton_ThemeAmaszonas,
+.dxm-hovered .dxWeb_fmMoveButton_ThemeAmaszonas,
+.dxm-hovered .dxWeb_fmRefreshButton_ThemeAmaszonas,
+.dxm-hovered .dxWeb_fmRenameButton_ThemeAmaszonas,
+.dxm-hovered .dxWeb_fmUplButton_ThemeAmaszonas,
+.dxm-hovered .dxWeb_mAdaptiveMenu_ThemeAmaszonas,
+.dxm-hovered .dxWeb_mHorizontalPopOut_ThemeAmaszonas,
+.dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxm-hovered .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas,
+.dxm-scrollBtnHovered .dxWeb_mScrollDown_ThemeAmaszonas,
+.dxm-scrollBtnHovered .dxWeb_mScrollUp_ThemeAmaszonas,
+.dxm-scrollBtnPressed .dxWeb_mScrollDown_ThemeAmaszonas,
+.dxm-scrollBtnPressed .dxWeb_mScrollUp_ThemeAmaszonas,
+.dxm-selected .dxWeb_mHorizontalPopOut_ThemeAmaszonas,
+.dxm-selected .dxWeb_mSubMenuItemChecked_ThemeAmaszonas,
+.dxm-selected .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxm-selected .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas,
+.dxm-selected.dxm-hovered .dxWeb_mHorizontalPopOut_ThemeAmaszonas,
+.dxm-selected.dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxm-selected.dxm-hovered .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas,
+.dxm-vertical .dxm-checked .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxm-vertical .dxm-checked.dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxm-vertical .dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxm-vertical .dxm-selected .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxm-vertical .dxm-selected.dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxm-vertical .dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxpc-collapseBtnChecked .dxWeb_pcCollapseButton_ThemeAmaszonas,
+.dxpc-maximizeBtnChecked .dxWeb_pcMaximizeButton_ThemeAmaszonas,
+.dxpc-pinBtnChecked .dxWeb_pcPinButton_ThemeAmaszonas,
+.dxp-hoverDropDownButton .dxWeb_pPopOut_ThemeAmaszonas,
+.dxpnl-btnHover .dxWeb_pnlExpand_ThemeAmaszonas,
+.dxpnl-btnHover .dxWeb_pnlExpandArrowBottom_ThemeAmaszonas,
+.dxpnl-btnHover .dxWeb_pnlExpandArrowLeft_ThemeAmaszonas,
+.dxpnl-btnHover .dxWeb_pnlExpandArrowRight_ThemeAmaszonas,
+.dxpnl-btnHover .dxWeb_pnlExpandArrowTop_ThemeAmaszonas,
+.dxpnl-btnPressed .dxWeb_pnlExpand_ThemeAmaszonas,
+.dxpnl-btnPressed .dxWeb_pnlExpandArrowBottom_ThemeAmaszonas,
+.dxpnl-btnPressed .dxWeb_pnlExpandArrowLeft_ThemeAmaszonas,
+.dxpnl-btnPressed .dxWeb_pnlExpandArrowRight_ThemeAmaszonas,
+.dxpnl-btnPressed .dxWeb_pnlExpandArrowTop_ThemeAmaszonas,
+.dxpnl-btnSelected .dxWeb_pnlExpand_ThemeAmaszonas,
+.dxpnl-btnSelected .dxWeb_pnlExpandArrowBottom_ThemeAmaszonas,
+.dxpnl-btnSelected .dxWeb_pnlExpandArrowLeft_ThemeAmaszonas,
+.dxpnl-btnSelected .dxWeb_pnlExpandArrowRight_ThemeAmaszonas,
+.dxpnl-btnSelected .dxWeb_pnlExpandArrowTop_ThemeAmaszonas,
+.dxpnl-btnSelected.dxpnl-btnHover .dxWeb_pnlExpand_ThemeAmaszonas,
+.dxpnl-btnSelected.dxpnl-btnHover .dxWeb_pnlExpandArrowBottom_ThemeAmaszonas,
+.dxpnl-btnSelected.dxpnl-btnHover .dxWeb_pnlExpandArrowLeft_ThemeAmaszonas,
+.dxpnl-btnSelected.dxpnl-btnHover .dxWeb_pnlExpandArrowRight_ThemeAmaszonas,
+.dxpnl-btnSelected.dxpnl-btnHover .dxWeb_pnlExpandArrowTop_ThemeAmaszonas,
+.dxpnl-btnSelected.dxpnl-btnPressed .dxWeb_pnlExpand_ThemeAmaszonas,
+.dxpnl-btnSelected.dxpnl-btnPressed .dxWeb_pnlExpandArrowBottom_ThemeAmaszonas,
+.dxpnl-btnSelected.dxpnl-btnPressed .dxWeb_pnlExpandArrowLeft_ThemeAmaszonas,
+.dxpnl-btnSelected.dxpnl-btnPressed .dxWeb_pnlExpandArrowRight_ThemeAmaszonas,
+.dxpnl-btnSelected.dxpnl-btnPressed .dxWeb_pnlExpandArrowTop_ThemeAmaszonas,
+.dxp-pressedDropDownButton .dxWeb_pPopOut_ThemeAmaszonas,
+.dxr-glrBtnPressed .dxWeb_rGlrDown_ThemeAmaszonas,
+.dxr-glrBtnPressed .dxWeb_rGlrPopOut_ThemeAmaszonas,
+.dxr-glrBtnPressed .dxWeb_rGlrUp_ThemeAmaszonas,
+.dxr-grExpBtnHover .dxWeb_rPopOut_ThemeAmaszonas,
+.dxr-grExpBtnPressed .dxWeb_rPopOut_ThemeAmaszonas,
+.dxr-itemDisabled .dxWeb_rPopOut_ThemeAmaszonas,
+.dxr-itemHover .dxWeb_rPopOut_ThemeAmaszonas,
+.dxr-itemPressed .dxWeb_rPopOut_ThemeAmaszonas,
+.dxrp-collapseBtnHover .dxWeb_rpCollapseButton_ThemeAmaszonas,
+.dxrpCollapsed .dxrp-collapseBtnHover .dxWeb_rpCollapseButton_ThemeAmaszonas,
+.dxrpCollapsed .dxWeb_rpCollapseButton_ThemeAmaszonas,
+.dxtlFocusedNode_ThemeAmaszonas .dxWeb_edtCheckBoxChecked_ThemeAmaszonas,
+.dxtlFocusedNode_ThemeAmaszonas .dxWeb_edtCheckBoxGrayed_ThemeAmaszonas,
+.dxtlFocusedNode_ThemeAmaszonas .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas,
+.dxtv-ndHov .dxWeb_edtCheckBoxChecked_ThemeAmaszonas,
+.dxtv-ndHov .dxWeb_edtCheckBoxGrayed_ThemeAmaszonas,
+.dxtv-ndHov .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas,
+.dxtv-ndHov .dxWeb_fmFolder_ThemeAmaszonas,
+.dxtv-ndHov .dxWeb_fmFolderLocked_ThemeAmaszonas,
+.dxWeb_edtCheckBoxChecked_ThemeAmaszonas,
+.dxWeb_edtCheckBoxCheckedDisabled_ThemeAmaszonas,
+.dxWeb_edtCheckBoxGrayed_ThemeAmaszonas,
+.dxWeb_edtCheckBoxGrayedDisabled_ThemeAmaszonas,
+.dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas,
+.dxWeb_edtCheckBoxUncheckedDisabled_ThemeAmaszonas,
+.dxWeb_fmBreadCrumbsSeparatorArrow_ThemeAmaszonas,
+.dxWeb_fmBreadCrumbsUpButton_ThemeAmaszonas,
+.dxWeb_fmBreadCrumbsUpButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmBreadCrumbsUpButtonHover_ThemeAmaszonas,
+.dxWeb_fmCopyButton_ThemeAmaszonas,
+.dxWeb_fmCopyButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmCreateButton_ThemeAmaszonas,
+.dxWeb_fmCreateButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmDeleteButton_ThemeAmaszonas,
+.dxWeb_fmDeleteButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmDwnlButton_ThemeAmaszonas,
+.dxWeb_fmDwnlButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmFolder_ThemeAmaszonas,
+.dxWeb_fmFolderLocked_ThemeAmaszonas,
+.dxWeb_fmMoveButton_ThemeAmaszonas,
+.dxWeb_fmMoveButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmRefreshButton_ThemeAmaszonas,
+.dxWeb_fmRefreshButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmRenameButton_ThemeAmaszonas,
+.dxWeb_fmRenameButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmUplButton_ThemeAmaszonas,
+.dxWeb_fmUplButtonDisabled_ThemeAmaszonas,
+.dxWeb_igCloseButton_ThemeAmaszonas,
+.dxWeb_igNavigationBarMarker_ThemeAmaszonas,
+.dxWeb_igNextButton_ThemeAmaszonas,
+.dxWeb_igNextButtonDisabled_ThemeAmaszonas,
+.dxWeb_igNextButtonHover_ThemeAmaszonas,
+.dxWeb_igNextButtonPressed_ThemeAmaszonas,
+.dxWeb_igPauseButton_ThemeAmaszonas,
+.dxWeb_igPlayButton_ThemeAmaszonas,
+.dxWeb_igPrevButton_ThemeAmaszonas,
+.dxWeb_igPrevButtonDisabled_ThemeAmaszonas,
+.dxWeb_igPrevButtonHover_ThemeAmaszonas,
+.dxWeb_igPrevButtonPressed_ThemeAmaszonas,
+.dxWeb_isDot_ThemeAmaszonas,
+.dxWeb_isDotDisabled_ThemeAmaszonas,
+.dxWeb_isDotPressed_ThemeAmaszonas,
+.dxWeb_isDotSelected_ThemeAmaszonas,
+.dxWeb_isNextBtnHor_ThemeAmaszonas,
+.dxWeb_isNextBtnHorDisabled_ThemeAmaszonas,
+.dxWeb_isNextBtnVert_ThemeAmaszonas,
+.dxWeb_isNextBtnVertDisabled_ThemeAmaszonas,
+.dxWeb_isNextPageBtnHor_ThemeAmaszonas,
+.dxWeb_isNextPageBtnHorDisabled_ThemeAmaszonas,
+.dxWeb_isNextPageBtnHorOutside_ThemeAmaszonas,
+.dxWeb_isNextPageBtnHorOutsideDisabled_ThemeAmaszonas,
+.dxWeb_isNextPageBtnVert_ThemeAmaszonas,
+.dxWeb_isNextPageBtnVertDisabled_ThemeAmaszonas,
+.dxWeb_isNextPageBtnVertOutside_ThemeAmaszonas,
+.dxWeb_isNextPageBtnVertOutsideDisabled_ThemeAmaszonas,
+.dxWeb_isPauseBtn_ThemeAmaszonas,
+.dxWeb_isPlayBtn_ThemeAmaszonas,
+.dxWeb_isPrevBtnHor_ThemeAmaszonas,
+.dxWeb_isPrevBtnHorDisabled_ThemeAmaszonas,
+.dxWeb_isPrevBtnVert_ThemeAmaszonas,
+.dxWeb_isPrevBtnVertDisabled_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnHor_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnHorDisabled_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnHorOutside_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnHorOutsideDisabled_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnVert_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnVertDisabled_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnVertOutside_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnVertOutsideDisabled_ThemeAmaszonas,
+.dxWeb_izEWCloseButton_ThemeAmaszonas,
+.dxWeb_izHint_ThemeAmaszonas,
+.dxWeb_mAdaptiveMenu_ThemeAmaszonas,
+.dxWeb_mHorizontalPopOut_ThemeAmaszonas,
+.dxWeb_mScrollDown_ThemeAmaszonas,
+.dxWeb_mScrollUp_ThemeAmaszonas,
+.dxWeb_mSubMenuItem_ThemeAmaszonas,
+.dxWeb_mSubMenuItemChecked_ThemeAmaszonas,
+.dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxWeb_mVerticalPopOutRtl_ThemeAmaszonas,
+.dxWeb_nbCollapse_ThemeAmaszonas,
+.dxWeb_nbExpand_ThemeAmaszonas,
+.dxWeb_pAll_ThemeAmaszonas,
+.dxWeb_pAllDisabled_ThemeAmaszonas,
+.dxWeb_pcCloseButton_ThemeAmaszonas,
+.dxWeb_pcCollapseButton_ThemeAmaszonas,
+.dxWeb_pcExpandButton_ThemeAmaszonas,
+.dxWeb_pcMaximizeButton_ThemeAmaszonas,
+.dxWeb_pcPinButton_ThemeAmaszonas,
+.dxWeb_pcRefreshButton_ThemeAmaszonas,
+.dxWeb_pcSizeGrip_ThemeAmaszonas,
+.dxWeb_pcSizeGripRtl_ThemeAmaszonas,
+.dxWeb_pFirst_ThemeAmaszonas,
+.dxWeb_pFirstDisabled_ThemeAmaszonas,
+.dxWeb_pLast_ThemeAmaszonas,
+.dxWeb_pLastDisabled_ThemeAmaszonas,
+.dxWeb_pNext_ThemeAmaszonas,
+.dxWeb_pNextDisabled_ThemeAmaszonas,
+.dxWeb_pnlExpand_ThemeAmaszonas,
+.dxWeb_pnlExpandArrowBottom_ThemeAmaszonas,
+.dxWeb_pnlExpandArrowLeft_ThemeAmaszonas,
+.dxWeb_pnlExpandArrowRight_ThemeAmaszonas,
+.dxWeb_pnlExpandArrowTop_ThemeAmaszonas,
+.dxWeb_pPopOut_ThemeAmaszonas,
+.dxWeb_pPopOutDisabled_ThemeAmaszonas,
+.dxWeb_pPrev_ThemeAmaszonas,
+.dxWeb_pPrevDisabled_ThemeAmaszonas,
+.dxWeb_rDialogBoxLauncher_ThemeAmaszonas,
+.dxWeb_rDialogBoxLauncherDisabled_ThemeAmaszonas,
+.dxWeb_rDialogBoxLauncherHover_ThemeAmaszonas,
+.dxWeb_rDialogBoxLauncherPressed_ThemeAmaszonas,
+.dxWeb_rGlrDown_ThemeAmaszonas,
+.dxWeb_rGlrDownDisabled_ThemeAmaszonas,
+.dxWeb_rGlrDownHover_ThemeAmaszonas,
+.dxWeb_rGlrPopOut_ThemeAmaszonas,
+.dxWeb_rGlrPopOutDisabled_ThemeAmaszonas,
+.dxWeb_rGlrPopOutHover_ThemeAmaszonas,
+.dxWeb_rGlrUp_ThemeAmaszonas,
+.dxWeb_rGlrUpDisabled_ThemeAmaszonas,
+.dxWeb_rGlrUpHover_ThemeAmaszonas,
+.dxWeb_rMinBtn_ThemeAmaszonas,
+.dxWeb_rMinBtn_ThemeAmaszonas.dxWeb_rMinBtnHover_ThemeAmaszonas,
+.dxWeb_rMinBtn_ThemeAmaszonas.dxWeb_rMinBtnPressed_ThemeAmaszonas,
+.dxWeb_rMinBtnChecked_ThemeAmaszonas.dxWeb_rMinBtn_ThemeAmaszonas,
+.dxWeb_rMinBtnChecked_ThemeAmaszonas.dxWeb_rMinBtnDisabled_ThemeAmaszonas,
+.dxWeb_rMinBtnChecked_ThemeAmaszonas.dxWeb_rMinBtnHover_ThemeAmaszonas,
+.dxWeb_rMinBtnChecked_ThemeAmaszonas.dxWeb_rMinBtnPressed_ThemeAmaszonas,
+.dxWeb_rMinBtnDisabled_ThemeAmaszonas,
+.dxWeb_rpCollapseButton_ThemeAmaszonas,
+.dxWeb_rPinBtn_ThemeAmaszonas,
+.dxWeb_rPopOut_ThemeAmaszonas,
+.dxWeb_splHCollapseBackwardButton_ThemeAmaszonas,
+.dxWeb_splHCollapseBackwardButtonHover_ThemeAmaszonas,
+.dxWeb_splHCollapseForwardButton_ThemeAmaszonas,
+.dxWeb_splHCollapseForwardButtonHover_ThemeAmaszonas,
+.dxWeb_splHSeparator_ThemeAmaszonas,
+.dxWeb_splHSeparatorHover_ThemeAmaszonas,
+.dxWeb_splVCollapseBackwardButton_ThemeAmaszonas,
+.dxWeb_splVCollapseBackwardButtonHover_ThemeAmaszonas,
+.dxWeb_splVCollapseForwardButton_ThemeAmaszonas,
+.dxWeb_splVCollapseForwardButtonHover_ThemeAmaszonas,
+.dxWeb_splVSeparator_ThemeAmaszonas,
+.dxWeb_splVSeparatorHover_ThemeAmaszonas,
+.dxWeb_tcScrollLeft_ThemeAmaszonas,
+.dxWeb_tcScrollLeftDisabled_ThemeAmaszonas,
+.dxWeb_tcScrollLeftHover_ThemeAmaszonas,
+.dxWeb_tcScrollLeftPressed_ThemeAmaszonas,
+.dxWeb_tcScrollRight_ThemeAmaszonas,
+.dxWeb_tcScrollRightDisabled_ThemeAmaszonas,
+.dxWeb_tcScrollRightHover_ThemeAmaszonas,
+.dxWeb_tcScrollRightPressed_ThemeAmaszonas,
+.dxWeb_tvColBtn_ThemeAmaszonas,
+.dxWeb_tvColBtnRtl_ThemeAmaszonas,
+.dxWeb_tvExpBtn_ThemeAmaszonas,
+.dxWeb_tvExpBtnRtl_ThemeAmaszonas,
+.dxWeb_ucClearButton_ThemeAmaszonas,
+.dxWeb_ucClearButtonDisabled_ThemeAmaszonas,
+div.dxfm-fileF .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas,
+div.dxfm-fileF.dxfm-file.dxfm-fileSA .dxWeb_edtCheckBoxChecked_ThemeAmaszonas,
+div.dxfm-fileF.dxfm-file.dxfm-fileSI .dxWeb_edtCheckBoxChecked_ThemeAmaszonas,
+div.dxfm-fileH .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas,
+div.dxfm-fileH.dxfm-file.dxfm-fileSA .dxWeb_edtCheckBoxChecked_ThemeAmaszonas,
+div.dxfm-fileH.dxfm-file.dxfm-fileSI .dxWeb_edtCheckBoxChecked_ThemeAmaszonas,
+div.dxfm-fileSA.dxfm-file .dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-image: url('sprite.svg');
+    background-repeat: no-repeat;
+    background-color: transparent;
+}
+.dxctToolbar_ThemeAmaszonas .dxm-hovered .dxWeb_mAdaptiveMenu_ThemeAmaszonas
+{
+    background-position: -51px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxctToolbar_ThemeAmaszonas .dxm-hovered .dxWeb_mHorizontalPopOut_ThemeAmaszonas
+{
+    background-position: -267px -159px;
+    width: 9px;
+    height: 9px;
+}
+.dxctToolbar_ThemeAmaszonas .dxWeb_mAdaptiveMenu_ThemeAmaszonas
+{
+    background-position: -170px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxeListBoxItemSelected_ThemeAmaszonas .dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-position: -190px -188px;
+    width: 18px;
+    height: 18px;
+}
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmCopyButton_ThemeAmaszonas
+{
+    background-position: -51px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmCreateButton_ThemeAmaszonas
+{
+    background-position: -153px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmDeleteButton_ThemeAmaszonas
+{
+    background-position: 0px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmDwnlButton_ThemeAmaszonas
+{
+    background-position: -153px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmMoveButton_ThemeAmaszonas
+{
+    background-position: -17px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmRefreshButton_ThemeAmaszonas
+{
+    background-position: -221px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmRenameButton_ThemeAmaszonas
+{
+    background-position: -68px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxfmControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-popupMain .dxm-gutter .dxm-hovered .dxWeb_fmUplButton_ThemeAmaszonas
+{
+    background-position: -134px -111px;
+    width: 22px;
+    height: 22px;
+}
+.dxfm-file .dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-position: -247px -188px;
+    width: 18px;
+    height: 18px;
+}
+.dxfm-file .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas
+{
+    background-position: -247px -169px;
+    width: 18px;
+    height: 18px;
+}
+.dxgvFocusedRow_ThemeAmaszonas .dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-position: -76px -169px;
+    width: 18px;
+    height: 18px;
+}
+.dxgvFocusedRow_ThemeAmaszonas .dxWeb_edtCheckBoxGrayed_ThemeAmaszonas
+{
+    background-position: -57px -169px;
+    width: 18px;
+    height: 18px;
+}
+.dxgvFocusedRow_ThemeAmaszonas .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas
+{
+    background-position: -76px -188px;
+    width: 18px;
+    height: 18px;
+}
+.dxigControl_ThemeAmaszonas.dxTouchUI .dxWeb_igCloseButton_ThemeAmaszonas
+{
+    background-position: 0px -148px;
+    width: 20px;
+    height: 20px;
+}
+.dxigControl_ThemeAmaszonas.dxTouchUI .dxWeb_igPauseButton_ThemeAmaszonas
+{
+    background-position: -147px -148px;
+    width: 20px;
+    height: 20px;
+}
+.dxigControl_ThemeAmaszonas.dxTouchUI .dxWeb_igPlayButton_ThemeAmaszonas
+{
+    background-position: -201px -111px;
+    width: 20px;
+    height: 20px;
+}
+.dxm-checked .dxWeb_mHorizontalPopOut_ThemeAmaszonas
+{
+    background-position: -184px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-checked .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -110px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-checked .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas
+{
+    background-position: -40px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-checked.dxm-hovered .dxWeb_mHorizontalPopOut_ThemeAmaszonas
+{
+    background-position: -254px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-checked.dxm-hovered .dxWeb_mSubMenuItemChecked_ThemeAmaszonas
+{
+    background-position: -152px -188px;
+    width: 18px;
+    height: 18px;
+}
+.dxm-checked.dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -124px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-checked.dxm-hovered .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas
+{
+    background-position: -44px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-disabled .dxWeb_mHorizontalPopOut_ThemeAmaszonas
+{
+    background-position: -100px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-disabled .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -154px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-disabled .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas
+{
+    background-position: -60px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-hovered .dxWeb_fmCopyButton_ThemeAmaszonas
+{
+    background-position: -255px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxWeb_fmCreateButton_ThemeAmaszonas
+{
+    background-position: -102px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxWeb_fmDeleteButton_ThemeAmaszonas
+{
+    background-position: -238px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxWeb_fmDwnlButton_ThemeAmaszonas
+{
+    background-position: -255px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxWeb_fmMoveButton_ThemeAmaszonas
+{
+    background-position: -153px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxWeb_fmRefreshButton_ThemeAmaszonas
+{
+    background-position: -170px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxWeb_fmRenameButton_ThemeAmaszonas
+{
+    background-position: -17px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxm-hovered .dxWeb_fmUplButton_ThemeAmaszonas
+{
+    background-position: -111px -111px;
+    width: 22px;
+    height: 22px;
+}
+.dxm-hovered .dxWeb_mAdaptiveMenu_ThemeAmaszonas
+{
+    background-position: -240px -320px;
+    width: 12px;
+    height: 3px;
+}
+.dxm-hovered .dxWeb_mHorizontalPopOut_ThemeAmaszonas
+{
+    background-position: -194px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -224px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-hovered .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas
+{
+    background-position: -50px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-scrollBtnHovered .dxWeb_mScrollDown_ThemeAmaszonas
+{
+    background-position: -90px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-scrollBtnHovered .dxWeb_mScrollUp_ThemeAmaszonas
+{
+    background-position: -120px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-scrollBtnPressed .dxWeb_mScrollDown_ThemeAmaszonas
+{
+    background-position: -134px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-scrollBtnPressed .dxWeb_mScrollUp_ThemeAmaszonas
+{
+    background-position: -84px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-selected .dxWeb_mHorizontalPopOut_ThemeAmaszonas
+{
+    background-position: -20px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-selected .dxWeb_mSubMenuItemChecked_ThemeAmaszonas
+{
+    background-position: -238px -258px;
+    width: 14px;
+    height: 14px;
+}
+.dxm-selected .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -94px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-selected .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas
+{
+    background-position: -10px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-selected.dxm-hovered .dxWeb_mHorizontalPopOut_ThemeAmaszonas
+{
+    background-position: -234px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-selected.dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: 0px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-selected.dxm-hovered .dxWeb_mVerticalPopOutRtl_ThemeAmaszonas
+{
+    background-position: -164px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-vertical .dxm-checked .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -70px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-vertical .dxm-checked.dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -140px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-vertical .dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -54px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-vertical .dxm-selected .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -244px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-vertical .dxm-selected.dxm-hovered .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -267px -290px;
+    width: 9px;
+    height: 9px;
+}
+.dxm-vertical .dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -30px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxpc-collapseBtnChecked .dxWeb_pcCollapseButton_ThemeAmaszonas
+{
+    background-position: -237px -133px;
+    width: 14px;
+    height: 14px;
+}
+.dxpc-maximizeBtnChecked .dxWeb_pcMaximizeButton_ThemeAmaszonas
+{
+    background-position: -259px 0px;
+    width: 16px;
+    height: 16px;
+}
+.dxpc-pinBtnChecked .dxWeb_pcPinButton_ThemeAmaszonas
+{
+    background-position: -252px -133px;
+    width: 14px;
+    height: 14px;
+}
+.dxp-hoverDropDownButton .dxWeb_pPopOut_ThemeAmaszonas
+{
+    background-position: -266px -169px;
+    width: 10px;
+    height: 10px;
+}
+.dxpnl-btnHover .dxWeb_pnlExpand_ThemeAmaszonas
+{
+    background-position: -246px -148px;
+    width: 18px;
+    height: 18px;
+}
+.dxpnl-btnHover .dxWeb_pnlExpandArrowBottom_ThemeAmaszonas
+{
+    background-position: -102px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnHover .dxWeb_pnlExpandArrowLeft_ThemeAmaszonas
+{
+    background-position: -153px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnHover .dxWeb_pnlExpandArrowRight_ThemeAmaszonas
+{
+    background-position: -221px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnHover .dxWeb_pnlExpandArrowTop_ThemeAmaszonas
+{
+    background-position: -204px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnPressed .dxWeb_pnlExpand_ThemeAmaszonas
+{
+    background-position: -95px -188px;
+    width: 18px;
+    height: 18px;
+}
+.dxpnl-btnPressed .dxWeb_pnlExpandArrowBottom_ThemeAmaszonas
+{
+    background-position: -238px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnPressed .dxWeb_pnlExpandArrowLeft_ThemeAmaszonas
+{
+    background-position: -119px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnPressed .dxWeb_pnlExpandArrowRight_ThemeAmaszonas
+{
+    background-position: -187px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnPressed .dxWeb_pnlExpandArrowTop_ThemeAmaszonas
+{
+    background-position: -102px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected .dxWeb_pnlExpand_ThemeAmaszonas
+{
+    background-position: -187px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected .dxWeb_pnlExpandArrowBottom_ThemeAmaszonas
+{
+    background-position: -102px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected .dxWeb_pnlExpandArrowLeft_ThemeAmaszonas
+{
+    background-position: -136px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected .dxWeb_pnlExpandArrowRight_ThemeAmaszonas
+{
+    background-position: -260px -57px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected .dxWeb_pnlExpandArrowTop_ThemeAmaszonas
+{
+    background-position: -85px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected.dxpnl-btnHover .dxWeb_pnlExpand_ThemeAmaszonas
+{
+    background-position: -170px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected.dxpnl-btnHover .dxWeb_pnlExpandArrowBottom_ThemeAmaszonas
+{
+    background-position: -119px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected.dxpnl-btnHover .dxWeb_pnlExpandArrowLeft_ThemeAmaszonas
+{
+    background-position: -221px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected.dxpnl-btnHover .dxWeb_pnlExpandArrowRight_ThemeAmaszonas
+{
+    background-position: -51px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected.dxpnl-btnHover .dxWeb_pnlExpandArrowTop_ThemeAmaszonas
+{
+    background-position: -119px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected.dxpnl-btnPressed .dxWeb_pnlExpand_ThemeAmaszonas
+{
+    background-position: 0px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected.dxpnl-btnPressed .dxWeb_pnlExpandArrowBottom_ThemeAmaszonas
+{
+    background-position: -221px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected.dxpnl-btnPressed .dxWeb_pnlExpandArrowLeft_ThemeAmaszonas
+{
+    background-position: -119px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected.dxpnl-btnPressed .dxWeb_pnlExpandArrowRight_ThemeAmaszonas
+{
+    background-position: -260px -94px;
+    width: 16px;
+    height: 16px;
+}
+.dxpnl-btnSelected.dxpnl-btnPressed .dxWeb_pnlExpandArrowTop_ThemeAmaszonas
+{
+    background-position: 0px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxp-pressedDropDownButton .dxWeb_pPopOut_ThemeAmaszonas
+{
+    background-position: -33px -303px;
+    width: 10px;
+    height: 10px;
+}
+.dxr-glrBtnPressed .dxWeb_rGlrDown_ThemeAmaszonas
+{
+    background-position: -203px -314px;
+    width: 7px;
+    height: 4px;
+}
+.dxr-glrBtnPressed .dxWeb_rGlrPopOut_ThemeAmaszonas
+{
+    background-position: -268px -258px;
+    width: 7px;
+    height: 7px;
+}
+.dxr-glrBtnPressed .dxWeb_rGlrUp_ThemeAmaszonas
+{
+    background-position: -267px -314px;
+    width: 7px;
+    height: 4px;
+}
+.dxr-grExpBtnHover .dxWeb_rPopOut_ThemeAmaszonas
+{
+    background-position: -80px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxr-grExpBtnPressed .dxWeb_rPopOut_ThemeAmaszonas
+{
+    background-position: -204px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxr-itemDisabled .dxWeb_rPopOut_ThemeAmaszonas
+{
+    background-position: -114px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxr-itemHover .dxWeb_rPopOut_ThemeAmaszonas
+{
+    background-position: -64px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxr-itemPressed .dxWeb_rPopOut_ThemeAmaszonas
+{
+    background-position: -174px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxrp-collapseBtnHover .dxWeb_rpCollapseButton_ThemeAmaszonas
+{
+    background-position: -127px -135px;
+    width: 12px;
+    height: 12px;
+}
+.dxrpCollapsed .dxrp-collapseBtnHover .dxWeb_rpCollapseButton_ThemeAmaszonas
+{
+    background-position: -220px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxrpCollapsed .dxWeb_rpCollapseButton_ThemeAmaszonas
+{
+    background-position: -78px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxtlFocusedNode_ThemeAmaszonas .dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-position: -133px -169px;
+    width: 18px;
+    height: 18px;
+}
+.dxtlFocusedNode_ThemeAmaszonas .dxWeb_edtCheckBoxGrayed_ThemeAmaszonas
+{
+    background-position: -189px -148px;
+    width: 18px;
+    height: 18px;
+}
+.dxtlFocusedNode_ThemeAmaszonas .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas
+{
+    background-position: -95px -169px;
+    width: 18px;
+    height: 18px;
+}
+.dxtv-ndHov .dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-position: -19px -188px;
+    width: 18px;
+    height: 18px;
+}
+.dxtv-ndHov .dxWeb_edtCheckBoxGrayed_ThemeAmaszonas
+{
+    background-position: 0px -188px;
+    width: 18px;
+    height: 18px;
+}
+.dxtv-ndHov .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas
+{
+    background-position: -208px -148px;
+    width: 18px;
+    height: 18px;
+}
+.dxtv-ndHov .dxWeb_fmFolder_ThemeAmaszonas
+{
+    background-position: -187px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxtv-ndHov .dxWeb_fmFolderLocked_ThemeAmaszonas
+{
+    background-position: -187px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-position: -228px -188px;
+    width: 18px;
+    height: 18px;
+}
+.dxWeb_edtCheckBoxCheckedDisabled_ThemeAmaszonas
+{
+    background-position: -38px -169px;
+    width: 18px;
+    height: 18px;
+}
+.dxWeb_edtCheckBoxGrayed_ThemeAmaszonas
+{
+    background-position: -171px -169px;
+    width: 18px;
+    height: 18px;
+}
+.dxWeb_edtCheckBoxGrayedDisabled_ThemeAmaszonas
+{
+    background-position: -57px -188px;
+    width: 18px;
+    height: 18px;
+}
+.dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas
+{
+    background-position: -171px -188px;
+    width: 18px;
+    height: 18px;
+}
+.dxWeb_edtCheckBoxUncheckedDisabled_ThemeAmaszonas
+{
+    background-position: -38px -188px;
+    width: 18px;
+    height: 18px;
+}
+.dxWeb_fmBreadCrumbsSeparatorArrow_ThemeAmaszonas
+{
+    background-position: -272px -207px;
+    width: 4px;
+    height: 7px;
+}
+.dxWeb_fmBreadCrumbsUpButton_ThemeAmaszonas
+{
+    background-position: -136px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmBreadCrumbsUpButtonDisabled_ThemeAmaszonas
+{
+    background-position: -17px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmBreadCrumbsUpButtonHover_ThemeAmaszonas
+{
+    background-position: -170px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmCopyButton_ThemeAmaszonas
+{
+    background-position: -34px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmCopyButtonDisabled_ThemeAmaszonas
+{
+    background-position: -136px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmCreateButton_ThemeAmaszonas
+{
+    background-position: -260px -20px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmCreateButtonDisabled_ThemeAmaszonas
+{
+    background-position: 0px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmDeleteButton_ThemeAmaszonas
+{
+    background-position: -238px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmDeleteButtonDisabled_ThemeAmaszonas
+{
+    background-position: -85px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmDwnlButton_ThemeAmaszonas
+{
+    background-position: -204px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmDwnlButtonDisabled_ThemeAmaszonas
+{
+    background-position: -34px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmFolder_ThemeAmaszonas
+{
+    background-position: -204px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmFolderLocked_ThemeAmaszonas
+{
+    background-position: -255px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmMoveButton_ThemeAmaszonas
+{
+    background-position: -259px -74px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmMoveButtonDisabled_ThemeAmaszonas
+{
+    background-position: -68px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmRefreshButton_ThemeAmaszonas
+{
+    background-position: -17px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmRefreshButtonDisabled_ThemeAmaszonas
+{
+    background-position: -68px -207px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmRenameButton_ThemeAmaszonas
+{
+    background-position: -34px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmRenameButtonDisabled_ThemeAmaszonas
+{
+    background-position: -68px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmUplButton_ThemeAmaszonas
+{
+    background-position: -51px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_fmUplButtonDisabled_ThemeAmaszonas
+{
+    background-position: -157px -111px;
+    width: 22px;
+    height: 22px;
+}
+.dxWeb_igCloseButton_ThemeAmaszonas
+{
+    background-position: -180px -111px;
+    width: 20px;
+    height: 20px;
+}
+.dxWeb_igNavigationBarMarker_ThemeAmaszonas
+{
+    background-position: -153px -135px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_igNextButton_ThemeAmaszonas
+{
+    background-position: 0px -111px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_igNextButtonDisabled_ThemeAmaszonas
+{
+    background-position: -74px -111px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_igNextButtonHover_ThemeAmaszonas
+{
+    background-position: 0px -37px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_igNextButtonPressed_ThemeAmaszonas
+{
+    background-position: -111px -37px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_igPauseButton_ThemeAmaszonas
+{
+    background-position: -21px -148px;
+    width: 20px;
+    height: 20px;
+}
+.dxWeb_igPlayButton_ThemeAmaszonas
+{
+    background-position: -222px -111px;
+    width: 20px;
+    height: 20px;
+}
+.dxWeb_igPrevButton_ThemeAmaszonas
+{
+    background-position: -222px -74px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_igPrevButtonDisabled_ThemeAmaszonas
+{
+    background-position: -37px 0px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_igPrevButtonHover_ThemeAmaszonas
+{
+    background-position: -185px -74px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_igPrevButtonPressed_ThemeAmaszonas
+{
+    background-position: -185px 0px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isDot_ThemeAmaszonas
+{
+    background-position: -84px -148px;
+    width: 20px;
+    height: 20px;
+}
+.dxWeb_isDotDisabled_ThemeAmaszonas
+{
+    background-position: -42px -148px;
+    width: 20px;
+    height: 20px;
+}
+.dxWeb_isDotPressed_ThemeAmaszonas
+{
+    background-position: -63px -148px;
+    width: 20px;
+    height: 20px;
+}
+.dxWeb_isDotSelected_ThemeAmaszonas
+{
+    background-position: -126px -148px;
+    width: 20px;
+    height: 20px;
+}
+.dxWeb_isNextBtnHor_ThemeAmaszonas
+{
+    background-position: 0px -74px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isNextBtnHorDisabled_ThemeAmaszonas
+{
+    background-position: -148px 0px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isNextBtnVert_ThemeAmaszonas
+{
+    background-position: 0px 0px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isNextBtnVertDisabled_ThemeAmaszonas
+{
+    background-position: -111px -74px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isNextPageBtnHor_ThemeAmaszonas
+{
+    background-position: -13px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_isNextPageBtnHorDisabled_ThemeAmaszonas
+{
+    background-position: -166px -135px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_isNextPageBtnHorOutside_ThemeAmaszonas
+{
+    background-position: -74px 0px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isNextPageBtnHorOutsideDisabled_ThemeAmaszonas
+{
+    background-position: -111px 0px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isNextPageBtnVert_ThemeAmaszonas
+{
+    background-position: -52px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_isNextPageBtnVertDisabled_ThemeAmaszonas
+{
+    background-position: -179px -135px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_isNextPageBtnVertOutside_ThemeAmaszonas
+{
+    background-position: -148px -37px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isNextPageBtnVertOutsideDisabled_ThemeAmaszonas
+{
+    background-position: -185px -37px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isPauseBtn_ThemeAmaszonas
+{
+    background-position: -105px -148px;
+    width: 20px;
+    height: 20px;
+}
+.dxWeb_isPlayBtn_ThemeAmaszonas
+{
+    background-position: -168px -148px;
+    width: 20px;
+    height: 20px;
+}
+.dxWeb_isPrevBtnHor_ThemeAmaszonas
+{
+    background-position: -37px -74px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isPrevBtnHorDisabled_ThemeAmaszonas
+{
+    background-position: -37px -37px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isPrevBtnVert_ThemeAmaszonas
+{
+    background-position: -37px -111px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isPrevBtnVertDisabled_ThemeAmaszonas
+{
+    background-position: -74px -37px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isPrevPageBtnHor_ThemeAmaszonas
+{
+    background-position: -207px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_isPrevPageBtnHorDisabled_ThemeAmaszonas
+{
+    background-position: -91px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_isPrevPageBtnHorOutside_ThemeAmaszonas
+{
+    background-position: -74px -74px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isPrevPageBtnHorOutsideDisabled_ThemeAmaszonas
+{
+    background-position: -222px 0px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isPrevPageBtnVert_ThemeAmaszonas
+{
+    background-position: -181px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_isPrevPageBtnVertDisabled_ThemeAmaszonas
+{
+    background-position: -264px -111px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_isPrevPageBtnVertOutside_ThemeAmaszonas
+{
+    background-position: -148px -74px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_isPrevPageBtnVertOutsideDisabled_ThemeAmaszonas
+{
+    background-position: -222px -37px;
+    width: 36px;
+    height: 36px;
+}
+.dxWeb_izEWCloseButton_ThemeAmaszonas
+{
+    background-position: -85px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_izHint_ThemeAmaszonas
+{
+    background-position: -60px -275px;
+    width: 14px;
+    height: 14px;
+}
+.dxWeb_mAdaptiveMenu_ThemeAmaszonas
+{
+    background-position: -34px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_mHorizontalPopOut_ThemeAmaszonas
+{
+    background-position: -264px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxWeb_mScrollDown_ThemeAmaszonas
+{
+    background-position: -130px -314px;
+    width: 9px;
+    height: 9px;
+}
+.dxWeb_mScrollUp_ThemeAmaszonas
+{
+    background-position: -104px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxWeb_mSubMenuItem_ThemeAmaszonas
+{
+    background-position: -114px -169px;
+    width: 18px;
+    height: 18px;
+}
+.dxWeb_mSubMenuItemChecked_ThemeAmaszonas
+{
+    background-position: -152px -169px;
+    width: 18px;
+    height: 18px;
+}
+.dxWeb_mVerticalPopOut_ThemeAmaszonas
+{
+    background-position: -214px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxWeb_mVerticalPopOutRtl_ThemeAmaszonas
+{
+    background-position: -74px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxWeb_nbCollapse_ThemeAmaszonas
+{
+    background-position: -140px -135px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_nbExpand_ThemeAmaszonas
+{
+    background-position: -130px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_pAll_ThemeAmaszonas
+{
+    background-position: -245px -290px;
+    width: 10px;
+    height: 10px;
+}
+.dxWeb_pAllDisabled_ThemeAmaszonas
+{
+    background-position: -265px -148px;
+    width: 10px;
+    height: 10px;
+}
+.dxWeb_pcCloseButton_ThemeAmaszonas
+{
+    background-position: -30px -275px;
+    width: 14px;
+    height: 14px;
+}
+.dxWeb_pcCollapseButton_ThemeAmaszonas
+{
+    background-position: -15px -275px;
+    width: 14px;
+    height: 14px;
+}
+.dxWeb_pcExpandButton_ThemeAmaszonas
+{
+    background-position: -207px -133px;
+    width: 14px;
+    height: 14px;
+}
+.dxWeb_pcMaximizeButton_ThemeAmaszonas
+{
+    background-position: -192px -133px;
+    width: 14px;
+    height: 14px;
+}
+.dxWeb_pcPinButton_ThemeAmaszonas
+{
+    background-position: -45px -275px;
+    width: 14px;
+    height: 14px;
+}
+.dxWeb_pcRefreshButton_ThemeAmaszonas
+{
+    background-position: -75px -275px;
+    width: 14px;
+    height: 14px;
+}
+.dxWeb_pcSizeGrip_ThemeAmaszonas
+{
+    background-position: -222px -133px;
+    width: 14px;
+    height: 14px;
+}
+.dxWeb_pcSizeGripRtl_ThemeAmaszonas
+{
+    background-position: -253px -258px;
+    width: 14px;
+    height: 14px;
+}
+.dxWeb_pFirst_ThemeAmaszonas
+{
+    background-position: -195px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_pFirstDisabled_ThemeAmaszonas
+{
+    background-position: -117px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_pLast_ThemeAmaszonas
+{
+    background-position: -182px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_pLastDisabled_ThemeAmaszonas
+{
+    background-position: -39px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_pNext_ThemeAmaszonas
+{
+    background-position: -142px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_pNextDisabled_ThemeAmaszonas
+{
+    background-position: -143px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_pnlExpand_ThemeAmaszonas
+{
+    background-position: -19px -169px;
+    width: 18px;
+    height: 18px;
+}
+.dxWeb_pnlExpandArrowBottom_ThemeAmaszonas
+{
+    background-position: -204px -241px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_pnlExpandArrowLeft_ThemeAmaszonas
+{
+    background-position: -259px -37px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_pnlExpandArrowRight_ThemeAmaszonas
+{
+    background-position: -136px -258px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_pnlExpandArrowTop_ThemeAmaszonas
+{
+    background-position: -85px -224px;
+    width: 16px;
+    height: 16px;
+}
+.dxWeb_pPopOut_ThemeAmaszonas
+{
+    background-position: -234px -290px;
+    width: 10px;
+    height: 10px;
+}
+.dxWeb_pPopOutDisabled_ThemeAmaszonas
+{
+    background-position: 0px -303px;
+    width: 10px;
+    height: 10px;
+}
+.dxWeb_pPrev_ThemeAmaszonas
+{
+    background-position: -259px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_pPrevDisabled_ThemeAmaszonas
+{
+    background-position: -156px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_rDialogBoxLauncher_ThemeAmaszonas
+{
+    background-position: -157px -314px;
+    width: 6px;
+    height: 6px;
+}
+.dxWeb_rDialogBoxLauncherDisabled_ThemeAmaszonas
+{
+    background-position: -150px -314px;
+    width: 6px;
+    height: 6px;
+}
+.dxWeb_rDialogBoxLauncherHover_ThemeAmaszonas
+{
+    background-position: -270px -268px;
+    width: 6px;
+    height: 6px;
+}
+.dxWeb_rDialogBoxLauncherPressed_ThemeAmaszonas
+{
+    background-position: -164px -314px;
+    width: 6px;
+    height: 6px;
+}
+.dxWeb_rGlrDown_ThemeAmaszonas
+{
+    background-position: -227px -314px;
+    width: 7px;
+    height: 4px;
+}
+.dxWeb_rGlrDownDisabled_ThemeAmaszonas
+{
+    background-position: -261px -319px;
+    width: 7px;
+    height: 4px;
+}
+.dxWeb_rGlrDownHover_ThemeAmaszonas
+{
+    background-position: -259px -314px;
+    width: 7px;
+    height: 4px;
+}
+.dxWeb_rGlrPopOut_ThemeAmaszonas
+{
+    background-position: -269px -199px;
+    width: 7px;
+    height: 7px;
+}
+.dxWeb_rGlrPopOutDisabled_ThemeAmaszonas
+{
+    background-position: -264px -124px;
+    width: 7px;
+    height: 7px;
+}
+.dxWeb_rGlrPopOutHover_ThemeAmaszonas
+{
+    background-position: -269px -180px;
+    width: 7px;
+    height: 7px;
+}
+.dxWeb_rGlrUp_ThemeAmaszonas
+{
+    background-position: -211px -314px;
+    width: 7px;
+    height: 4px;
+}
+.dxWeb_rGlrUpDisabled_ThemeAmaszonas
+{
+    background-position: -269px -319px;
+    width: 7px;
+    height: 4px;
+}
+.dxWeb_rGlrUpHover_ThemeAmaszonas
+{
+    background-position: -253px -319px;
+    width: 7px;
+    height: 4px;
+}
+.dxWeb_rMinBtn_ThemeAmaszonas
+{
+    background-position: -168px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_rMinBtn_ThemeAmaszonas.dxWeb_rMinBtnHover_ThemeAmaszonas
+{
+    background-position: -65px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_rMinBtn_ThemeAmaszonas.dxWeb_rMinBtnPressed_ThemeAmaszonas
+{
+    background-position: -194px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_rMinBtnChecked_ThemeAmaszonas.dxWeb_rMinBtn_ThemeAmaszonas
+{
+    background-position: -155px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_rMinBtnChecked_ThemeAmaszonas.dxWeb_rMinBtnDisabled_ThemeAmaszonas
+{
+    background-position: -246px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_rMinBtnChecked_ThemeAmaszonas.dxWeb_rMinBtnHover_ThemeAmaszonas
+{
+    background-position: -169px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_rMinBtnChecked_ThemeAmaszonas.dxWeb_rMinBtnPressed_ThemeAmaszonas
+{
+    background-position: 0px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_rMinBtnDisabled_ThemeAmaszonas
+{
+    background-position: -116px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_rpCollapseButton_ThemeAmaszonas
+{
+    background-position: -221px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_rPinBtn_ThemeAmaszonas
+{
+    background-position: 0px -275px;
+    width: 14px;
+    height: 14px;
+}
+.dxWeb_rPopOut_ThemeAmaszonas
+{
+    background-position: -144px -303px;
+    width: 9px;
+    height: 9px;
+}
+.dxWeb_splHCollapseBackwardButton_ThemeAmaszonas
+{
+    background-position: -243px -314px;
+    width: 7px;
+    height: 4px;
+}
+.dxWeb_splHCollapseBackwardButtonHover_ThemeAmaszonas
+{
+    background-position: -251px -314px;
+    width: 7px;
+    height: 4px;
+}
+.dxWeb_splHCollapseForwardButton_ThemeAmaszonas
+{
+    background-position: -235px -314px;
+    width: 7px;
+    height: 4px;
+}
+.dxWeb_splHCollapseForwardButtonHover_ThemeAmaszonas
+{
+    background-position: -219px -314px;
+    width: 7px;
+    height: 4px;
+}
+.dxWeb_splHSeparator_ThemeAmaszonas
+{
+    background-position: -171px -314px;
+    width: 15px;
+    height: 4px;
+}
+.dxWeb_splHSeparatorHover_ThemeAmaszonas
+{
+    background-position: -187px -314px;
+    width: 15px;
+    height: 4px;
+}
+.dxWeb_splVCollapseBackwardButton_ThemeAmaszonas
+{
+    background-position: -272px -124px;
+    width: 4px;
+    height: 7px;
+}
+.dxWeb_splVCollapseBackwardButtonHover_ThemeAmaszonas
+{
+    background-position: -272px -216px;
+    width: 4px;
+    height: 7px;
+}
+.dxWeb_splVCollapseForwardButton_ThemeAmaszonas
+{
+    background-position: -272px -224px;
+    width: 4px;
+    height: 7px;
+}
+.dxWeb_splVCollapseForwardButtonHover_ThemeAmaszonas
+{
+    background-position: -272px -233px;
+    width: 4px;
+    height: 7px;
+}
+.dxWeb_splVSeparator_ThemeAmaszonas
+{
+    background-position: -272px -132px;
+    width: 4px;
+    height: 15px;
+}
+.dxWeb_splVSeparatorHover_ThemeAmaszonas
+{
+    background-position: -267px -132px;
+    width: 4px;
+    height: 15px;
+}
+.dxWeb_tcScrollLeft_ThemeAmaszonas
+{
+    background-position: -114px -135px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_tcScrollLeftDisabled_ThemeAmaszonas
+{
+    background-position: -90px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_tcScrollLeftHover_ThemeAmaszonas
+{
+    background-position: -129px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_tcScrollLeftPressed_ThemeAmaszonas
+{
+    background-position: -26px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_tcScrollRight_ThemeAmaszonas
+{
+    background-position: -104px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_tcScrollRightDisabled_ThemeAmaszonas
+{
+    background-position: -233px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_tcScrollRightHover_ThemeAmaszonas
+{
+    background-position: -103px -275px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_tcScrollRightPressed_ThemeAmaszonas
+{
+    background-position: -208px -290px;
+    width: 12px;
+    height: 12px;
+}
+.dxWeb_tvColBtn_ThemeAmaszonas
+{
+    background-position: -256px -290px;
+    width: 10px;
+    height: 10px;
+}
+.dxWeb_tvColBtnRtl_ThemeAmaszonas
+{
+    background-position: -22px -303px;
+    width: 10px;
+    height: 10px;
+}
+.dxWeb_tvExpBtn_ThemeAmaszonas
+{
+    background-position: -266px -188px;
+    width: 10px;
+    height: 10px;
+}
+.dxWeb_tvExpBtnRtl_ThemeAmaszonas
+{
+    background-position: -11px -303px;
+    width: 10px;
+    height: 10px;
+}
+.dxWeb_ucClearButton_ThemeAmaszonas
+{
+    background-position: -243px -111px;
+    width: 20px;
+    height: 20px;
+}
+.dxWeb_ucClearButtonDisabled_ThemeAmaszonas
+{
+    background-position: -209px -169px;
+    width: 18px;
+    height: 18px;
+}
+div.dxfm-fileF .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas
+{
+    background-position: -133px -188px;
+    width: 18px;
+    height: 18px;
+}
+div.dxfm-fileF.dxfm-file.dxfm-fileSA .dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-position: -114px -188px;
+    width: 18px;
+    height: 18px;
+}
+div.dxfm-fileF.dxfm-file.dxfm-fileSI .dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-position: -228px -169px;
+    width: 18px;
+    height: 18px;
+}
+div.dxfm-fileH .dxWeb_edtCheckBoxUnchecked_ThemeAmaszonas
+{
+    background-position: -209px -188px;
+    width: 18px;
+    height: 18px;
+}
+div.dxfm-fileH.dxfm-file.dxfm-fileSA .dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-position: -190px -169px;
+    width: 18px;
+    height: 18px;
+}
+div.dxfm-fileH.dxfm-file.dxfm-fileSI .dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-position: -227px -148px;
+    width: 18px;
+    height: 18px;
+}
+div.dxfm-fileSA.dxfm-file .dxWeb_edtCheckBoxChecked_ThemeAmaszonas
+{
+    background-position: 0px -169px;
+    width: 18px;
+    height: 18px;
+}
+.dxWeb_rpHeaderTopLeftCorner_ThemeAmaszonas,
+.dxWeb_rpHeaderTopRightCorner_ThemeAmaszonas,
+.dxWeb_rpBottomLeftCorner_ThemeAmaszonas,
+.dxWeb_rpBottomRightCorner_ThemeAmaszonas,
+.dxWeb_rpTopLeftCorner_ThemeAmaszonas,
+.dxWeb_rpTopRightCorner_ThemeAmaszonas,
+.dxWeb_rpGroupBoxBottomLeftCorner_ThemeAmaszonas,
+.dxWeb_rpGroupBoxBottomRightCorner_ThemeAmaszonas,
+.dxWeb_rpGroupBoxTopLeftCorner_ThemeAmaszonas,
+.dxWeb_rpGroupBoxTopRightCorner_ThemeAmaszonas,
+.dxWeb_mHorizontalPopOut_ThemeAmaszonas,
+.dxWeb_mHorizontalPopOutHover_ThemeAmaszonas,
+.dxWeb_mVerticalPopOut_ThemeAmaszonas,
+.dxWeb_mVerticalPopOutHover_ThemeAmaszonas,
+.dxWeb_mVerticalPopOutRtl_ThemeAmaszonas,
+.dxWeb_mVerticalPopOutHoverRtl_ThemeAmaszonas,
+.dxWeb_mSubMenuItem_ThemeAmaszonas,
+.dxWeb_mSubMenuItemChecked_ThemeAmaszonas,
+.dxWeb_mScrollUp_ThemeAmaszonas,
+.dxWeb_mScrollUpHover_ThemeAmaszonas,
+.dxWeb_mScrollDown_ThemeAmaszonas,
+.dxWeb_mScrollDownHover_ThemeAmaszonas,
+.dxWeb_tcScrollLeft_ThemeAmaszonas,
+.dxWeb_tcScrollRight_ThemeAmaszonas,
+.dxWeb_tcScrollLeftHover_ThemeAmaszonas,
+.dxWeb_tcScrollRightHover_ThemeAmaszonas,
+.dxWeb_tcScrollLeftPressed_ThemeAmaszonas,
+.dxWeb_tcScrollRightPressed_ThemeAmaszonas,
+.dxWeb_tcScrollLeftDisabled_ThemeAmaszonas,
+.dxWeb_tcScrollRightDisabled_ThemeAmaszonas,
+.dxWeb_nbCollapse_ThemeAmaszonas,
+.dxWeb_nbExpand_ThemeAmaszonas,
+.dxWeb_splVSeparator_ThemeAmaszonas,
+.dxWeb_splVSeparatorHover_ThemeAmaszonas,
+.dxWeb_splHSeparator_ThemeAmaszonas,
+.dxWeb_splHSeparatorHover_ThemeAmaszonas,
+.dxWeb_splVCollapseBackwardButton_ThemeAmaszonas,
+.dxWeb_splVCollapseBackwardButtonHover_ThemeAmaszonas,
+.dxWeb_splHCollapseBackwardButton_ThemeAmaszonas,
+.dxWeb_splHCollapseBackwardButtonHover_ThemeAmaszonas,
+.dxWeb_splVCollapseForwardButton_ThemeAmaszonas,
+.dxWeb_splVCollapseForwardButtonHover_ThemeAmaszonas,
+.dxWeb_splHCollapseForwardButton_ThemeAmaszonas,
+.dxWeb_splHCollapseForwardButtonHover_ThemeAmaszonas,
+.dxWeb_pcCloseButton_ThemeAmaszonas,
+.dxWeb_pcPinButton_ThemeAmaszonas,
+.dxWeb_pcRefreshButton_ThemeAmaszonas,
+.dxWeb_pcCollapseButton_ThemeAmaszonas,
+.dxWeb_pcMaximizeButton_ThemeAmaszonas,
+.dxWeb_pcSizeGrip_ThemeAmaszonas,
+.dxWeb_pcSizeGripRtl_ThemeAmaszonas,
+.dxWeb_pPopOut_ThemeAmaszonas,
+.dxWeb_pPopOutDisabled_ThemeAmaszonas,
+.dxWeb_pAll_ThemeAmaszonas,
+.dxWeb_pAllDisabled_ThemeAmaszonas,
+.dxWeb_pPrev_ThemeAmaszonas,
+.dxWeb_pPrevDisabled_ThemeAmaszonas,
+.dxWeb_pNext_ThemeAmaszonas,
+.dxWeb_pNextDisabled_ThemeAmaszonas,
+.dxWeb_pLast_ThemeAmaszonas,
+.dxWeb_pLastDisabled_ThemeAmaszonas,
+.dxWeb_pFirst_ThemeAmaszonas,
+.dxWeb_pFirstDisabled_ThemeAmaszonas,
+.dxWeb_tvColBtn_ThemeAmaszonas,
+.dxWeb_tvColBtnRtl_ThemeAmaszonas,
+.dxWeb_tvExpBtn_ThemeAmaszonas,
+.dxWeb_tvExpBtnRtl_ThemeAmaszonas,
+.dxWeb_fmFolder_ThemeAmaszonas,
+.dxWeb_fmFolderLocked_ThemeAmaszonas,
+.dxWeb_fmCreateButton_ThemeAmaszonas,
+.dxWeb_fmMoveButton_ThemeAmaszonas,
+.dxWeb_fmRenameButton_ThemeAmaszonas,
+.dxWeb_fmDeleteButton_ThemeAmaszonas,
+.dxWeb_fmRefreshButton_ThemeAmaszonas,
+.dxWeb_fmDwnlButton_ThemeAmaszonas,
+.dxWeb_fmCreateButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmMoveButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmRenameButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmDeleteButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmRefreshButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmDwnlButtonDisabled_ThemeAmaszonas,
+.dxWeb_fmThumbnailCheck_ThemeAmaszonas,
+.dxWeb_ucClearButton_ThemeAmaszonas,
+.dxWeb_isPrevBtnHor_ThemeAmaszonas,
+.dxWeb_isNextBtnHor_ThemeAmaszonas,
+.dxWeb_isPrevBtnVert_ThemeAmaszonas,
+.dxWeb_isNextBtnVert_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnHor_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnHorOutside_ThemeAmaszonas,
+.dxWeb_isNextPageBtnHor_ThemeAmaszonas,
+.dxWeb_isNextPageBtnHorOutside_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnVert_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnVertOutside_ThemeAmaszonas,
+.dxWeb_isNextPageBtnVert_ThemeAmaszonas,
+.dxWeb_isNextPageBtnVertOutside_ThemeAmaszonas,
+.dxWeb_isPrevBtnHorDisabled_ThemeAmaszonas,
+.dxWeb_isNextBtnHorDisabled_ThemeAmaszonas,
+.dxWeb_isPrevBtnVertDisabled_ThemeAmaszonas,
+.dxWeb_isNextBtnVertDisabled_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnHorDisabled_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnHorOutsideDisabled_ThemeAmaszonas,
+.dxWeb_isNextPageBtnHorDisabled_ThemeAmaszonas,
+.dxWeb_isNextPageBtnHorOutsideDisabled_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnVertDisabled_ThemeAmaszonas,
+.dxWeb_isPrevPageBtnVertOutsideDisabled_ThemeAmaszonas,
+.dxWeb_isNextPageBtnVertDisabled_ThemeAmaszonas,
+.dxWeb_isNextPageBtnVertOutsideDisabled_ThemeAmaszonas,
+.dxWeb_isDot_ThemeAmaszonas,
+.dxWeb_isDotDisabled_ThemeAmaszonas,
+.dxWeb_isDotSelected_ThemeAmaszonas,
+.dxWeb_isPlayBtn_ThemeAmaszonas,
+.dxWeb_isPauseBtn_ThemeAmaszonas,
+.dxWeb_igCloseButton_ThemeAmaszonas,
+.dxWeb_igNextButton_ThemeAmaszonas,
+.dxWeb_igPrevButton_ThemeAmaszonas,
+.dxWeb_igPlayButton_ThemeAmaszonas,
+.dxWeb_igPauseButton_ThemeAmaszonas,
+.dxWeb_igNavigationBarMarker_ThemeAmaszonas
+{
+    display: block;
+}
+.dxWeb_mScrollUp_ThemeAmaszonas, .dxWeb_mScrollDown_ThemeAmaszonas
+{
+	margin: auto;
+}
+

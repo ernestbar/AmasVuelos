@@ -1,0 +1,205 @@
+.dx-acc-r .dxm-checked .dxVerticalGrid_CTShowSearchPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CategoryCollapsed_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CategoryExpanded_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CollapsedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTClearFilter_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTClearFilterDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTDeleteRow_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTDeleteRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTEditRow_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTEditRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTNewRow_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTNewRowDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTRefresh_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTRefreshDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTShowFilterEditor_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTShowFilterEditorDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTShowSearchPanel_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_CTShowSearchPanelDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_ExpandedButton_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_gvCellError_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_gvFilterRowButton_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_gvHeaderFilter_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_gvHeaderFilterActive_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_gvHeaderSortDown_ThemeAmaszonas:before,
+.dx-acc-r .dxVerticalGrid_gvHeaderSortUp_ThemeAmaszonas:before
+
+{
+    content: url('sprite.svg');
+
+}
+.dx-acc-r .dxm-checked .dxVerticalGrid_CTShowSearchPanel_ThemeAmaszonas:before
+
+{
+    left: -45px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_CategoryCollapsed_ThemeAmaszonas:before
+
+{
+    left: -172px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_CategoryExpanded_ThemeAmaszonas:before
+
+{
+    left: -133px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_CollapsedButton_ThemeAmaszonas:before
+
+{
+    left: -185px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTClearFilter_ThemeAmaszonas:before
+
+{
+    left: -102px;
+    top: 0px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTClearFilterDisabled_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: 0px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTDeleteRow_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: 0px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTDeleteRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -119px;
+    top: 0px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTEditRow_ThemeAmaszonas:before
+
+{
+    left: -170px;
+    top: 0px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTEditRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: 0px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTNewRow_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: 0px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTNewRowDisabled_ThemeAmaszonas:before
+
+{
+    left: -136px;
+    top: 0px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTRefresh_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: 0px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTRefreshDisabled_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: 0px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTShowFilterEditor_ThemeAmaszonas:before
+
+{
+    left: -30px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTShowFilterEditorDisabled_ThemeAmaszonas:before
+
+{
+    left: -15px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTShowSearchPanel_ThemeAmaszonas:before
+
+{
+    left: -75px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_CTShowSearchPanelDisabled_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: 0px;
+
+}
+.dx-acc-r .dxVerticalGrid_ExpandedButton_ThemeAmaszonas:before
+
+{
+    left: -146px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_gvCellError_ThemeAmaszonas:before
+
+{
+    left: -90px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_gvFilterRowButton_ThemeAmaszonas:before
+
+{
+    left: -60px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_gvHeaderFilter_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_gvHeaderFilterActive_ThemeAmaszonas:before
+
+{
+    left: -105px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_gvHeaderSortDown_ThemeAmaszonas:before
+
+{
+    left: -159px;
+    top: -17px;
+
+}
+.dx-acc-r .dxVerticalGrid_gvHeaderSortUp_ThemeAmaszonas:before
+
+{
+    left: -120px;
+    top: -17px;
+
+}

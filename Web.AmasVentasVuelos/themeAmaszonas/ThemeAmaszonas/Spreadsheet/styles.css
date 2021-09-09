@@ -1,0 +1,855 @@
+.dxssControl_ThemeAmaszonas
+{
+    border-style: none;
+    font: 14px 'Roboto Regular', Helvetica, 'Droid Sans', Tahoma, Geneva, sans-serif;
+}
+.dxssControl_ThemeAmaszonas .dxss-gl .dxss-v,
+.dxssControl_ThemeAmaszonas .dxss-gl .dxss-h
+{
+    border-color: #c0c0c0;
+}
+.dxssControl_ThemeAmaszonas .dxss-rowHeader
+{
+    border-right: 1px solid #c0c0c0;
+    border-top: 1px solid #c0c0c0;
+}
+.dxssControl_ThemeAmaszonas .dxss-colHeader
+{
+    border-bottom: 1px solid #c0c0c0;
+    border-left: 1px solid #c0c0c0;
+}
+.dxssControl_ThemeAmaszonas .dxss-crse
+{
+    background-color: #35B86B;
+    opacity: .20;
+}
+.dxssControl_ThemeAmaszonas .dxss-trbe
+{
+    border-top-color: #35B86B;
+}
+.dxssControl_ThemeAmaszonas .dxss-rrbe
+{
+    border-right-color: #35B86B;
+}
+.dxssControl_ThemeAmaszonas .dxss-brbe
+{
+    border-bottom-color: #35B86B;
+}
+.dxssControl_ThemeAmaszonas .dxss-lrbe
+{
+    border-left-color: #35B86B;
+}
+.dxssControl_ThemeAmaszonas .dxss-fh
+{
+    background-color: #35B86B;
+}
+.dxssControl_ThemeAmaszonas .dxss-sbe
+{
+    border-color: #35B86B;
+}
+.dxssControl_ThemeAmaszonas .dxss-sbe
+{
+    border-color: #35B86B;
+}
+.dxssControl_ThemeAmaszonas .dxtcLite_ThemeAmaszonas.dxtc-bottom > .dxtc-stripContainer .dxtc-rightIndent,
+.dxssControl_ThemeAmaszonas .dxtcLite_ThemeAmaszonas.dxtc-bottom > .dxtc-stripContainer .dxtc-leftIndent
+{
+    width: 0px;
+}
+.dxssControl_ThemeAmaszonas .dxrControl_ThemeAmaszonas .dxtcLite_ThemeAmaszonas.dxtc-top .dxtc-leftIndent
+{
+    width: 0px;
+}
+.dxssControl_ThemeAmaszonas .dxtcLite_ThemeAmaszonas.dxtc-bottom .dxtc-leftIndent
+{
+    width: 8px;
+}
+.dxssControl_ThemeAmaszonas .dxss-hrg,
+.dxssControl_ThemeAmaszonas .dxss-vrg
+{
+    background-color: #35B86B;
+}
+.dxssControl_ThemeAmaszonas .dxss-md
+{
+    border-left: 1px solid #c0c0c0 !important;
+    border-right: 1px solid #c0c0c0 !important;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.dxssControl_ThemeAmaszonas .dxrControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-item
+{
+    padding: 7px 20px 6px 22px;
+}
+.dxssControl_ThemeAmaszonas .dxrControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxm-item
+{
+    padding: 0 4px;
+}
+.dxssControl_ThemeAmaszonas .dxss-tse
+{
+    border-color: #35B86B;
+}
+.dxssControl_ThemeAmaszonas .dxss-tre
+{
+    background: url('TouchResize.svg');
+}
+.dxssControl_ThemeAmaszonas .dxss-ddp,
+.dxssControl_ThemeAmaszonas .dxss-ddb
+{
+    border: 1px solid #c0c0c0;
+}
+.dxssControl_ThemeAmaszonas .dxss-ddp tr:hover
+{
+    background-color: #e0e0e0;
+}
+/* Loading panel */
+.dxssLoadingDiv_ThemeAmaszonas
+{
+    background: white;
+    opacity: 0.85 !important;
+    filter: alpha(opacity=85);
+}
+.dxssLoadingPanel_ThemeAmaszonas
+{
+    background-color: white;
+    font: 14px 'Roboto Regular', Helvetica, 'Droid Sans', Tahoma, Geneva, sans-serif;
+    color: #484848;
+    -moz-box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 2px 8px 0 rgba(0,0,0,0.12);
+    -webkit-box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 2px 8px 0 rgba(0,0,0,0.12);
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 2px 8px 0 rgba(0,0,0,0.12);
+}
+.dxssLoadingPanel_ThemeAmaszonas td.dx
+{
+    font-size: 1.17em;
+    white-space: nowrap;
+    text-align: center;
+    padding: 10px 14px;
+}
+.dxheControl_ThemeAmaszonas
+{
+    font: 14px 'Roboto Regular', Helvetica, 'Droid Sans', Tahoma, Geneva, sans-serif;
+}
+.dxssLoadingPanel_ThemeAmaszonas .dxlp-loadingImage
+{
+    border-radius: 50%;
+    animation: dxSpin 1s linear infinite;
+    border: 4px solid #35B86B;
+    border-top: 4px solid #EEE;
+    width: 24px;
+    height: 24px;
+}
+html.dxIE.dxBrowserVersion-9 .dxssLoadingPanel_ThemeAmaszonas .dxlp-loadingImage
+{
+    background-image: url('../Web/Loading.gif');
+    height: 32px;
+    width: 32px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    animation: none;
+    border: none;
+    border-radius: 0;
+}
+/* --------------Dialogs----------------- */
+.dxpcLite_ThemeAmaszonas .dxssDlgPageSetupForm .dxssDlgFooter
+{
+    padding: 10px 19px 11px 10px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgFooter
+{
+    border-top: 1px #dfdfdf solid;
+    padding: 10px 19px 11px 10px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgFooter .dxbButton_ThemeAmaszonas:first-child
+{
+    margin-right: 8px;
+}
+.dxssDlgPageSetupForm .dxtcLite_ThemeAmaszonas.dxtc-top > .dxtc-stripContainer .dxtc-tab,
+.dxssDlgPageSetupForm .dxtcLite_ThemeAmaszonas.dxtc-top > .dxtc-stripContainer .dxtc-spacer
+{
+    border-bottom-width: 3px !important;
+}
+.dxssDlgPageSetupForm .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-leftIndent,
+.dxssDlgPageSetupForm .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-rightIndent
+{
+    width: 0px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgImagePreviewCell
+{
+    color: #878787;
+    border: dashed 1px #cac8c8;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm
+{
+    width: 380px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxrpWithoutHeader_ThemeAmaszonas
+{
+    width: 100% !important;
+}
+.dxssControl_ThemeAmaszonas .dxssDlgDataValidationForm .dxtc-content
+{
+    width: 387px;
+    height: 279px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgSearchArea > .dxeListBox_ThemeAmaszonas
+{
+    height: 200px !important;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgColumnWidthForm .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgDefaultColumnWidthForm .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgRowHeightForm .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgRowHeightForm .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgCaptionCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgCaptionCell
+{
+    padding-top: 8px;
+}
+.dxssModifyChartStyleContenPanel .dxbButtonHover_ThemeAmaszonas
+{
+    color: white;
+    background-color: #35B86B;
+    border: 1px solid #35B86B;
+}
+.dxssModifyChartStyleContenPanel .dxbButtonChecked_ThemeAmaszonas
+{
+    color: #484848;
+    background-color: #C0C0C0;
+}
+.dxssModifyChartStyleContenPanel .dxbButtonPressed_ThemeAmaszonas
+{
+    color: white;
+    background-color: #C0C0C0;
+}
+.dxssControl_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgPageControl
+{
+    width: 484px;
+}
+/* DX Spreadsheet Cell Editor Element, Formula Bar, IntelliSense elements */
+.dxssControl_ThemeAmaszonas .dxss-ctve
+{
+    border: 2px solid #35B86B;
+    /*the same -dxss-cfe */
+}
+.dxssControl_ThemeAmaszonas .dxss-fb
+{
+    height: 32px;
+    padding: 10px;
+    border: 1px solid #c0c0c0;
+    border-top-width: 0;
+}
+.dxssControl_ThemeAmaszonas .dxss-fbw
+{
+    padding: 7px 8px 7px 7px;
+    border: 1px solid #DCDCDC;
+    background-color: white;
+}
+.dxFirefox .dxssControl_ThemeAmaszonas .dxss-fbw
+{
+    padding: 7px 8px 6px 7px;
+}
+.dxssControl_ThemeAmaszonas .dxmLite_ThemeAmaszonas .dxss-fbMenu
+{
+    height: 32px;
+    border: 0;
+    background-color: transparent;
+    background-image: none;
+}
+.dxssControl_ThemeAmaszonas .dxss-fbMenu .dxm-content
+{
+    padding-top: 8px !important;
+    padding-left: 27px !important;
+    padding-right: 27px !important;
+    padding-bottom: 0px !important;
+}
+.dxssControl_ThemeAmaszonas .dxss-Hint
+{
+    border: 1px solid #dedede;
+    background-color: #FFFFFF;
+    padding: 3px 8px 4px 8px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -o-border-radius: 3px;
+    -khtml-border-radius: 3px;
+}
+.dxssControl_ThemeAmaszonas .dxss-Hint,
+.dxss-funcLB.dxeListBox_ThemeAmaszonas
+{
+    -moz-box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 2px 8px 0 rgba(0,0,0,0.12);
+    -webkit-box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 2px 8px 0 rgba(0,0,0,0.12);
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16), 0 2px 8px 0 rgba(0,0,0,0.12);
+}
+.dxssControl_ThemeAmaszonas .dxss-Hint.dxss-funcInfo
+{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.dxpnlControl_ThemeAmaszonas .dxssDlgPageSetupForm
+{
+    width: 530px;
+}
+.dxssDlgPageSetupForm .dxssPSContainer .dxssPageControl.dxtcLite_ThemeAmaszonas .dxtc-content
+{
+    padding-top: 0;
+    padding-bottom: 10px;
+}
+.dxssDlgPageSetupForm .dxssPSContainer .dxssPageControl.dxtcLite_ThemeAmaszonas
+{
+    margin-top: 16px;
+}
+.dxssDlgPageSetupForm .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link
+{
+    padding: 4px 25px;
+}
+.dxpnlControl_ThemeAmaszonas .dxssDlgPageSetupForm .dxeButtonEdit_ThemeAmaszonas
+{
+    min-width: 75px;
+}
+.dxpnlControl_ThemeAmaszonas .dxssDlgPageSetupForm .dxssPSPrintContainer
+{
+    padding: 10px 19px 10px 10px;
+    margin-bottom: 4px;
+}
+.dxpnlControl_ThemeAmaszonas .dxssDlgPageSetupForm .dxtcLite_ThemeAmaszonas > .dxtc-content
+{
+    padding: 0px;
+}
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup .dxm-checked img[class*="ssRibbonGIcons_PageMarginsNormal"],
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup .dxm-checked img[class*="ssRibbonGIcons_PageMarginsWide"],
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup .dxm-checked img[class*="ssRibbonGIcons_PageMarginsNarrow"],
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup .dxm-checked span[class*="ssRibbonGIcons_PageMarginsNormal"],
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup .dxm-checked span[class*="ssRibbonGIcons_PageMarginsWide"],
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup .dxm-checked span[class*="ssRibbonGIcons_PageMarginsNarrow"]
+{
+    margin-top: 3px !important;
+}
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup img[class*="ssRibbonGIcons_PageMarginsNormal"],
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup img[class*="ssRibbonGIcons_PageMarginsWide"],
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup img[class*="ssRibbonGIcons_PageMarginsNarrow"],
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup span[class*="ssRibbonGIcons_PageMarginsNormal"],
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup span[class*="ssRibbonGIcons_PageMarginsWide"],
+.dxssControlSys .dxmLite_ThemeAmaszonas .dxm-popup span[class*="ssRibbonGIcons_PageMarginsNarrow"]
+{
+    margin-top: 3px !important;
+}
+.dxssFCFormLayout .dxflGroupCell_ThemeAmaszonas
+{
+    padding: 0 10px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm
+{
+    width: 623px;
+}
+.dxeListBox_ThemeAmaszonas.dxssFCType
+{
+    width: 400px !important;
+    height: 159px !important;
+}
+.dxeListBox_ThemeAmaszonas.dxssFCType .dxlbd
+{
+    width: 398px !important;
+}
+.dxeListBox_ThemeAmaszonas.dxssFCCategory
+{
+    width: 150px !important;
+    height: 350px !important;
+    margin-top: 13px;
+}
+.dxflGroup_ThemeAmaszonas.dxssFCDescription
+{
+    height: 85px;
+    padding-top: 13px !important;
+}
+.dxssFCFormLayout .dxflGroupBox_ThemeAmaszonas
+{
+    padding-bottom: 8px;
+    margin-bottom: 12px;
+}
+.dxssFCSampleGroup .dxflItem_ThemeAmaszonas
+{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+.dxeControlsCell_ThemeAmaszonas > .dxssFCDecimalPlaces
+{
+    width: 100px !important;
+}
+/* Cell Editing */
+.dxssControl_ThemeAmaszonas.icbem .dxss-inputTarget
+{
+    border: 2px solid #35B86B;
+}
+/*Cell position hint*/
+.dxssControl_ThemeAmaszonas .dxss-cell-pos-hint
+{
+    background-color: #35B86B;
+    color: white;
+}
+.dxssControl_ThemeAmaszonas .dxssControlSys .dxssDlgDataValidationForm .dxtcSys
+{
+    padding: 0 10px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgSeparatorCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgSeparatorCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgSeparatorCell
+{
+    height: 4px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgRadionButtonList
+{
+    padding-bottom: 8px;
+    padding-top: 0px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell
+{
+    padding: 9px 12px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dxss-chartsbtn,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dxss-chartsbtn
+{
+    margin: 3px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dxrpControl_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas
+{
+    border: 1px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW, .dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas.dxrp-noCollapsing > tbody > tr.dxrpCR > .dxrpcontent,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpAW > .dxrpCW,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dxrpControl_ThemeAmaszonas > tbody > tr.dxrpCR > .dxrpcontent > .dxrpCW
+{
+    padding: 0px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-img
+{
+    border-style: none;
+    margin: 0 3px 0 0;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-content
+{
+    padding: 3px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dxtcLite_ThemeAmaszonas > .dxtc-stripContainer .dxtc-link
+{
+    padding: 10px 8px 9px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dx-al,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dx-al
+{
+    text-align: left;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dx-ar,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dx-ar
+{
+    text-align: right;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dx-ar > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dx-ar > *
+{
+    float: right;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dx-ac,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dx-ac
+{
+    text-align: center;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dx-ac > *,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dx-ac > *
+{
+    margin: 0 auto;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dx-vam, .dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dx-vat, .dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell .dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell .dx-vab
+{
+    display: inline-block !important;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell span.dx-vam, .dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell span.dx-vat, .dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell span.dx-vab, .dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell a.dx-vam, .dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell a.dx-vat, .dxpcLite_ThemeAmaszonas .dxssDlgInsertLinkForm .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgFindAndReplaceForm .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeHorizontalAxisTitleForm .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeVerticalAxisTitleForm .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartChangeTitleForm .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChartSelectData .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgUnhideSheetForm .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgSaveFileAsForm .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgInsertImageForm .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgRenameSheetForm .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgChangeChartType .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgMoveOrCopySheetForm .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyTableStyle .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgMessageBox .dxssDlgContentCell a.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell span.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell span.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell span.dx-vab,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell a.dx-vam,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell a.dx-vat,
+.dxpcLite_ThemeAmaszonas .dxssDlgFormatCellsForm .dxssDlgContentCell a.dx-vab
+{
+    padding: 2px 0 0 8px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgModifyChartLayoutForm .dxssDlgContentCell
+{
+    padding: 9px 9px;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgPageSetupForm .dxflHeadingLineGroupBoxSys.dxflGroupBox_ThemeAmaszonas > .dxflGroup_ThemeAmaszonas > tbody > tr:first-child > .dxflGroupCell_ThemeAmaszonas > .dxflItem_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgPageSetupForm .dxflHeadingLineGroupBoxSys.dxflGroupBox_ThemeAmaszonas > .dxflGroup_ThemeAmaszonas > tbody > tr.dxflFVRSys > .dxflGroupCell_ThemeAmaszonas > .dxflItem_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgPageSetupForm .dxflHeadingLineGroupBoxSys.dxflGroupBox_ThemeAmaszonas > .dxflGroup_ThemeAmaszonas > tbody > tr.dxflFVLSys > .dxflGroupCell_ThemeAmaszonas > .dxflItem_ThemeAmaszonas,
+.dxpcLite_ThemeAmaszonas .dxssDlgPageSetupForm .dxflHeadingLineGroupBoxSys.dxflGroupBox_ThemeAmaszonas > .dxflGroup_ThemeAmaszonas > .dxflChildInFirstRowSys > .dxflGroupCell_ThemeAmaszonas > .dxflItem_ThemeAmaszonas
+{
+    padding-top: 0;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgPageSetupForm .dxflHeadingLineGroupBoxSys.dxflGroupBox_ThemeAmaszonas > .dxflGroup_ThemeAmaszonas > tbody > tr:first-child > td:first-child .dxflCLTSys,
+.dxpcLite_ThemeAmaszonas .dxssDlgPageSetupForm .dxflHeadingLineGroupBoxSys.dxflGroupBox_ThemeAmaszonas > .dxflGroup_ThemeAmaszonas > .dxflChildInFirstRowSys > .dxflGroupCell_ThemeAmaszonas > .dxflItem_ThemeAmaszonas.dxflCLTSys
+{
+    padding-top: 0;
+}
+.dxpcLite_ThemeAmaszonas .dxssDlgPageSetupForm .dxflGroupBox_ThemeAmaszonas
+{
+    padding-bottom: 6px;
+}

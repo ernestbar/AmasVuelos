@@ -1,0 +1,304 @@
+﻿ <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SiteAmaszonas.master.cs" Inherits="Web.AmasVentasVuelos.MasterPage.SiteAmaszonas" %>
+
+<%@ Register src="../Controles/ucPolicy.ascx" tagname="ucPolicy" tagprefix="uc1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="description" content="" />
+    <meta name="keywords" content="">
+    <meta name="author" content="" />
+
+
+
+    <!-- Favicon icon -->
+    <link rel="icon" href="~/favicon.ico" type="image/x-icon">
+    <!-- fontawesome icon -->
+    <link rel="stylesheet" href="~/assets/fonts/fontawesome/css/fontawesome-all.min.css">
+    <!-- animation css -->
+    <link rel="stylesheet" href="~/assets/plugins/animation/css/animate.min.css">
+    <!-- vendor css -->
+    <link rel="stylesheet" href="~/assets/css/style.css">
+    <link rel="stylesheet" href="~/assets/fonts/material/css/materialdesignicons.min.css">
+
+
+    <link rel="stylesheet" href="~/assets/plugins/smart-wizard/css/smart_wizard.min.css">
+    <link rel="stylesheet" href="~/assets/plugins/smart-wizard/css/smart_wizard_theme_arrows.min.css">
+    <link rel="stylesheet" href="~/assets/plugins/smart-wizard/css/smart_wizard_theme_circles.min.css">
+    <link rel="stylesheet" href="~/assets/plugins/smart-wizard/css/smart_wizard_theme_dots.min.css">
+    <link rel="stylesheet" href="~/assets/plugins/jstree/css/style.min.css">
+    <link rel="stylesheet" href="~/assets/plugins/ratting/css/bars-1to10.css">
+    <link rel="stylesheet" href="~/assets/plugins/pnotify/css/pnotify.custom.min.css">
+    <link rel="stylesheet" href="~/assets/css/pages/pnotify.css">
+   
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+ <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAIO6udUgHwuiAnL-I_Tk5Jp_A6wHh1U84&callback=initMap"></script>
+    <script src="<%=Page.ResolveUrl("~/assets/js/vendor-all.min.js") %>"></script>
+    <script src="<%=Page.ResolveUrl("~/assets/js/horizontal-menu.js") %>"></script>
+
+
+    <form id="form1" runat="server">
+        <div class="loader-bg">
+            <div class="loader-track">
+                <div class="loader-fill"></div>
+            </div>
+        </div>
+
+        <nav class="pcoded-navbar theme-horizontal navbar-blue">
+            <div class="navbar-wrapper">
+                <div class="navbar-brand header-logo">
+                    <a href="<%=Page.ResolveUrl("~//Paginas/frmIndex1.aspx") %>" class="b-brand">
+                        <img src="<%=Page.ResolveUrl("~/assets/images/amaszonas/LOGO.png") %>" width="70%" alt="" class="logo images">
+                        <img src="<%=Page.ResolveUrl("~/assets/images/amaszonas/logo.png") %>" width="60%" alt="" class="logo-thumb images">
+                    </a>
+                    <a class="mobile-menu" id="mobile-collapse" href="#!"><span></span></a>
+                </div>
+                <div class="navbar-content sidenav-horizontal" id="layout-sidenav">
+                    <ul class="nav pcoded-inner-navbar sidenav-inner">
+                        <li class="nav-item pcoded-menu-caption">
+                            <label>Navegación</label>
+                        </li>
+                        <li data-username="" class="nav-item pcoded-hasmenu">
+                            <a href="<%=Page.ResolveUrl("~/Paginas/frmIndex.aspx") %>" class="nav-link"><span class="pcoded-micon"><i class="feather icon-home"></i></span><span class="pcoded-mtext">Dashboard</span></a>
+                        </li>
+
+
+                        <li data-username="" class="nav-item pcoded-hasmenu">
+                            <a href="#!" class="nav-link"><span class="pcoded-micon"><i class="feather icon-box"></i></span><span class="pcoded-mtext">Administración</span></a>
+                            <ul class="pcoded-submenu">
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Administracion/frmDominios.aspx") %>" class="">Dominios</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Participante/frmNotificaiones.aspx") %>" class="">Publicidad</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Participante/frmComunicados.aspx") %>" class="">Notificaciones</a></li>
+                            </ul>
+                        </li>
+                        <li data-username="" class="nav-item pcoded-hasmenu">
+                            <a href="#!" class="nav-link"><span class="pcoded-micon"><i class="feather icon-box"></i></span><span class="pcoded-mtext">Registro</span></a>
+                            <ul class="pcoded-submenu">
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Participante/frmParticipante.aspx") %>" class="">Participante</a></li>
+                                <%--<li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Participante/frmSucursales.aspx") %>" class="">Sucursales</a></li>--%>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Participante/frmCuentaCorriente.aspx") %>" class="">Cuenta corriente</a></li>
+                               
+                                
+
+                            </ul>
+                        </li>
+
+
+                          <li data-username="" class="nav-item pcoded-hasmenu">
+                            <a href="#!" class="nav-link"><span class="pcoded-micon"><i class="feather icon-box"></i></span><span class="pcoded-mtext">Comisiones</span></a>
+                            <ul class="pcoded-submenu">
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/BackEndUpFront/frmBackEndUpFront.aspx") %>" class="">UpFront</a></li>
+                                <%--<li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Participante/frmSucursales.aspx") %>" class="">Sucursales</a></li>--%>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/BackEndUpFront/frmBackEnd.aspx") %>" class="">BackEnd</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/BackEndUpFront/frmAsignacionReglasUpload.aspx") %>" class="">Crear Regla UpFront</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/BackEndUpFront/frmAsignacionReglasBackEnd.aspx") %>" class="">Crear Regla BackEnd</a></li>
+                            </ul>
+                        </li>
+
+
+
+                        <li data-username="" class="nav-item pcoded-hasmenu">
+                            <a href="#!" class="nav-link"><span class="pcoded-micon"><i class="feather icon-box"></i></span><span class="pcoded-mtext">Seguridad</span></a>
+                            <ul class="pcoded-submenu">
+
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Seguridad/frmRolesMenu.aspx") %>" class="">Roles</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Seguridad/frmMenuMobileWeb.aspx") %>" class="">Menú web y movil</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Seguridad/frmOpcionesWebMobile.aspx") %>" class="">Opciones web y movil</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Seguridad/frmAsignaRolMenuOpcion.aspx") %>" class="">Asignación Rol, menú, opción</a></li>
+                            </ul>
+                        </li>
+                         <li data-username="" class="nav-item pcoded-hasmenu">
+                            <a href="#!" class="nav-link"><span class="pcoded-micon"><i class="feather icon-box"></i></span><span class="pcoded-mtext">Transacciones</span></a>
+                            <ul class="pcoded-submenu">
+
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Transacciones/frmTransaccionesAdmin.aspx") %>" class="">Adminstracion de transacciones</a></li>
+                            </ul>
+                        </li>
+                        <%--<li data-username="" class="nav-item pcoded-hasmenu">
+                            <a href="#!" class="nav-link"><span class="pcoded-micon"><i class="feather icon-layout"></i></span><span class="pcoded-mtext">Indicadores</span></a>
+                            <ul class="pcoded-submenu">
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Dashboard/frmIngresosGasto.aspx") %>" class="">Gastos</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Dashboard/frmParametrica.aspx") %>" class="">Parametrica</a></li>
+                            </ul>
+                        </li>--%>
+                        <%--   <li data-username="" class="nav-item pcoded-hasmenu">
+                            <a href="#!" class="nav-link"><span class="pcoded-micon"><i class="feather icon-layout"></i></span><span class="pcoded-mtext">Administración</span></a>
+                            <ul class="pcoded-submenu">
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Administracion/frmDominios.aspx") %>" class="">Dominio del sistema</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Administracion/frmErrores.aspx") %>" class="">Errores registrados</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Administracion/frmSucursales.aspx") %>" class="">Sucursales</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Indicadores/frmOrganigrama.aspx") %>" class="">Organigrama</a></li>
+                            </ul>
+                        </li>--%>
+                        <%--    <li data-username="" class="nav-item pcoded-hasmenu">
+                                        <a href="#!" class="nav-link"><span class="pcoded-micon"><i class="feather icon-layers"></i></span><span class="pcoded-mtext">Bonos</span><span class="pcoded-badge label label-info">100+</span></a>
+                                        <ul class="pcoded-submenu">
+                                            <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Bonos/frmEscalaComisones.aspx") %>" class="">Escala de comisiones</a></li>
+                                            <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Bonos/frmPresupuesto.aspx") %>" class="">Registro del presupuesto</a></li>                                            
+                                        </ul>
+                                    </li>--%>
+
+                        <%-- <li data-username="" class="nav-item pcoded-hasmenu">
+                            <a href="#!" class="nav-link"><span class="pcoded-micon"><i class="feather icon-box"></i></span><span class="pcoded-mtext">KPI</span></a>
+                            <ul class="pcoded-submenu">
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Indicadores/frmPonderacionKPI.aspx") %>" class="">Ponderación de KPI</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Indicadores/frmPantallaCalificacion.aspx") %>" class="">Pantalla calificación</a></li>
+                            </ul>
+                        </li>--%>
+
+                        <%--  <li data-username="" class="nav-item pcoded-hasmenu">
+                            <a href="#!" class="nav-link"><span class="pcoded-micon"><i class="feather icon-box"></i></span><span class="pcoded-mtext">Seguridad</span></a>
+                            <ul class="pcoded-submenu">
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Seguridad/frmUsuario.aspx") %>" class="">Usuarios</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Seguridad/frmRolesMenu.aspx") %>" class="">Roles</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Seguridad/frmMenuMobileWeb.aspx") %>" class="">Menú web y movil</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Seguridad/frmOpcionesWebMobile.aspx") %>" class="">Opciones web y movil</a></li>
+                                <li class=""><a href="<%=Page.ResolveUrl("~/Paginas/Seguridad/frmAsignaRolMenuOpcion.aspx") %>" class="">Asignación Rol, menú, opción</a></li>
+                            </ul>
+                        </li>--%>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <header class="navbar pcoded-header navbar-expand-lg navbar-light">
+            <div class="m-header">
+                <a class="mobile-menu" id="mobile-collapse1" href="#!"><span></span></a>
+                <a href="index.html" class="b-brand">
+                    <img src="<%=Page.ResolveUrl("~/assets/images/amaszonas/LOGO.png") %>" alt="" class="logo images">
+                    <img src="<%=Page.ResolveUrl("~/assets/images/amaszonas/LOGO.png") %>" alt="" class="logo-thumb images">
+                </a>
+            </div>
+            <a class="mobile-menu" id="mobile-header" href="#!">
+                <i class="feather icon-more-horizontal"></i>
+            </a>
+            <div class="collapse navbar-collapse">
+                <a href="#!" class="mob-toggler"></a>
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item">
+                        <div class="main-search open">
+                            <asp:Label ID="lblTiempoExpiracion" runat="server" CssClass="badge badge-pill badge-danger" Text=""></asp:Label>
+                            <asp:Label ID="lblTiempo" runat="server" CssClass="badge badge-pill badge-success" Text="Usted se encuentra conectado"></asp:Label>
+                        </div>
+                    </li>
+                </ul>
+                <ul class="navbar-nav ml-auto">
+                    <li>
+                        <div class="dropdown drp-user">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                <i class="icon feather icon-settings"></i>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right profile-notification">
+                                <div class="pro-head">
+                                    <img src="<%=Page.ResolveUrl("~/assets/images/user/user.png")%>" class="img-radius" alt="User-Profile-Image">
+                                    <span>
+                                        <asp:Literal ID="ltrNombreUsuario" runat="server"></asp:Literal>
+                                    </span>
+                                    <a href="<%=Page.ResolveUrl("~/frmLogin.aspx")%>" class="dud-logout" title="Logout">
+                                        <i class="feather icon-log-out"></i>
+                                    </a>
+                                </div>
+                                <ul class="pro-body">
+                                    <li><a href="<%=Page.ResolveUrl("~/frmResetPassword.aspx")%>" class="dropdown-item"><i class="feather icon-lock"></i>Cambiar contraseña</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </header>
+        <div class="pcoded-main-container">
+            <div class="pcoded-wrapper">
+                <div class="pcoded-content">
+                    <div class="pcoded-inner-content">
+                        <div class="main-body">
+                            <asp:Literal ID="ltrMensaje" runat="server"></asp:Literal>
+
+                            <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                            </asp:ContentPlaceHolder>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+          <script src="<%=Page.ResolveUrl("~/assets/plugins/bootstrap/js/bootstrap.min.js") %>"></script>
+        <script src="<%=Page.ResolveUrl("~/assets/js/pcoded.min.js") %>"></script>
+        <script src="<%=Page.ResolveUrl("~/assets/plugins/prism/js/prism.min.js") %>"></script>
+
+        <script src="<%=Page.ResolveUrl("~/assets/plugins/smart-wizard/js/jquery.smartWizard.min.js") %>"></script>
+        <script src="<%=Page.ResolveUrl("~/assets/js/pages/wizard-custom.js") %>"></script>
+        <script src="<%=Page.ResolveUrl("~/assets/plugins/sweetalert/js/sweetalert.min.js") %>"></script>
+        <script src="<%=Page.ResolveUrl("~/assets/plugins/jstree/js/jstree.min.js") %>"></script>
+        <script src="<%=Page.ResolveUrl("~/assets/js/pages/ac-treeview.js") %>"></script>
+        <script src="<%=Page.ResolveUrl("~/assets/plugins/pnotify/js/pnotify.custom.min.js") %>"></script>
+        
+        <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+
+        <script type="text/javascript">
+
+            (function () {
+                if ($('#layout-sidenav').hasClass('sidenav-horizontal') || window.layoutHelpers.isSmallScreen()) {
+                    return;
+                }
+                try {
+                    window.layoutHelpers.setCollapsed(
+                        localStorage.getItem('layoutCollapsed') === 'true',
+                        false
+                    );
+                } catch (e) { }
+            })();
+            $(function () {
+                // Initialize sidenav
+                $('#layout-sidenav').each(function () {
+                    new SideNav(this, {
+                        orientation: $(this).hasClass('sidenav-horizontal') ? 'horizontal' : 'vertical'
+                    });
+                });
+                // Initialize sidenav togglers
+                $('body').on('click', '.layout-sidenav-toggle', function (e) {
+                    e.preventDefault();
+                    window.layoutHelpers.toggleCollapsed();
+                    if (!window.layoutHelpers.isSmallScreen()) {
+                        try {
+                            localStorage.setItem('layoutCollapsed', String(window.layoutHelpers.isCollapsed()));
+                        } catch (e) { }
+                    }
+                });
+            });
+            $(document).ready(function () {
+                $("#pcoded").pcodedmenu({
+                    MenuTrigger: 'hover',
+                    SubMenuTrigger: 'hover',
+                });
+            });
+        </script>
+
+
+        <%--  <script language="javascript" type="text/javascript">
+            var sessionTimeoutWarning = 
+             "<%= System.Configuration.ConfigurationSettings.AppSettings["SessionWarning"].ToString()%>";
+            var sessionTimeout = "<%= Session.Timeout %>";
+
+            var sTimeout = parseInt(sessionTimeoutWarning) * 60 * 1000;
+            setTimeout('SessionWarning()', sTimeout);
+
+            function SessionWarning() {
+                document.getElementById('lblTiempoExpiracion').innerHTML = "Expira en:" + (parseInt(sessionTimeout) - parseInt(sessionTimeoutWarning)) + " minutos";
+                document.getElementById('lblTiempo').innerHTML = "";
+
+            }
+        </script>--%>
+        <uc1:ucPolicy ID="ucPolicy1" runat="server" />
+    </form>
+</body>
+</html>

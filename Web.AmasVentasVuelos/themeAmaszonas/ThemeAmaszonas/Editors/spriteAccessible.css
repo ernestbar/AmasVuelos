@@ -1,0 +1,789 @@
+.dx-acc-r .dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtClear_ThemeAmaszonas:before,
+.dx-acc-r .dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtDropDown_ThemeAmaszonas:before,
+.dx-acc-r .dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtEllipsis_ThemeAmaszonas:before,
+.dx-acc-r .dxeButtonEditButtonPressed_ThemeAmaszonas .dxEditors_edtDropDown_ThemeAmaszonas:before,
+.dx-acc-r .dxeButtonEditButtonPressed_ThemeAmaszonas .dxEditors_edtEllipsis_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_caRefresh_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtBinaryImageDelete_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtBinaryImageOpenDialog_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtCalendarFNNextYear_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtCalendarFNPrevYear_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtCalendarNextMonth_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtCalendarNextMonthDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtCalendarNextYear_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtCalendarNextYearDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtCalendarPrevMonth_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtCalendarPrevMonthDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtCalendarPrevYear_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtCalendarPrevYearDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtClear_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtDETSClockFace_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtDETSHourHand_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtDETSMinuteHand_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtDETSSecondHand_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtDropDown_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtDropDownDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtEllipsis_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtEllipsisDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtError_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtRadioButtonChecked_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtRadioButtonCheckedDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtRadioButtonUnchecked_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtRadioButtonUncheckedDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtSpinEditDecrementImageDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtSpinEditIncrementImageDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtSpinEditLargeDecImageDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtSpinEditLargeIncImageDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtTBDecBtn_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtTBIncBtn_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtTokenBoxTokenRemoveButton_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_edtTokenBoxTokenRemoveButtonDisabled_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcadd_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcaddhot_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcgroupaddcondition_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcgroupaddgroup_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcgroupand_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcgroupnotand_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcgroupnotor_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcgroupor_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcgroupremove_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopany_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopavg_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopbegin_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopbetween_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopblank_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopcontain_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopcount_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopend_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopequal_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopexists_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopgreater_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopgreaterorequal_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopless_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcoplessorequal_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcoplike_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopmax_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopmin_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopnotany_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopnotbetween_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopnotblank_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopnotcontain_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopnotequal_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopnotlike_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcopsum_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcoptypefield_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcoptypefieldhot_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcoptypevalue_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcoptypevaluehot_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcremove_ThemeAmaszonas:before,
+.dx-acc-r .dxEditors_fcremovehot_ThemeAmaszonas:before,
+.dx-acc-r .dxeSpinDecButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas:before,
+.dx-acc-r .dxeSpinDecButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas:before,
+.dx-acc-r .dxeSpinIncButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas:before,
+.dx-acc-r .dxeSpinIncButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas:before,
+.dx-acc-r .dxeSpinLargeDecButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas:before,
+.dx-acc-r .dxeSpinLargeDecButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas:before,
+.dx-acc-r .dxeSpinLargeIncButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas:before,
+.dx-acc-r .dxeSpinLargeIncButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas:before,
+.dx-acc-r .dxeTBDecBtnHover_ThemeAmaszonas.dxEditors_edtTBDecBtn_ThemeAmaszonas:before,
+.dx-acc-r .dxeTBDecBtnPressed_ThemeAmaszonas.dxEditors_edtTBDecBtn_ThemeAmaszonas:before,
+.dx-acc-r .dxeTBIncBtnHover_ThemeAmaszonas.dxEditors_edtTBIncBtn_ThemeAmaszonas:before,
+.dx-acc-r .dxeTBIncBtnPressed_ThemeAmaszonas.dxEditors_edtTBIncBtn_ThemeAmaszonas:before,
+.dx-acc-r .dxeTrackBar_ThemeAmaszonas.dxeDisabled_ThemeAmaszonas .dxEditors_edtTBDecBtn_ThemeAmaszonas:before,
+.dx-acc-r .dxeTrackBar_ThemeAmaszonas.dxeDisabled_ThemeAmaszonas .dxEditors_edtTBIncBtn_ThemeAmaszonas:before,
+.dx-acc-r .dxgvFocusedRow_ThemeAmaszonas .dxEditors_edtRadioButtonChecked_ThemeAmaszonas:before
+
+{
+    content: url('sprite.svg');
+
+}
+.dx-acc-r .dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtClear_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -31px;
+
+}
+.dx-acc-r .dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtDropDown_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -33px;
+
+}
+.dx-acc-r .dxeButtonEditButtonHover_ThemeAmaszonas .dxEditors_edtEllipsis_ThemeAmaszonas:before
+
+{
+    left: -255px;
+    top: -394px;
+
+}
+.dx-acc-r .dxeButtonEditButtonPressed_ThemeAmaszonas .dxEditors_edtDropDown_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -44px;
+
+}
+.dx-acc-r .dxeButtonEditButtonPressed_ThemeAmaszonas .dxEditors_edtEllipsis_ThemeAmaszonas:before
+
+{
+    left: -187px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_caRefresh_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -197px;
+
+}
+.dx-acc-r .dxEditors_edtBinaryImageDelete_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_edtBinaryImageOpenDialog_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -252px;
+
+}
+.dx-acc-r .dxEditors_edtCalendarFNNextYear_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: 0px;
+
+}
+.dx-acc-r .dxEditors_edtCalendarFNPrevYear_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -142px;
+
+}
+.dx-acc-r .dxEditors_edtCalendarNextMonth_ThemeAmaszonas:before
+
+{
+    left: -395px;
+    top: -184px;
+
+}
+.dx-acc-r .dxEditors_edtCalendarNextMonthDisabled_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -103px;
+
+}
+.dx-acc-r .dxEditors_edtCalendarNextYear_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -116px;
+
+}
+.dx-acc-r .dxEditors_edtCalendarNextYearDisabled_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -171px;
+
+}
+.dx-acc-r .dxEditors_edtCalendarPrevMonth_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -129px;
+
+}
+.dx-acc-r .dxEditors_edtCalendarPrevMonthDisabled_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -155px;
+
+}
+.dx-acc-r .dxEditors_edtCalendarPrevYear_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -77px;
+
+}
+.dx-acc-r .dxEditors_edtCalendarPrevYearDisabled_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -90px;
+
+}
+.dx-acc-r .dxEditors_edtClear_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -315px;
+
+}
+.dx-acc-r .dxEditors_edtDETSClockFace_ThemeAmaszonas:before
+
+{
+    left: -197px;
+    top: 0px;
+
+}
+.dx-acc-r .dxEditors_edtDETSHourHand_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -197px;
+
+}
+.dx-acc-r .dxEditors_edtDETSMinuteHand_ThemeAmaszonas:before
+
+{
+    left: -197px;
+    top: -197px;
+
+}
+.dx-acc-r .dxEditors_edtDETSSecondHand_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: 0px;
+
+}
+.dx-acc-r .dxEditors_edtDropDown_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -66px;
+
+}
+.dx-acc-r .dxEditors_edtDropDownDisabled_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -55px;
+
+}
+.dx-acc-r .dxEditors_edtEllipsis_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_edtEllipsisDisabled_ThemeAmaszonas:before
+
+{
+    left: -136px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_edtError_ThemeAmaszonas:before
+
+{
+    left: -221px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_edtRadioButtonChecked_ThemeAmaszonas:before
+
+{
+    left: -415px;
+    top: -315px;
+
+}
+.dx-acc-r .dxEditors_edtRadioButtonCheckedDisabled_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -273px;
+
+}
+.dx-acc-r .dxEditors_edtRadioButtonUnchecked_ThemeAmaszonas:before
+
+{
+    left: -415px;
+    top: -294px;
+
+}
+.dx-acc-r .dxEditors_edtRadioButtonUncheckedDisabled_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -294px;
+
+}
+.dx-acc-r .dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas:before
+
+{
+    left: -340px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_edtSpinEditDecrementImageDisabled_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -242px;
+
+}
+.dx-acc-r .dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -23px;
+
+}
+.dx-acc-r .dxEditors_edtSpinEditIncrementImageDisabled_ThemeAmaszonas:before
+
+{
+    left: -360px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas:before
+
+{
+    left: -350px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_edtSpinEditLargeDecImageDisabled_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -222px;
+
+}
+.dx-acc-r .dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -197px;
+
+}
+.dx-acc-r .dxEditors_edtSpinEditLargeIncImageDisabled_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -13px;
+
+}
+.dx-acc-r .dxEditors_edtTBDecBtn_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: 0px;
+
+}
+.dx-acc-r .dxEditors_edtTBIncBtn_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -52px;
+
+}
+.dx-acc-r .dxEditors_edtTokenBoxTokenRemoveButton_ThemeAmaszonas:before
+
+{
+    left: -415px;
+    top: -273px;
+
+}
+.dx-acc-r .dxEditors_edtTokenBoxTokenRemoveButtonDisabled_ThemeAmaszonas:before
+
+{
+    left: -415px;
+    top: -252px;
+
+}
+.dx-acc-r .dxEditors_fcadd_ThemeAmaszonas:before
+
+{
+    left: -255px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcaddhot_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcgroupaddcondition_ThemeAmaszonas:before
+
+{
+    left: -408px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcgroupaddgroup_ThemeAmaszonas:before
+
+{
+    left: -102px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcgroupand_ThemeAmaszonas:before
+
+{
+    left: -51px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcgroupnotand_ThemeAmaszonas:before
+
+{
+    left: -272px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcgroupnotor_ThemeAmaszonas:before
+
+{
+    left: -170px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcgroupor_ThemeAmaszonas:before
+
+{
+    left: -102px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcgroupremove_ThemeAmaszonas:before
+
+{
+    left: -340px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopany_ThemeAmaszonas:before
+
+{
+    left: -34px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcopavg_ThemeAmaszonas:before
+
+{
+    left: -238px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopbegin_ThemeAmaszonas:before
+
+{
+    left: -289px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopbetween_ThemeAmaszonas:before
+
+{
+    left: -289px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcopblank_ThemeAmaszonas:before
+
+{
+    left: -136px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopcontain_ThemeAmaszonas:before
+
+{
+    left: -374px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopcount_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopend_ThemeAmaszonas:before
+
+{
+    left: -17px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcopequal_ThemeAmaszonas:before
+
+{
+    left: -323px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopexists_ThemeAmaszonas:before
+
+{
+    left: -119px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcopgreater_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopgreaterorequal_ThemeAmaszonas:before
+
+{
+    left: -170px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopless_ThemeAmaszonas:before
+
+{
+    left: -306px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcoplessorequal_ThemeAmaszonas:before
+
+{
+    left: -272px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcoplike_ThemeAmaszonas:before
+
+{
+    left: -187px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopmax_ThemeAmaszonas:before
+
+{
+    left: -119px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopmin_ThemeAmaszonas:before
+
+{
+    left: -357px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopnotany_ThemeAmaszonas:before
+
+{
+    left: -323px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcopnotbetween_ThemeAmaszonas:before
+
+{
+    left: -68px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcopnotblank_ThemeAmaszonas:before
+
+{
+    left: -221px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopnotcontain_ThemeAmaszonas:before
+
+{
+    left: -204px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcopnotequal_ThemeAmaszonas:before
+
+{
+    left: -85px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcopnotlike_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcopsum_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcoptypefield_ThemeAmaszonas:before
+
+{
+    left: 0px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcoptypefieldhot_ThemeAmaszonas:before
+
+{
+    left: -204px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcoptypevalue_ThemeAmaszonas:before
+
+{
+    left: -238px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcoptypevaluehot_ThemeAmaszonas:before
+
+{
+    left: -391px;
+    top: -394px;
+
+}
+.dx-acc-r .dxEditors_fcremove_ThemeAmaszonas:before
+
+{
+    left: -153px;
+    top: -411px;
+
+}
+.dx-acc-r .dxEditors_fcremovehot_ThemeAmaszonas:before
+
+{
+    left: -306px;
+    top: -411px;
+
+}
+.dx-acc-r .dxeSpinDecButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -212px;
+
+}
+.dx-acc-r .dxeSpinDecButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditDecrementImage_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -345px;
+
+}
+.dx-acc-r .dxeSpinIncButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -355px;
+
+}
+.dx-acc-r .dxeSpinIncButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditIncrementImage_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -374px;
+
+}
+.dx-acc-r .dxeSpinLargeDecButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas:before
+
+{
+    left: -423px;
+    top: -232px;
+
+}
+.dx-acc-r .dxeSpinLargeDecButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditLargeDecImage_ThemeAmaszonas:before
+
+{
+    left: -425px;
+    top: -394px;
+
+}
+.dx-acc-r .dxeSpinLargeIncButtonHover_ThemeAmaszonas .dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas:before
+
+{
+    left: -370px;
+    top: -411px;
+
+}
+.dx-acc-r .dxeSpinLargeIncButtonPressed_ThemeAmaszonas .dxEditors_edtSpinEditLargeIncImage_ThemeAmaszonas:before
+
+{
+    left: -398px;
+    top: -384px;
+
+}
+.dx-acc-r .dxeTBDecBtnHover_ThemeAmaszonas.dxEditors_edtTBDecBtn_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -110px;
+
+}
+.dx-acc-r .dxeTBDecBtnPressed_ThemeAmaszonas.dxEditors_edtTBDecBtn_ThemeAmaszonas:before
+
+{
+    left: -408px;
+    top: -168px;
+
+}
+.dx-acc-r .dxeTBIncBtnHover_ThemeAmaszonas.dxEditors_edtTBIncBtn_ThemeAmaszonas:before
+
+{
+    left: -408px;
+    top: -365px;
+
+}
+.dx-acc-r .dxeTBIncBtnPressed_ThemeAmaszonas.dxEditors_edtTBIncBtn_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -336px;
+
+}
+.dx-acc-r .dxeTrackBar_ThemeAmaszonas.dxeDisabled_ThemeAmaszonas .dxEditors_edtTBDecBtn_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -139px;
+
+}
+.dx-acc-r .dxeTrackBar_ThemeAmaszonas.dxeDisabled_ThemeAmaszonas .dxEditors_edtTBIncBtn_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -81px;
+
+}
+.dx-acc-r .dxgvFocusedRow_ThemeAmaszonas .dxEditors_edtRadioButtonChecked_ThemeAmaszonas:before
+
+{
+    left: -394px;
+    top: -231px;
+
+}
