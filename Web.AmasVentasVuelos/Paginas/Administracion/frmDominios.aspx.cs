@@ -367,7 +367,8 @@ namespace Web.AmasVentasVuelos.Paginas.Administracion
             string codigo = idDominio.Split('|')[1].ToString();
             string descripcion = idDominio.Split('|')[2].ToString();
             string caracter = idDominio.Split('|')[3].ToString();
-
+            string numerico = idDominio.Split('|')[4].ToString();
+            string caracter_extra = idDominio.Split('|')[5].ToString();
             _ComboTipoDominio.Visible = false;
             _TextoDominio.Visible = true;
             _EsDominio = rdlTipoDominio.SelectedIndex == 0 ? true : false;
@@ -377,6 +378,9 @@ namespace Web.AmasVentasVuelos.Paginas.Administracion
             txtDominio.Text = dominio;
             txtCodigo.Text = codigo;
             txtDescripcion.Text = descripcion;
+            txtValorCaracter.Text = caracter;
+            txtValorCaracterExtra.Text = caracter_extra;
+            spnValorNumerico.Text = numerico;
             txtCodigo.Enabled = _EsDominio ? true : false;
             ddlTipoDominio.Enabled = _EsDominio ? true : false;
         }

@@ -155,9 +155,15 @@
                                         </dx:GridViewDataTextColumn>
                                         <dx:GridViewDataTextColumn Caption="DESCRIPCION" FieldName="descripcion" Name="DESCRIPCION" VisibleIndex="2">
                                         </dx:GridViewDataTextColumn>
-                                        <dx:GridViewDataTextColumn Caption="#" VisibleIndex="3">
+                                          <dx:GridViewDataTextColumn Caption="VALOR_CARACTER" FieldName="valor_caracter" Visible="true" VisibleIndex="3">
+                                        </dx:GridViewDataTextColumn>
+                                        <dx:GridViewDataTextColumn Caption="VALOR NUMERICO" FieldName="valor_numerico" Visible="true" VisibleIndex="4">
+                                        </dx:GridViewDataTextColumn>
+                                        <dx:GridViewDataTextColumn Caption="VALOR EXTRA" FieldName="valor_caracter_extra" Visible="true" VisibleIndex="5">
+                                        </dx:GridViewDataTextColumn>
+                                        <dx:GridViewDataTextColumn Caption="#" VisibleIndex="6">
                                             <DataItemTemplate>
-                                                 <asp:LinkButton ID="btnModificar" class="btn btn-icon btn-rounded btn-outline-warning !important" runat="server" OnCommand="btnModificar_Command" CommandArgument='<%# Eval("dominio") +"|"+ Eval("codigo")+"|"+ Eval("descripcion")  +"|"+ Eval("valor_caracter")%>'>
+                                                 <asp:LinkButton ID="btnModificar" class="btn btn-icon btn-rounded btn-outline-warning !important" runat="server" OnCommand="btnModificar_Command" CommandArgument='<%# Eval("dominio") +"|"+ Eval("codigo")+"|"+ Eval("descripcion")  +"|"+ Eval("valor_caracter")+"|"+ Eval("valor_numerico")+"|"+ Eval("valor_caracter_extra")%>'>
                                                             <i class="feather icon-edit-2"></i>                                    
                                                 </asp:LinkButton>
                                                 <asp:LinkButton ID="btnEliminar" class="btn btn-icon btn-rounded btn-outline-danger !important" runat="server" OnCommand="btnEliminar_Command" CommandArgument='<%# Eval("dominio") +"|"+ Eval("codigo") %>'>
@@ -165,12 +171,7 @@
                                                 </asp:LinkButton>
                                             </DataItemTemplate>
                                         </dx:GridViewDataTextColumn>
-                                        <dx:GridViewDataTextColumn Caption="VALOR_CARACTER" FieldName="valor_caracter" Visible="False" VisibleIndex="4">
-                                        </dx:GridViewDataTextColumn>
-                                        <dx:GridViewDataTextColumn Caption="VALOR NUMERICO" FieldName="valor_numerico" Visible="False" VisibleIndex="5">
-                                        </dx:GridViewDataTextColumn>
-                                        <dx:GridViewDataTextColumn Caption="VALOR EXTRA" FieldName="valor_caracter_extra" Visible="False" VisibleIndex="6">
-                                        </dx:GridViewDataTextColumn>
+                                      
                                     </Columns>
                                 </dx:ASPxGridView>
                             </div>
